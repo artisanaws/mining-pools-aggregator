@@ -1,6 +1,6 @@
 # source: https://raw.githubusercontent.com/Marfjeh/coinhive-block/master/domains
 # full repo: https://github.com/Marfjeh/coinhive-block
-# pulled: 2021-02-21 12:40:21.133931
+# pulled: 2022-11-25 
 # original file starts below the ### line
 #
 ################################################################################

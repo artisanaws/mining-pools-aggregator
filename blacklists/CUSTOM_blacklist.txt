@@ -3,5 +3,13 @@
 
 ethereum.org
 bitcoin.org
-test11
-test22
+arweave.org
+ethereumpow.org
+dogecoin.com
+litecoin.com
+getmonero.org
+bitcoincash.org
+bitcoinsv.com
+z.cash
+e.cash
+dash.org
