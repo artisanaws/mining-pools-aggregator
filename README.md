@@ -61,7 +61,7 @@ There's a few lists that I found but that didn't make the cut saved into `exclud
 
 - Add urls to blacklist into `blacklists/CUSTOM_blacklist.txt`
 - Add urls to whitelist into `whitelists/CUSTOM_whitelist.txt`
-- To add new sources, create a file in either `blacklists` or `whitelists` folder then either paste your list directly, or if you're pulling from a url paste the url onto the first line. Python will do the rest to pull the contents and populate the file. Be sure to post the raw link (ie without html) - see current files for inspiration.  
+- To add new sources, create a file in either `blacklists` or `whitelists` folder then either paste your list directly, or if you're pulling from a url paste the url onto the first line. Python will do the rest to pull the contents and populate the file. Be sure to post the raw link (ie without html) - see current files for inspiration.
 
  
 ## Credits
