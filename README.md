@@ -1,14 +1,11 @@
 # Crypto mining pools aggregator (domains + IPs)
 
 ## Description
-Simple tool that aggregates all the crypto mining pool lists I was able to find online. Includes both domains and IPs.
+Simple tool that aggregates all the crypto mining pool lists I was able to find online. As of November 2022, it includes all of the top 20 mining pools (by hashrate) for the 11 largest POW blockchains.
 
 Outputs:
 - Aggregate top level domains list (`lists/tlds.txt`) ~10k lines
-- Aggregate domains with subdomains list (`lists/urls.txt`) ~130k lines
-- Aggregate IPs list (`lists/ips.txt`) ~10k lines
-- Aggregate CIDRs list (`lists/cidrs.txt`) ~10k lines
-- Aggregate Hosts file (`hosts/hosts`) ~140k lines
+- Uses the `tlds.txt` file to create a second list that includes a wildcard covering all subdomains (`lists/subdomains.txt`) ~10k lines
  
 ## Installation
 
@@ -20,7 +17,7 @@ Outputs:
 
 #### TL;DR;
 
-You can use the files in `hosts` and `lists` folders as is.
+You can use the files in the `lists` folder as is.
 
 To refresh sources and re-aggregate lists run: 
 
@@ -32,8 +29,8 @@ Give it some time (around 20min on 2018 13" MacBook Pro.)
 
 Output:
 ```
-> DONE. Lists generated and contain 9885 TLDs, 131566 URLs and 8270 IPs.
-> DONE. Hosts file generated and contains 141451 items.
+> DONE. Lists generated and contain 9885 TLDs.
+> DONE. List of subdomains generated. It contains 9885 subdomains.'
 ```
 
 #### Under the hood
@@ -44,14 +41,11 @@ pipenv run python generate_lists.py
 aggregates all files in blacklists folder into one, subtracts anything from whitelists folder, deduplicates, orders alphabetically. Output saved in `lists` folder. 
 
 ```
-pipenv run python generate_ips_from_lists.py
-```
-uses the files generated in previous steps and attempts to find IP addresses for each of the urls in those files. Output saved back into `blacklists` folder under names `ips_from_tlds` and `ips_from_urls`.
 
 ```
-pipenv run python generate_hosts.py
+pipenv run python generate_subdomains.py
 ``` 
-aggregates `tlds` and `urls` into a single `hosts` file with `0.0.0.0` prefixed on each line.
+Makes a duplicate of the list created by the generate_lists.py file and prefixes all domains with `*.` This second list is required in order to block both the root domain (ie example.com) and all of its subdomains (ie cyptomining.example.com).
 
 `helpers.py` is where most of the logic lives. Functions are commented and should be self-explanatory.
 
@@ -76,9 +70,6 @@ Ordered alphabetically:
 - [eladmen](https://www.catonetworks.com/blog/the-crypto-mining-threat)
 - [firebog](https://firebog.net/)
 - [hoshsadiq/adblock-nocoin-list](https://github.com/hoshsadiq/adblock-nocoin-list)
+- [ilmoi/mining-pools-aggregator](https://github.com/ilmoi/mining-pools-aggregator)
 - [Marfjeh/coinhive-block](https://github.com/Marfjeh/coinhive-block)
 - [ZeroDot1/CoinBlockerLists](https://gitlab.com/ZeroDot1/CoinBlockerLists)
-
-## Contributions
-
-Welcome. Just issue a PR.
