@@ -1,0 +1,12 @@
+*.ethereum.org
+*.bitcoin.org
+*.arweave.org
+*.ethereumpow.org
+*.dogecoin.com
+*.litecoin.com
+*.getmonero.org
+*.bitcoincash.org
+*.bitcoinsv.com
+*.z.cash
+*.e.cash
+*.dash.org
