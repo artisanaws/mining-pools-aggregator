@@ -38,9 +38,7 @@ Output:
 ```
 pipenv run python generate_lists.py
 ```
-aggregates all files in blacklists folder into one, subtracts anything from whitelists folder, deduplicates, orders alphabetically. Output saved in `lists` folder. 
-
-```
+aggregates all files in blacklists folder into one, subtracts anything from whitelists folder, deduplicates, orders alphabetically. Output saved in `lists` folder.
 
 ```
 pipenv run python generate_subdomains.py
