@@ -7,3 +7,16 @@ localhost
 1.1.1.1
 test22
 *.co.uk
+*.co.bb
+*.co.ck
+*.co.cr
+*.co.in
+*.co.id
+*.co.il
+*.co.jp
+*.co.nz
+*.co.za
+*.co.kr
+*.co.th
+*.co.ve
+*.com.au
