@@ -10,6 +10,9 @@ tldextract = "*"
 ipy = "*"
 requests = "*"
 boto3 = "*"
+BeautifulSoup4 = "*"
+pandas = "*"
+urllib = "*"
 
 [requires]
 python_version = "3"
