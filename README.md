@@ -1,15 +1,15 @@
 # Crypto mining pools aggregator (domains + IPs)
 
 ## Description
-Simple tool that aggregates all the crypto mining pool lists I was able to find online. As of November 2022, it includes all of the top 20 mining pools (by hashrate) for the 11 largest POW blockchains.
+Simple tool that aggregates all the crypto mining pool lists I was able to find online. As of April 2023, it includes all of the top 20 mining pools (by hashrate) for the 11 largest POW blockchains.
 
 Outputs:
-- Aggregate top level domains list (`lists/tlds.txt`) ~10k lines
-- Uses the `tlds.txt` file to create a second list that includes a wildcard covering all subdomains (`lists/subdomains.txt`) ~10k lines
+- Aggregate top level domains list (`lists/tlds.txt`) ~11k lines
+- Uses the `tlds.txt` file to create a second list that includes a wildcard covering all subdomains (`lists/subdomains.txt`) ~11k lines
  
 ## Installation
 
-1. Make sure you have python `3.x` on your system.
+1. Make sure you have python `3.8` on your system.
 2. `pip install pipenv` if you don't have it already.
 3. `cd` into the dir and run `pipenv install`.
  
@@ -38,12 +38,8 @@ Output:
 ```
 pipenv run python generate_lists.py
 ```
-aggregates all files in blacklists folder into one, subtracts anything from whitelists folder, deduplicates, orders alphabetically. Output saved in `lists` folder.
+aggregates all files in blacklists folder into one, subtracts anything from whitelists folder, deduplicates, orders alphabetically. Output saved in `lists` folder. The script then makes a duplicate of the list and prefixes all domains with `*.` This second list is required in order to block both the root domain (ie example.com) and all of its subdomains (ie cyptomining.example.com).
 
-```
-pipenv run python generate_subdomains.py
-``` 
-Makes a duplicate of the list created by the generate_lists.py file and prefixes all domains with `*.` This second list is required in order to block both the root domain (ie example.com) and all of its subdomains (ie cyptomining.example.com).
 
 `helpers.py` is where most of the logic lives. Functions are commented and should be self-explanatory.
 

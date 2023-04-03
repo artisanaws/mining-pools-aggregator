@@ -1,9 +1,36 @@
+ <a href="">Reload<.
+ GitHub Gist.
+ To review, open the file in an editor that reveals hidden Unicode characters.
+&copy; 2023 GitHub, Inc.
+.Star
 000webhostapp.com
+011Z"><.
 01xmrpool.com
+042Z"><.
+06 0Z"><.
+06Z"><.
 0769.it
 0880.ml
 0cash.org
 0x1f4b0.com
+0xch.club
+1" width="16" data-view-component="true" class="octicon octicon-alert">.
+1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none m-2">.
+1" width="16" data-view-component="true" class="octicon octicon-check select-menu-item-icon">.
+1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon">.
+1" width="16" data-view-component="true" class="octicon octicon-code-square color-fg-muted">.
+1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">.
+1" width="16" data-view-component="true" class="octicon octicon-git-branch">.
+1" width="16" data-view-component="true" class="octicon octicon-git-commit">.
+1" width="16" data-view-component="true" class="octicon octicon-question select-menu-item-icon">.
+1" width="16" data-view-component="true" class="octicon octicon-repo-forked">.
+1" width="16" data-view-component="true" class="octicon octicon-star">.
+1" width="16" data-view-component="true" class="octicon octicon-x">.
+1" width="24" data-view-component="true" class="octicon octicon-mark-github v-align-middle d-inline-block d-md-none">.
+1" width="24" data-view-component="true" class="octicon octicon-mark-github">.
+1" width="24" data-view-component="true" class="octicon octicon-three-bars">.
+1" width="37" data-view-component="true" class="octicon octicon-logo-gist v-align-middle d-none d-md-inline-block">.
+1" width="67" data-view-component="true" class="octicon octicon-logo-github v-align-middle d-none d-md-inline-block">.
 1-9-90.com
 1-hash.com
 100-3x.com
@@ -48,6 +75,7 @@
 120cycle.net
 120profit.com
 123unlock.nl
+123xch.com
 12dailycoin.com
 12dailycoins.com
 12finance.com
@@ -61,11 +89,14 @@
 15bit.biz
 15coin.com
 168pool.com
+175btc.com
+1769.it
 17btc.cl
 18-plus.net
 180tradeoption.com
 1beb2a44.space
 1centbtc.com
+1coinpool.com
 1crypto.net
 1dailycoin.com
 1daybtc.com
@@ -86,11 +117,13 @@
 1millionusd.biz
 1paycoin.com
 1pileofcrap.co
+1pool.org
 1q2w3.fun
 1q2w3.me
 1q2w3.top
 1q2w3.website
 1safe.link
+1square.net
 1stghs.com
 1stminingpool.com
 1stpool.com
@@ -109,8 +142,10 @@
 20dailycoin.biz
 20dailycoin.com
 20hours.biz
+21.co
 210proclub.com
 212btc.com
+21chia.com
 21e2bfefb8.pw
 247bitcoins.net
 247cryptoearns.net
@@ -126,9 +161,14 @@
 24pays.com
 251coins.com
 258.com
+25Z"><.
 25mining.ru
+2769.it
 2bitcoin.biz
 2btc.io
+2cash.org
+2ch-pool.com
+2chpool.cc
 2chrup56.ru
 2dayforex.com
 2doublecoin.co
@@ -140,10 +180,13 @@
 2hoursbitcoin.com
 2k20.tk
 2ledhenone.com
+2mars.biz
 2miners.com
 2miners.ru
+2miningpool.com
 2passiveincome.com
 2pool.club
+2pools.eu
 2speedymatrix.com
 2x.mo
 2x2club.com
@@ -154,10 +197,12 @@
 2xbits.com
 2xbtc.eu
 2xcoin.tk
+2xeth.pro
 2y.net
 2zo.pw
 3-dolphins.com
 300ca0d0.space
+30btc.org
 310ca263.space
 320ca3f6.space
 330ca589.space
@@ -168,34 +213,45 @@
 355shares.com
 360caa42.space
 365deposit.com
+365ghs.pro
 365hourly.com
 36f46a0b49.pw
 370cabd5.space
 38coins.com
+398ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"><.
 3bitday.biz
 3business.com
 3c0cb3b4.space
 3coin.biz
 3d0cb547.space
+3ei.xyz
 3linesforwin.co
 3profit.com
 3qpool.com
+3squadmining.org
 3xbitco.in
 42.pl
+427Z"><.
 42v3.io
 4421c3cc09dd55967f9534aabeafa73e.cf
 4480.org
 494bitcoins.com
+4assets.digital
 4btc.pw
 4dayprofit.com
 4finance.biz
 4fortune.biz
 4ge.org
+4i7i.com
 4kmine.com
 4max4.com
 4miner.me
+4minerspool.com
 4x75.biz
 4xbtc.pw
+5 0 0 0 5 0Z"><.
+5 0Z"><.
+5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"><.
 500-btc.com
 50btc.com
 50btc.om
@@ -203,10 +259,13 @@
 50or500.com
 50payments.com
 51pool.online
+520fjh.org
 52hash.com
 56xbtc.com
 572133.club
+58-8 8-8Z"><.
 58coin.com
+5Z"><.
 5b6b7b.ru
 5bit.biz
 5bitearn.com
@@ -222,16 +281,21 @@
 65today.com
 666666sy.com
 666pool.cn
+666pool.com
+694Z"><.
 6block.com
 6litrcrypto.com
 6ow9rhxtolls.gq
 6tsbe1zs.me
 6union.net
+6x.to
 72xbtc.com
+748pz.net
 760btc.biz
 769.it
 777bitcoi.in
 777payouts.com
+78Z"><.
 7blockchain.net
 7btc.io
 7ci.ru
@@ -251,6 +315,7 @@
 880.ml
 88coin.biz
 8a66446ab5.pw
+8baochi.com
 8bit.lt
 8dailycoin.com
 8jd2lfsq.me
@@ -263,9 +328,306 @@
 99mining.cl
 9deposit.com
 9returns.com
+<!-- '"` --><!-- <.
+<!-- Rendered timeline since 2023-02-10 09.
+<!DOCTYPE html>.
+<.
+<a aria-label="Homepage" title="GitHub" class="footer-octicon mr-2" href="https.
+<a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-0 border-top border-md-top-0 border-white-fade" data-ga-click="Header, sign in" data-hydro-click="{&quot;event_type&quot;.
+<a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-0 border-top border-md-top-0 border-white-fade" data-ga-click="Header, sign up" data-hydro-click="{&quot;event_type&quot;.
+<a class="Header-link mr-0 mr-md-3 py-2 py-md-0 border-top border-md-top-0 border-white-fade" data-ga-click="Header, go to GitHub, text.
+<a class="Header-link mr-0 mr-md-3 py-2 py-md-0 border-top border-md-top-0 border-white-fade" data-ga-click="Header, go to all gists, text.
+<a class="Header-link no-underline mr-3" data-ga-click="Header, sign in" data-hydro-click="{&quot;event_type&quot;.
+<a class="Header-link" data-hotkey="g d" aria-label="Gist Homepage " href=".
+<a class="btn btn-sm btn-block tooltipped tooltipped-n" aria-label="You must be signed in to star a gist" rel="nofollow" data-hydro-click="{&quot;event_type&quot;.
+<a class="btn btn-sm btn-with-count tooltipped tooltipped-n" aria-label="You must be signed in to fork a gist" rel="nofollow" data-hydro-click="{&quot;event_type&quot;.
+<a class="btn btn-sm btn-with-count tooltipped tooltipped-n" aria-label="You must be signed in to star a gist" rel="nofollow" data-hydro-click="{&quot;event_type&quot;.
+<a class="btn btn-sm tooltipped tooltipped-s tooltipped-multiline js-remove-unless-platform" data-platforms="windows,mac" aria-label="Save jordan-wright.
+<a class="btn btn-sm" rel="nofollow" data-hydro-click="{&quot;event_type&quot;.
+<a class="js-selected-navigation-item UnderlineNav-item" data-pjax="true" data-hotkey="g f" data-selected-links="gist_forks.
+<a class="js-selected-navigation-item UnderlineNav-item" data-pjax="true" data-hotkey="g r" data-selected-links="gist_revisions.
+<a class="js-selected-navigation-item UnderlineNav-item" data-pjax="true" data-hotkey="g s" data-selected-links="gist_stars.
+<a class="js-selected-navigation-item selected UnderlineNav-item" data-pjax="true" data-hotkey="g c" aria-current="page" data-selected-links="gist_code.
+<a class="mr-2 flex-shrink-0" data-hovercard-type="user" data-hovercard-url=".
+<a class="social-count" aria-label="4 users starred this gist" href=".
+<a class="wb-break-all" href=".
+<a href=".
+<a href="https.
+<a name="comments"><.
+<a rel="nofollow" class="btn btn-primary" data-hydro-click="{&quot;event_type&quot;.
+<a rel="nofollow" data-hydro-click="{&quot;event_type&quot;.
+<a role="link" class="select-menu-item select-menu-action" href="https.
+<body class="logged-out env-production page-responsive" style="word-wrap.
+<button autofocus class="flash-close js-flash-close" type="button" aria-label="Dismiss this message">.
+<button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>.
+<button name="button" type="button" class="select-menu-item width-full" aria-checked="true" role="menuitemradio" value="&lt;script src=&quot;https.
+<button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">.
+<clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w">.
+<clipboard-copy for="gist-share-url" aria-label="Copy to clipboard" class="btn btn-sm zeroclipboard-button" data-hydro-click="{&quot;event_type&quot;.
+<details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default hx_rsm" open>.
+<details class="details-reset details-overlay select-menu">.
+<details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal">.
+<div aria-atomic="true" role="alert" class="js-flash-alert">.
+<div class="Header js-details-container Details flex-wrap flex-md-nowrap p-responsive" role="banner" >.
+<div class="Header-item Header-item--full flex-justify-center d-md-none position-relative">.
+<div class="Header-item Header-item--full js-site-search flex-column flex-md-row width-full flex-order-2 flex-md-order-none mr-0 mr-md-3 mt-3 mt-md-0 Details-content--hidden-not-important d-md-flex">.
+<div class="Header-item d-md-none">.
+<div class="Header-item d-none d-md-flex">.
+<div class="Header-item f4 mr-0" role="navigation">.
+<div class="Popover js-hovercard-content position-absolute" style="display.
+<div class="Popover-message Popover-message--bottom-left Popover-message--large Box color-shadow-large" style="width.
+<div class="UnderlineNav-body">.
+<div class="container-lg px-3">.
+<div class="d-block d-md-none px-3 px-md-3 px-lg-5 mb-3">.
+<div class="d-flex flex-column width-full">.
+<div class="d-flex flex-justify-center pb-6">.
+<div class="d-flex flex-md-row flex-column px-0 pr-md-3 px-lg-5">.
+<div class="d-flex flex-row width-full">.
+<div class="d-flex">.
+<div class="d-lg-table d-none">.
+<div class="d-md-flex d-none flex-items-center flex-md-order-2 flex-order-1 file-navigation-options" data-multiple>.
+<div class="d-md-flex d-none">.
+<div class="d-none d-md-block">.
+<div class="discussion-timeline-actions">.
+<div class="file-actions flex-order-2 pt-0">.
+<div class="file-header d-flex flex-md-items-center flex-items-start">.
+<div class="file-info pr-4 d-flex flex-md-items-center flex-items-start flex-order-1 flex-auto">.
+<div class="file-navigation-option v-align-middle">.
+<div class="flash flash-full   {{ className }}">.
+<div class="flex-auto min-width-0 width-fit mr-3">.
+<div class="flex-md-order-1 flex-order-2 flex-auto">.
+<div class="gist-detail-intro gist-banner pb-3">.
+<div class="gisthead pagehead pb-0 pt-3 mb-4">.
+<div class="header-search flex-self-stretch flex-md-self-auto mr-0 mr-md-3 mb-3 mb-md-0">.
+<div class="header-search-wrapper form-control input-sm js-chromeless-input-container">.
+<div class="input-group">.
+<div class="input-group-button">.
+<div class="js-check-bidi js-blob-code-container blob-code-content">.
+<div class="js-discussion ".
+<div class="js-gist-file-update-container js-task-list-container file-box">.
+<div class="js-stale-session-flash flash flash-warn flash-banner" hidden.
+<div class="list-style-none d-flex flex-wrap col-0 col-lg-2 flex-justify-start flex-lg-justify-between mb-2 mb-lg-0">.
+<div class="mb-3 d-flex px-3 px-md-3 px-lg-5">.
+<div class="ml-2 file-navigation-option">.
+<div class="ml-2">.
+<div class="ml-md-6 pl-md-3 ml-0 pl-0">.
+<div class="mt-2 mt-lg-0 d-flex flex-items-center">.
+<div class="note m-0">.
+<div class="octocat-spinner my-6 js-details-dialog-spinner"><.
+<div class="position-relative d-flex flex-items-center pb-2 f6 color-fg-muted border-top color-border-muted flex-column-reverse flex-lg-row flex-wrap flex-lg-nowrap mt-6 pt-6">.
+<div class="position-relative js-header-wrapper ">.
+<div class="px-0">.
+<div class="px-2" >.
+<div class="repository-content gist-content" >.
+<div class="select-menu-header">.
+<div class="select-menu-item-text">.
+<div class="select-menu-list">.
+<div class="text-center container-lg px-3">.
+<div class="zeroclipboard-container position-absolute right-0 top-0">.
+<div data-turbo-body class="logged-out env-production page-responsive" style="word-wrap.
+<div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">.
+<div data-view-component="true" class="flash flash-warn mt-3">.
+<div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters.
+<div id="ajax-error-message" class="ajax-error-message flash flash-error" hidden>.
+<div id="file-cryptocurrency_mining_list-txt" class="file my-2">.
+<div id="js-flash-container" data-turbo-replace>.
+<div id="js-global-screen-reader-notice" class="sr-only" aria-live="polite" ><.
+<div id="partial-timeline-marker".
+<div id="start-of-content" class="show-on-focus"><.
+<div itemprop="about">.
+<div itemprop="text" class="Box-body p-0 blob-wrapper data type-text  gist-border-0">.
+<div itemscope itemtype="http.
+<div.
+<div>.
+<div>{{ message }}<.
+<footer class="footer width-full container-lg p-responsive" role="contentinfo">.
+<h1 class="wb-break-word f3 text-normal mb-md-0 mb-1">.
+<h2 class='sr-only'>Footer<.
+<h3 class='sr-only' id='sr-footer-heading'>Footer navigation<.
+<head>.
+<html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark" data-a11y-animated-images="system">.
+<include-fragment class="js-notification-shelf-include-fragment" data-base-src="https.
+<input type="text".
+<input.
+<li class="mr-3 mr-lg-0"><a data-analytics-event="{&quot;category&quot;.
+<li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to help, text.
+<li class="mr-3 mr-lg-0"><a href="https.
+<li>.
+<li><a data-ga-click="Footer, go to about, text.
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https.
+<link href=".
+<link rel="alternate icon" class="js-site-favicon" type="image.
+<link rel="assets" href="https.
+<link rel="dns-prefetch" href="https.
+<link rel="fluid-icon" href="https.
+<link rel="icon" class="js-site-favicon" type="image.
+<link rel="mask-icon" href="https.
+<link rel="preconnect" href="https.
+<link rel="search" type="application.
+<main id="gist-pjax-container">.
+<meta charset="utf-8">.
+<meta http-equiv="x-pjax-csp-version" content="2a84822a832da97f1ea76cf989a357ec70c85713a2fd8f14c8421b76bbffe38c" data-turbo-track="reload">.
+<meta http-equiv="x-pjax-css-version" content="4348eaad052c579eeef923d5acd5631e65f863303fac28c0e8f3a5189ae13379" data-turbo-track="reload">.
+<meta http-equiv="x-pjax-js-version" content="137c05854476c0ee2497f2d78fceddad9bf9bf183e043c148b43667b5f563d64" data-turbo-track="reload">.
+<meta http-equiv="x-pjax-version" content="4dc2d459f232a27bb3f144ee631100eabb14f1bb12eec80c20009accb448c079" data-turbo-track="reload">.
+<meta name="analytics-location" content=".
+<meta name="apple-itunes-app" content="app-id=1477376905".
+<meta name="browser-errors-url" content="https.
+<meta name="browser-optimizely-client-errors-url" content="https.
+<meta name="browser-stats-url" content="https.
+<meta name="color-scheme" content="light dark".
+<meta name="current-catalog-service-hash" content="56253a530ab9027b25719525dcbe6007461a3202218f6f5dfce5a601c121cbcb">.
+<meta name="enabled-features" content="TURBO_EXPERIMENT_RISKY,IMAGE_METRIC_TRACKING,GEOJSON_AZURE_MAPS,ENHANCED_ISSUE_SUGGESTER,ENHANCED_ISSUE_SUGGESTER_DARKSHIP,ACTIONS_SIGNALR_RECONNECT_JITTER">.
+<meta name="github-keyboard-shortcuts" content="" data-turbo-transient="true".
+<meta name="google-site-verification" content="Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I">.
+<meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">.
+<meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">.
+<meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">.
+<meta name="google-site-verification" content="c1kuD-K2HIVF635lypcsWPoD4kilo5-jA_wBFyT4uMY">.
+<meta name="octolytics-dimension-public" content="true".
+<meta name="octolytics-url" content="https.
+<meta name="request-id" content="B400.
+<meta name="route-pattern" content=".
+<meta name="selected-link" value="gist_code" data-turbo-transient>.
+<meta name="theme-color" content=".
+<meta name="turbo-body-classes" content="logged-out env-production page-responsive">.
+<meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">.
+<meta name="twitter.
+<meta name="user-login" content="">.
+<meta name="viewport" content="width=device-width">.
+<meta property="fb.
+<meta property="og.
+<nav aria-label="Global" class="d-flex flex-column flex-md-row flex-self-stretch flex-md-self-auto">.
+<nav aria-label='footer' class="col-12 col-lg-8">.
+<nav class="UnderlineNav box-shadow-none px-3 px-lg-0 ".
+<p class="lead">.
+<relative-time tense="past" datetime="2023-02-10T17.
+<script crossorigin="anonymous" defer="defer" type="application.
+<span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">.
+<span class="Button-label">Raw<.
+<span class="author"><a data-hovercard-type="user" data-hovercard-url=".
+<span class="description">.
+<span class="f6 color-fg-muted"><.
+<span class="mr-1">.
+<span class="select-menu-item-heading" data-menu-button-text>.
+<span class="select-menu-title">What would you like to do.
+<span data-view-component="true" class="progress-pjax-loader Progress position-fixed width-full">.
+<span style="width.
+<span title="2" data-view-component="true" class="Counter hx_reponav_item_counter">2<.
+<span title="4" data-view-component="true" class="Counter hx_reponav_item_counter">4<.
+<span>.
+<strong class="user-select-contain gist-blob-name css-truncate-target">.
+<strong>to join this conversation on GitHub<.
+<summary data-ga-click="Repository, clone Embed, location.
+<summary role="button" aria-label="Close dialog"><.
+<td id="file-cryptocurrency_mining_list-txt-L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"><.
+<td id="file-cryptocurrency_mining_list-txt-L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"><.
+<td id="file-cryptocurrency_mining_list-txt-L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"><.
+<td id="file-cryptocurrency_mining_list-txt-L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"><.
+<td id="file-cryptocurrency_mining_list-txt-L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"><.
+<td id="file-cryptocurrency_mining_list-txt-L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"><.
+<td id="file-cryptocurrency_mining_list-txt-L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"><.
+<td id="file-cryptocurrency_mining_list-txt-L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"><.
+<td id="file-cryptocurrency_mining_list-txt-L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"><.
+<td id="file-cryptocurrency_mining_list-txt-L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"><.
+<td id="file-cryptocurrency_mining_list-txt-L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"><.
+<td id="file-cryptocurrency_mining_list-txt-L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"><.
+<td id="file-cryptocurrency_mining_list-txt-L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"><.
+<td id="file-cryptocurrency_mining_list-txt-L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"><.
+<td id="file-cryptocurrency_mining_list-txt-L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"><.
+<td id="file-cryptocurrency_mining_list-txt-L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"><.
+<td id="file-cryptocurrency_mining_list-txt-L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"><.
+<td id="file-cryptocurrency_mining_list-txt-L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"><.
+<td id="file-cryptocurrency_mining_list-txt-L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"><.
+<td id="file-cryptocurrency_mining_list-txt-L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"><.
+<td id="file-cryptocurrency_mining_list-txt-L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"><.
+<td id="file-cryptocurrency_mining_list-txt-L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"><.
+<td id="file-cryptocurrency_mining_list-txt-L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"><.
+<td id="file-cryptocurrency_mining_list-txt-L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"><.
+<td id="file-cryptocurrency_mining_list-txt-L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"><.
+<td id="file-cryptocurrency_mining_list-txt-L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"><.
+<td id="file-cryptocurrency_mining_list-txt-L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"><.
+<td id="file-cryptocurrency_mining_list-txt-L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"><.
+<td id="file-cryptocurrency_mining_list-txt-L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"><.
+<td id="file-cryptocurrency_mining_list-txt-L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"><.
+<td id="file-cryptocurrency_mining_list-txt-L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"><.
+<td id="file-cryptocurrency_mining_list-txt-L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"><.
+<td id="file-cryptocurrency_mining_list-txt-L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"><.
+<td id="file-cryptocurrency_mining_list-txt-L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"><.
+<td id="file-cryptocurrency_mining_list-txt-L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"><.
+<td id="file-cryptocurrency_mining_list-txt-L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"><.
+<td id="file-cryptocurrency_mining_list-txt-L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"><.
+<td id="file-cryptocurrency_mining_list-txt-L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"><.
+<td id="file-cryptocurrency_mining_list-txt-L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"><.
+<td id="file-cryptocurrency_mining_list-txt-L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"><.
+<td id="file-cryptocurrency_mining_list-txt-L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"><.
+<td id="file-cryptocurrency_mining_list-txt-L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"><.
+<td id="file-cryptocurrency_mining_list-txt-L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"><.
+<td id="file-cryptocurrency_mining_list-txt-L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"><.
+<td id="file-cryptocurrency_mining_list-txt-L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"><.
+<td id="file-cryptocurrency_mining_list-txt-L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"><.
+<td id="file-cryptocurrency_mining_list-txt-L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"><.
+<td id="file-cryptocurrency_mining_list-txt-L52" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="52"><.
+<td id="file-cryptocurrency_mining_list-txt-L53" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="53"><.
+<td id="file-cryptocurrency_mining_list-txt-L54" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="54"><.
+<td id="file-cryptocurrency_mining_list-txt-L55" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="55"><.
+<td id="file-cryptocurrency_mining_list-txt-L56" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="56"><.
+<td id="file-cryptocurrency_mining_list-txt-L57" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="57"><.
+<td id="file-cryptocurrency_mining_list-txt-L58" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="58"><.
+<td id="file-cryptocurrency_mining_list-txt-L59" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="59"><.
+<td id="file-cryptocurrency_mining_list-txt-L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"><.
+<td id="file-cryptocurrency_mining_list-txt-L60" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="60"><.
+<td id="file-cryptocurrency_mining_list-txt-L61" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="61"><.
+<td id="file-cryptocurrency_mining_list-txt-L62" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="62"><.
+<td id="file-cryptocurrency_mining_list-txt-L63" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="63"><.
+<td id="file-cryptocurrency_mining_list-txt-L64" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="64"><.
+<td id="file-cryptocurrency_mining_list-txt-L65" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="65"><.
+<td id="file-cryptocurrency_mining_list-txt-L66" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="66"><.
+<td id="file-cryptocurrency_mining_list-txt-L67" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="67"><.
+<td id="file-cryptocurrency_mining_list-txt-L68" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="68"><.
+<td id="file-cryptocurrency_mining_list-txt-L69" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="69"><.
+<td id="file-cryptocurrency_mining_list-txt-L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"><.
+<td id="file-cryptocurrency_mining_list-txt-L70" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="70"><.
+<td id="file-cryptocurrency_mining_list-txt-L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"><.
+<td id="file-cryptocurrency_mining_list-txt-L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"><.
+<template class="js-file-alert-template">.
+<template class="js-flash-template">.
+<template class="js-line-alert-template">.
+<template id="site-details-dialog">.
+<template id="snippet-clipboard-copy-button">.
+<title>Cryptocurrency Mining Domain List · GitHub<.
+<tr>.
+<ul class="d-md-flex d-none pagehead-actions float-none">.
+<ul class="list-style-none d-flex flex-wrap col-12 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0" aria-labelledby='sr-footer-heading'>.
+>.
+><span class="mx-1 color-fg-muted">.
+><strong itemprop="name" class="css-truncate-target mr-1" style="max-width.
+Already have an account.
+Clone via.
+Clone with Git or checkout with SVN using the repository’s web address.
+Code.
+Copy sharable link for this gist.
+Cryptocurrency Mining Domain List.
+Embed this gist in your website.
+Embed.
+Fork.
+Forks.
+HTTPS.
+Instantly share code, notes, and snippets.
+Last active.
+Learn more about clone URLs.
 MoneroOcean.stream
+Revisions.
+Share.
+Sign in.
+Sign up.
+Sign&nbsp;in.
+Sign&nbsp;up.
+Stars.
+You can’t perform that action at this time.
 a-ads.com
 a-o.ninja
+a-xbt.com
 a1tfx.com
 a37ubfu6nmjxzcff.onion
 aaeqlxdgx.bid
@@ -273,6 +635,7 @@ aajychvi.bid
 aalbbh84.info
 aanvxbvkdxph.com
 aaomstbnbiqo.com
+aapix.pw
 aapool.cn
 aapool.org
 aapxtnrhq.bid
@@ -313,10 +676,16 @@ acashtech.com
 acc-pool.pw
 accessadv.com
 accra.sy
+accure.tech
+aceark.pro
 aceminers.com
+acepool.top
 aceprofits.net
+achia.co
+acidpool.co.uk
 acidpool.com
 aclsqdpgeaik.com
+acmining.us
 acnsavlosahs.com
 acpool.me
 acpool.pro
@@ -362,6 +731,7 @@ adolfcoin.camp
 adplusplus.fr
 adr.com.ua
 adrenali.gq
+adriaticpool.com
 adrive.com
 adrtgbebgd.bid
 adudzlhdjgof.com
@@ -403,6 +773,7 @@ afbfoxmwzlqa.com
 afdjljiyagf.ru
 afdyfxfrwbfy.com
 afedispdljgb.com
+affixwallet.net
 affshopcj.com
 aflcdijgmr.bid
 afminer.com
@@ -443,6 +814,7 @@ ahvnvtxbk.bid
 ahwjxktemuyz.com
 ahyuzjgukqyd.com
 ahzybvwdwrhi.com
+aichia.cn
 aicrgbnswhc.bid
 aidswin.org
 aiiaqehoqgrj.com
@@ -502,6 +874,7 @@ albionunion.com
 alcfund.com
 aleinvest.xyz
 alemoney.xyz
+alepool.org
 alexainvest.com
 alfa-bitcoin.com
 alfie.com
@@ -511,6 +884,7 @@ alflying.date
 alflying.win
 alfmine.com
 algkebjdgafa.com
+algoe.xyz
 algorithmbit.com
 alidnquxirv.bid
 aliexpress103.cf
@@ -547,7 +921,9 @@ alreum.com
 alt4coin.tr
 altavista.ovh
 altcoin-mining.eu
+altcoin-pool.online
 altcoin.farm
+altcoinbuilders.com
 altcoincash.xyz
 altcoiner.net
 altcoinix.com
@@ -561,6 +937,7 @@ altcoinshour.com
 altcoinwarz.com
 altenen.com
 altenergo.net
+alterdot.network
 alternatepool.com
 althash.eu
 althashers.com
@@ -572,12 +949,14 @@ altoequity.com
 altpool.eu
 altpool.pro
 altpools.com
+altprominer.com
 altradecoin.com
 altriacoin.com
 altsbit.com
 alttank.ca
 altusfund.com
 alvonstore.com
+always.vip
 alwaysbtc.net
 alwayshashing.com
 alwaysinprofit.com
@@ -589,8 +968,10 @@ amazing5.net
 amazingbitcoin.org
 amazingbtcdeposit.com
 amazingdeposit.com
+amazingsystems.nl
 amazonaws.com
 amazonhash.com
+amberescoin.com
 ambis.biz
 amdhlyqfy.bid
 amerextrade.com
@@ -598,6 +979,7 @@ amerty.cc
 amhixwqagiz.ru
 amhpbhyxfgvd.com
 amigacoin.org
+aminingpool.com
 amjbzzicysu.bid
 amlyrket.bid
 ammqwpksb.bid
@@ -623,18 +1005,23 @@ angtqemchz.bid
 animeteatr.ru
 aninvestment.net
 anjjyewywjw.bid
+ankrpool.com
 anleqthwxxns.com
 anluecyopslm.com
+annopool.online
 anobtc.com
 anogjkubvdfe.com
+anomp.cc
 anomp.com
 anonlancer.com
 anonymousinvestment.com
 anorak.tech
 anoufpjmkled.com
+anpool.io
 antarfund.com
 antex.cl
 anthercurrency.com
+antimonycoin.com
 antiquesinv.com
 antminecloud.com
 antminepool.com
@@ -661,6 +1048,7 @@ anyuwksovtwv.com
 anzfinance.com
 aod-tech.com
 aofxqchnbtae.bid
+aoipool.net
 aommsolutions.com
 aomvdhxvblfp.com
 aoqpvhstmc.bid
@@ -673,6 +1061,7 @@ aoyfhtarolgemn.bid
 apainvest.biz
 apbwldhfuvnk.com
 apdrive.win
+ape.capital
 apex-crypto.com
 apexinvestcenter.com
 apextop.cc
@@ -684,6 +1073,8 @@ apmgzzaej.bid
 apmkcdsnv.bid
 apollocurrency.com
 apollofinanceltd.com
+apool.space
+apool.us
 appelamule.com
 apple-bitcoin.com
 applecoin.li
@@ -714,6 +1105,7 @@ arab-autobank.com
 arab-goldmining.com
 arab-miners.com
 arab-oilwell.com
+arabianchain.org
 aramoney.si
 arawegnvvufy.com
 arbitgo.com
@@ -723,24 +1115,37 @@ arbitragecoins.com
 arbitragefinance.net
 arbitraging.co
 arcpool.com
+arctic-crypto.com
 arcticcoin.org
 arcticrise.com
 ardexfunds.com
 arfttojxv.com
 argakiig.us
+argeadpool.com
+argenpool.org
 argobyte.com
 argoneum.net
 argusminer.ca
 arhash.xyz
+aria-label="2 users forked this gist">.
+aria-label="Clone this repository at &lt;script src=&quot;https.
+aria-label="Gist".
+aria-label="Search".
+arielcoin.org
+arielpool.shop
 arikado.ru
 arionumpool.com
 arisebit.biz
 arizona-miner.tk
 ark.io
+arkjust.info
+arkrich.net
 arloxpiosxzjw.bid
+armornetwork.org
 aro.cool
 aromine.io
 aropool.com
+aroxaro.de
 arprijxrml.bid
 arqma.com
 arqxpopcywrr.bid
@@ -753,6 +1158,7 @@ arsmine.com
 arstechnica.com
 artus-mining.de
 arux-money.com
+arweave.org
 arxerlxllv.bid
 aryacoin.io
 as-shop.su
@@ -765,6 +1171,7 @@ ashour.biz
 ashtart.io
 ashwlrtiazee.com
 asia-funding.com
+asia-pool.com
 asiabits.com
 asiacoin.co
 asiacryptobank.com
@@ -777,6 +1184,7 @@ asic-minerworld.com
 asic-store.com
 asicbit-pool.ru
 asichardware.ga
+asicminer.co
 asicminermarket.com
 asicminersmarket.com
 asicminingequipment.com
@@ -813,6 +1221,7 @@ ataufekxogxr.com
 atcyboopajyp.com
 atebqbjh.bid
 atelcominer.com
+aterx.com
 atfunds.net
 ath.cx
 atheios.com
@@ -829,6 +1238,7 @@ atm2you.com
 atmbtc.biz
 atomicbitcoin.com
 atomminer.com
+atospool.com
 atotum.ru
 atpool.party
 atticlab.net
@@ -840,6 +1250,7 @@ augvtjtnsfnxg.ru
 auiehechoulh.ru
 aurapool.xyz
 auroracoin.eu
+auroracoin.is
 auroracoin.org
 auroraeos.com
 auroramine.biz
@@ -847,9 +1258,13 @@ auroramine.com
 aurum-bank.com
 aurum7.to
 auryfxunion.com
+ausminers.com
+ausmtpool.finance
 aussie-pools.com
 aussiefund.biz
+aussieminingpools.com
 austpool.com
+australiacash.org
 authcaptcha.com
 authedmine.com
 authedmine.eu
@@ -862,6 +1277,9 @@ autobitcoinminer.com
 autobits.tr
 autobtcbuilder.com
 autobtcminer.com
+autocapitalize="off">.
+autocomplete="off".
+autocorrect="off".
 autocryptobank.com
 autofaucet.io
 autohash.tr
@@ -891,6 +1309,7 @@ averoconnector.com
 avfymwmwpky.com
 avis-mining.co.uk
 avlysyhuvxebl.bid
+avn.network
 avokvnpqunol.bid
 avptczdpdh.bid
 avriopool.xyz
@@ -918,6 +1337,7 @@ awxjpkxoqfwaj.bid
 axaggthnkquj.com
 axbpixbcucv.bid
 axbsdoysiogrrc.bid
+axecore.net
 axeninja.pl
 axeobgnsk.com
 axepool.com
@@ -943,7 +1363,10 @@ azfmulmqcz.bid
 azhdgruuvllzxg.com
 azkvcgzjsrmk.com
 azlbmpidrvnoi.bid
+azpool.org
+azpool.win
 azqmmfhmfnpsvb.bid
+azrelix.com
 azroydhgqcfv.com
 azvjudwr.info
 b1.ru
@@ -951,11 +1374,14 @@ b2bcoin.xyz
 b3pool.com
 babelpool.com
 bablace.com
+babycoin.dev
 backends.bid
 backup-pool.com
 backup-pool1.com
 bacm.ro
+bacmpool.com
 badgmvhtvryg.bid
+badhasher.com
 bagerpool.com
 bagoojzsqygg.com
 baiaclwdpztd.com
@@ -967,9 +1393,11 @@ bakjtxvku.bid
 balamrobots.com
 balkanminingpool.com
 bandaomodel.com
+bandexcoin.com
 baommitouduxo.bid
 barflyghlcdj.website
 barrelc.wtf
+barrelcrudecoin.com
 basementpool.org
 basepush.com
 batigfkcbwpb.com
@@ -985,6 +1413,7 @@ bayunblocked.eu
 baywttgdhe.do
 baywttgdhe.download
 bb2eeaed0f.pw
+bbanc.com
 bbbrhcxtdkfui.bid
 bbcpool.io
 bbheuxcancwj.com
@@ -992,15 +1421,18 @@ bbkxmpgjwo.bid
 bblznptpffqc.com
 bbmkyxvxiw.bid
 bbqipbsg.bid
+bbqpool.org
 bbqqjejhd.bid
 bbtlombqjr.bid
 bbzwbxchqgph.com
+bchain.info
 bchmaster.xyz
 bchsolo.club
 bckmtidcnrobwh.bid
 bcmonster.com
 bcnikicdi.bid
 bcoavtimgn.bid
+bcodepool.com
 bcpcoin.com
 bcpool.io
 bcxdjxlassr.bid
@@ -1018,11 +1450,13 @@ beagamer.club
 beahh.com
 beancloud.pro
 beardpool.rocks
+beastminingpool.co.uk
 beastminingpool.com
 beatingbytes.com
 bebufuspldzh.com
 becanium.com
 beeeeer.org
+beepool.com
 beepool.org
 beeppool.org
 beertendr.com
@@ -1034,20 +1468,25 @@ befxqicnz.bid
 begbkbqywd.bid
 beget.tech
 beghfkrygvxp.com
+beginpool.com
 begxhuqfrx.bid
 behjgnhniasz.com
 behybmunweid.com
 bektvxxfv.bid
 belicimo.pw
 bellsyscdn.com
+bellyflop.club
+bepooh.com
 berateveng.ru
 berserkpl.net.pl
+besafepool.com
 besocial.online
 besstahete.info
 best-cdn.pl
 best-game.xyz
 best-p2pool.eu
 bestETNpool.com
+bestchia.farm
 bestcoinsignals.com
 bestetnpool.com
 besti.ga
@@ -1057,6 +1496,7 @@ bestonlineserial.ru
 bestpool.me
 bestpoolminer.cc
 bestsecurepractice.com
+bestsrv.de
 bestxmrpool.com
 betandwinornot.com
 betweenblocks.org
@@ -1095,16 +1535,22 @@ bhyqllgtzjee.com
 bhzejltg.info
 bi-chi.com
 biberukalap.com
+bibipool.com
 biblepay.org
 bibop.net
+bid<.
+bidenpool.com
 biftbtajfs.bid
 big4u.org
 bigdatacash.online
 biggame1.xyz
 bigmine.org
+bignode.xyz
 bigoupai.live
+bigshoots.net
 bijo-style.cf
 bijo.style
+bikdor-invest.com
 billiecoin.green
 binance.associates
 binance.auction
@@ -1140,15 +1586,20 @@ binm.ml
 binm.tk
 binm.xyz
 binqg.xyz
+biopool.green
+biopool.tk
+birkenstock-polska.com
 birpidnl.com
 bis-pool.io
 bit34.com
 bitaccess.co
+bitalo.com
 bitapool.com
 bitaps.com
 bitbackoffice.com
 bitbucket.io
 bitcanna.io
+bitcatra.com
 bitclockers.com
 bitclub.bz
 bitclub.network
@@ -1156,23 +1607,35 @@ bitclubnetwork.com
 bitclubpool.com
 bitcoad.fun
 bitcoal.io
+bitcoin-cashcard.com
+bitcoin-cashcard.de
+bitcoin-cashcard.eu
 bitcoin-doubler.us
 bitcoin-game.de
 bitcoin-india.org
 bitcoin-mining.fans
 bitcoin-pay.eu
+bitcoin-pocket.de
+bitcoin-pocket.eu
 bitcoin-pool.de
 bitcoin-pool.fr
 bitcoin-rebooted.xyz
 bitcoin-russia.ru
+bitcoin-server.cf
 bitcoin-server.de
 bitcoin-ukraine.com.ua
+bitcoin.bg
 bitcoin.com
 bitcoin.cz
 bitcoin.de
 bitcoin.it
 bitcoinaffiliatenetwork.com
+bitcoinatom.io
+bitcoincash.org
+bitcoincloud.net
+bitcoincore.dev
 bitcoindark.ca
+bitcoindeluxe.org
 bitcoiner.win
 bitcoinethereum.eu
 bitcoinflex.org
@@ -1185,13 +1648,19 @@ bitcoinminers.eu
 bitcoinmonkey.com
 bitcoinmono.io
 bitcoinn.biz
+bitcoinofamerica.org
 bitcoinpool.com
 bitcoinpool.eu
+bitcoinpos.pw
 bitcoinrh.org
 bitcoinrigs.org
 bitcoins.lc
+bitcoins.sk
 bitcoinscrypt.org
 bitcoinsfor.me
+bitcoinsv.com
+bitcoinvg.net
+bitcoinvisuals.com
 bitcoinwallet.com
 bitcoinz.ph
 bitcoinzguiding.ovh
@@ -1204,6 +1673,8 @@ bitday.biz
 bitdeer.com
 bitdharma.com
 bitember.com
+bitetimes.fishing
+bitfex.trade
 bitfinex.com
 bitfury.com
 bitgrail.com
@@ -1220,13 +1691,16 @@ bitmining.zone
 bitminter.com
 bitnex.io
 bitnodes.io
+bitoreum.org
 bitpanda.com
 bitparking.com
 bitpay.com
 bitpool.pro
 bitpool.ro
 bitpoolmining.com
+bitsolo.net
 bitspace.no
+bitspiritfun2.net
 bitstamp.me
 bitstar-platform.online
 bittank.club
@@ -1243,6 +1717,7 @@ bittrex.team
 bittrex.tools
 bittrexbtc.com
 bittube.app
+bittubeapp.com
 bittylicious.com
 bitultra.io
 bitzfree.com
@@ -1250,7 +1725,9 @@ biwjfwhxoy.bid
 bixbite.pro
 bixin.com
 bixin.im
+biz<.
 bizoninvest.com
+bizxmr.cc
 bjdfckchzsa.bid
 bjenzpojtgvo.club
 bjfxcvebjrcuce.bid
@@ -1286,6 +1763,7 @@ blake2s.com
 blazepool.com
 blckchnd.com
 bleachx.ru
+bliksempool.com
 blnxyqdnsl.bid
 bloc-developer.com
 bloc-explorer.com
@@ -1313,6 +1791,7 @@ blockchauin.info
 blockcooperation.com
 blockcruncher.com
 blockcrushers.xyz
+blockdiggers.net
 blockfind.me
 blockfinders.co.uk
 blockfoundry.org
@@ -1328,14 +1807,82 @@ blockmuncher.com
 blockpioneers.pw
 blockquarry.com
 blocksofchain.net
+blocktrail.com
 blockwarepool.com
 blocphi-phi-pool.com
+blogspot.ae
+blogspot.al
+blogspot.am
+blogspot.ba
+blogspot.be
+blogspot.bg
+blogspot.ca
+blogspot.ch
+blogspot.cl
+blogspot.co.at
+blogspot.co.id
+blogspot.co.il
+blogspot.co.ke
+blogspot.co.nz
+blogspot.co.uk
+blogspot.co.za
 blogspot.com
+blogspot.com.ar
+blogspot.com.au
+blogspot.com.br
+blogspot.com.by
+blogspot.com.co
+blogspot.com.cy
+blogspot.com.ee
+blogspot.com.eg
+blogspot.com.es
+blogspot.com.mt
+blogspot.com.ng
+blogspot.com.tr
+blogspot.com.uy
+blogspot.cz
+blogspot.de
+blogspot.dk
+blogspot.fi
+blogspot.fr
+blogspot.gr
+blogspot.hk
+blogspot.hr
+blogspot.hu
+blogspot.ie
 blogspot.in
+blogspot.is
+blogspot.it
+blogspot.jp
+blogspot.kr
+blogspot.li
+blogspot.lt
+blogspot.lu
+blogspot.md
+blogspot.mk
+blogspot.mx
+blogspot.my
+blogspot.nl
+blogspot.no
+blogspot.pe
+blogspot.pt
+blogspot.qa
+blogspot.ro
+blogspot.rs
+blogspot.ru
+blogspot.se
+blogspot.sg
+blogspot.si
+blogspot.sk
+blogspot.sn
+blogspot.tw
+blogspot.ug
 blokspace.io
+blonblocks.xyz
 blorgkjhbhoqr.bid
 blrdumgvqkmq.com
 bluematt.me
+bluepool.io
 bluerockpools.net
 bluewpool.io
 blvqxlczxeda.com
@@ -1350,6 +1897,7 @@ bmmqsdyud.com
 bmnadutub.ru
 bmnccwprdrszpj.bid
 bmnr.pw
+bmpool.org
 bmpx.pw
 bmsmhlpkdvajeo.bid
 bmst.pw
@@ -1379,7 +1927,9 @@ boldprivate.network
 bolgooltxygp.com
 bomjrcum.bid
 boompool.ru
+boquetetech.net
 bot.tips
+botpool.net
 bottlecapspool.com
 bowithow.com
 bowqvvztlkzn.com
@@ -1406,7 +1956,9 @@ bqqjowpigdnx.com
 bqscwtvpvugopg.com
 bqyphmwr.bid
 bqytfutmwulr.com
+braiins.com
 bravo-mining.com
+bravopool.com
 breadapp.com
 brfiles.com
 briqumvlvzshh.com
@@ -1445,9 +1997,12 @@ btcc.com
 btcchina.com
 btccluster.com
 btccpooleos.com
+btcd.io
 btcdig.com
 btcguild.com
+btcmill.cc
 btcmine.com
+btcmining.live
 btcmp.com
 btcnos.com
 btcpmine.com
@@ -1462,12 +2017,15 @@ btcprivate.pro
 btcprivatepool.cl
 btcprivatepool.club
 btcprominer.life
+btcserv.net
 btcturk.com
 btcwkbqojiyg.com
 btcwulf.com
 btcz.app
 btcz.city
 btczpool.com
+btfg.space
+btg.io
 btgirl.com.cn
 btgmaster.xyz
 btgmine.com
@@ -1482,6 +2040,7 @@ bthmine.site
 btjxbwiehrm.bid
 btkaoblylg.bid
 btkcdqrzmqca.com
+btocks.com
 btpgbmvlk.bid
 btsimocheozy.bid
 btvdzlkg.bid
@@ -1491,10 +2050,14 @@ buauaamx.bid
 bubblemine.com
 budyxjttmjkf.com
 bufqrxzyrecf.com
+bugminer.org
 buhxsaifjxupaj.com
 buildteam.io
 buitxcrnucyi.com
 bulehero.in
+bulgariapool.com
+bullcpupool.com
+bullexchange.xyz
 burst-alliance.org
 burst-team.us
 burstcoin.de
@@ -1502,6 +2065,7 @@ burstcoin.me
 burstcoin.ml
 burstcoin.ro
 burstcoin.space
+burstcoin.website
 burstl.net
 burstmarketplace.com
 burstneon.com
@@ -1511,6 +2075,10 @@ burstpool.de
 burvyzqwfqg.bid
 buskerudtracker.info
 butcalve.com
+buterin-merge.com
+buterin-pump.com
+buterin-vitalik.com
+butpool.xyz
 butterflylabs.com
 buyandfun.review
 bvevgygeu.bid
@@ -1545,6 +2113,7 @@ bydbjtaoy.bid
 byecttekgbksr.bid
 byetho5t4.co
 byethost4.com
+byinesscoin.com
 bylt.gq
 bymyneknm.bid
 byoftdngsqjezw.bid
@@ -1557,6 +2126,7 @@ bytecoin.pt
 bytecoin.uk
 bytecoins.world
 bytepool.com
+bytepool.org
 byxlzyvfgb.bid
 bzeidqugwde.bid
 bzfguipyjops.com
@@ -1564,10 +2134,13 @@ bzgwkxnjqjdz.com
 bzlvolaqiy.bid
 bznmgijglbpr.com
 bzyrhqbdldds.com
+bzzfarm.com
 c-cex.com
+c-pool.net
 c0banpool.com
 c0i8h8ac7e.bid
 c1d2.com
+c1pzo.com
 c3pool.com
 cacpcaizwx.bid
 cadulscdfhtcb.bid
@@ -1578,10 +2151,13 @@ camillesanz.com
 candid.zone
 canoepool.com
 capodannoinversilia.com
+capung.xyz
+carbonyte.io
 cardgenix.com
 carpecrypto.me
 carrel.services
 carsxardivaf.com
+cartompool.com
 casadocodigo.gq
 casadocodigo.tk
 cash.org
@@ -1589,7 +2165,10 @@ cash2.de
 cash2pool.us
 cashbeet.com
 catalanscoin.cat
+catch-pool.com
 catecoinpool.host
+catfarmer.me
+catpool.io
 catspool.org
 cawcwpvmpcje.com
 cbehcazifywmro.bid
@@ -1600,17 +2179,21 @@ cbxadrwlccrky.bid
 cbxqceuuwnaz.com
 cc-poolz.com
 cc.st
+cc<.
 ccabzumewfk.bid
 ccaypkuiauizuh.bid
+cccpool.net
 cccytihi.bid
 ccefzhxgobjm.com
 ccminer.org
 ccmoxtwauruz.bid
 ccmpool.ro
+ccpool.io
 ccscpyeeiqhs.bid
 ccvewygyjqbq.bid
 ccvwtdtwyu.tr
 ccvwtdtwyu.trade
+cd<.
 cda.pl
 cdbxuzzlgfhh.com
 cddlngatmpthc.bid
@@ -1626,6 +2209,7 @@ cdncounter.top
 cdnfile.xyz
 cdns.ws
 cdtojdrhoc.bid
+cducoin.org
 cdy.one
 cecked.men
 celasllc.com
@@ -1633,10 +2217,11 @@ celcoin.io
 centralcavern.uk
 centrys.io
 cep-k.work
+cesspoolz.site
 cesxssavc.com
 cewviaslxyyr.com
 cex.io
-cf2giga.link
+cf<.
 cfcdist.gd
 cfcdist.gdn
 cfcdist.loan
@@ -1644,6 +2229,7 @@ cfcnet.gdn
 cfcnet.to
 cfcnet.top
 cfdmkifknsjt.com
+cfpool.eu
 cfsdtzggpcmr.com
 cfyvrgvopaejx.com
 cgbemyws.bid
@@ -1660,26 +2246,83 @@ chainworksindustries.com
 chainz.ge
 challengecoin.io
 champmine.de
+champmine.xyz
 changelly.com
 chaucha.cl
 checkingsite.site
 chekazpools.com
+chia-apool.top
+chia-bank.ru
+chia-core.com
+chia-farm.de
+chia-faucet.com
+chia-mining-pool.de
+chia-network.io
+chia-plot.com
+chia-pool.io
+chia-pool.site
+chia-pooling.com
+chia-tech.co
+chia-unlimited.com
+chia.garden
+chia.kr
+chia.net
+chia.net.ua
+chia2pool.com
+chia98.net
+chiabatta.xyz
+chiacalculator.com
+chiachill.ru
+chiacoin.fr
+chiacoinvn.net
+chiadecentral.com
+chiafarm.land
+chiafarm.services
+chiaflower.com
+chiagold.org
+chiahub.io
+chialand.net
+chialatam.net
+chiamine.dev
+chiamine.org
+chianet.farm
+chianetspace.com
+chiaop.com
+chiapool.global
+chiapool.hu
+chiapool.ninja
+chiapool.ru
+chiapooling.com.sg
+chiapools.net
+chiapoolturkiye.com
+chiapw.space
+chiarex.net
+chiasuisse.com
+chiatk.com
+chiaua.com
+chiaunited.com
+chiaxch.net
+chiayy.com
 chickenkiller.com
 chickenpool.com
 chileminers.cl
 chimachinenow.com
 chinaenter.cn
+chivespool.com
 chiybszey.bid
 chmproxy.bid
 chnvilhrmeaw.bid
 chqulqxfghdz.com
 chr0xy.xyz
 chrm1.xyz
+chunguscoin.net
 chunkypools.com
 chuvzwxbpf.bid
 chyfjrkstyzl.bid
 chytrrvwvabg.com
 chzashakbgds.com
+chzldev.xyz
+chzllab.com
 chzlpool.tk
 ciaszbncdj.bid
 cibmcziio.bid
@@ -1696,6 +2339,7 @@ cipherpool.io
 cirquity.com
 cistcrrhqfm.bid
 citex.co.kr
+citylightshashing.com
 cixjiydrsyq.bid
 cjbaeegayainxl.bid
 cjnoeafncyzb.com
@@ -1706,6 +2350,7 @@ ckfctuaga.com
 ckjdnyvcop.bid
 ckjflngcqcfl.bid
 ckjjcarzu.com
+ckos.net
 ckpool.com
 ckpool.org
 ckqfackpj.bid
@@ -1716,6 +2361,11 @@ ckryzlnafwyd.com
 ckxhoidrflu.com
 ckydzwjzbgarz.bid
 ckyxscaeockj.bid
+class="application-main ".
+class="form-control input-monospace input-sm".
+class="form-control input-sm js-site-search-focus header-search-input".
+class="js-timeline-marker js-updatable-content".
+class="select-menu-modal position-absolute".
 classicpool.io
 clawde.xyz
 cledghtdrjtb.com
@@ -1736,6 +2386,7 @@ cliggi.download
 clod.pw
 clokin1.ru
 clomggnzxsyf.bid
+clomining.live
 clona.ru
 cloneempirecryptomining.com
 clonsvyhy.bid
@@ -1745,6 +2396,7 @@ clopool.org
 clopool.pro
 clopool.ru
 clopool.xyz
+clore.ai
 cloud-miner.de
 cloud-miner.eu
 cloud-wp.org
@@ -1763,12 +2415,14 @@ cloudminer.com
 cloudpools.com
 cloudpools.net
 cloudzad.com
+cloverpool.com
 clxakmsyjlryz.bid
 clyksqxxdeduq.bid
 cmdjujqlfbts.com
 cmdnzbuynnm.com
 cmdotgwjhpqf.com
 cmgcoin.io
+cminer.org
 cminors-pool.com
 cmkpool.org
 cmmmine.com
@@ -1798,6 +2452,7 @@ cnyblliqyhcs.bid
 cnygzgurqpwop.bid
 co.cc
 co.pt
+co<.
 coandroid.ru
 cocozuma.net
 code.ws
@@ -1860,6 +2515,7 @@ coinhiver.com
 coinhives.com
 coinhove.com
 coinhub.win
+coinhunters.space
 coinhuntr.com
 coinicles.tech
 coinimp.com
@@ -1870,6 +2526,7 @@ coinjive.com
 coinking.io
 coinlab.biz
 coinlab.com
+coinloot.com
 coinmama.com
 coinmarketcap.com
 coinmarketcat.top
@@ -1905,6 +2562,7 @@ coinroad.net.au
 coins4u.cc
 coins4upool.com
 coinscripts.online
+coinsdev.pl
 coinsecure.in
 coinsforhash.com
 coinsforhash.gq
@@ -1914,6 +2572,7 @@ coinspool.co
 coinsprofit.com
 coinsquirrels.com
 coinstop.me
+cointerra.com
 cointraffic.io
 cointrend.club
 cointweak.com
@@ -1923,19 +2582,25 @@ coinwarz.com
 coinwebmining.com
 coinwire.eu
 coinworker.com
+coinxpool.com
 coinz.pw
 coinzen.pro
 coinzilla.io
 coiphezlzpl.bid
+cojin.info
 cokepool.me
 cokfwpfycgzjvn.bid
 cokrrmzagaxn.com
+coleganet.com
+collective-b.org
 collusion.tech
 colnhive.com
 colorxmr.xyz
+com">.
 com-http.us
 com.de
 com.ru
+com<.
 cominers.org
 comining.io
 commonero.
@@ -1944,9 +2609,13 @@ compool.net
 con-ip.com
 conhive.com
 connectbtc.com
+connecticoinpool.xyz
+contaboserver.net
 cookiescript.info
 cookiescriptcdn.pro
 cool-pool.net
+cool2mine.com
+coolhash.xyz
 coolmine.to
 coolmine.top
 coolmining.club
@@ -1954,13 +2623,19 @@ coolpool.to
 coolpool.top
 coorp.io
 copay.io
+copool.co
+copool.com
 copool.eu
+core-pool.com
 coronacrypto.online
 coronacrypto.site
 coronatoken.org
 cortexmint.com
 cortins.tk
 cortxphssdvc.com
+cosanta.net
+cosmicpool.tk
+covid19crypto.com
 covid19pool.com
 covjoecuzyss.com
 coxgtwdios.bid
@@ -1973,6 +2648,9 @@ cpkbdmkguggh.com
 cplefwvdqkwjev.bid
 cpmjhdfzzu.ga
 cpmjpcefbwqr.com
+cpool.farm
+cpool.us
+cpu-miners.com
 cpu-pool.club
 cpu-pool.com
 cpu-pool.net
@@ -1981,6 +2659,8 @@ cpuchain.org
 cpufan.cl
 cpufan.club
 cpuminerpool.com
+cpumining.club
+cpuminingpool.com
 cpupool.cn
 cpxjivpayggg.com
 cpynfeqyqfby.com
@@ -1993,16 +2673,26 @@ cqoyvpldkmqt.com
 cqskvtpeqcp.bid
 cqsmswwidrn.bid
 cqvbvpxnqqcfwl.bid
+cr2big.xyz
+crabdance.com
 crabs.pro
 crackcrypto.com
 cranepay.io
 crazypool.ca
 crazypool.org
 creadordedinero.com
+creasoft.me
 creyboif.bid
+crimson-pool.com
+crimsonfusion.org
+crionic.org
+criptomerkado.com
+criptomyner.ca
+criptopool.online
 crkliqlyabacgt.bid
 crm-jurine.com
 crnxueioe.bid
+cropcroc.com
 crownplatform.com
 croxdfrdjfnt.com
 crpiucewddag.com
@@ -2014,10 +2704,15 @@ cruqmpwhczna.bid
 cruxpool.com
 crypdough.com
 crypit.net
+cryply-pool.ml
+crypt-o-coin.cash
 crypt-term.net
 cryptaliapool.it
 cryptaloot.pro
+cryptcoins.net
 crypthash.fr
+crypticnetwork.cf
+crypticwizardry.com
 cryptity.com
 cryptmonero.com
 crypto-coins-now.com
@@ -2028,6 +2723,7 @@ crypto-coins.info
 crypto-coins.net
 crypto-court.com
 crypto-daio.co.uk
+crypto-event.world
 crypto-land.net
 crypto-loot.com
 crypto-me.com
@@ -2038,6 +2734,7 @@ crypto-pool.pro
 crypto-pools.org
 crypto-webminer.com
 crypto.ba
+crypto137.com
 crypto4you.ch
 crypto9coin.cf
 cryptoactivo.com
@@ -2051,8 +2748,10 @@ cryptoblocks.site
 cryptobro.eu
 cryptobroker.io
 cryptobrowser.site
+cryptobtcearner.com
 cryptobullionpools.com
 cryptocable.eu
+cryptocaptoday.com
 cryptocartel.one
 cryptocatalyst.net
 cryptocoin.club
@@ -2071,14 +2770,17 @@ cryptocurrencyocean.net
 cryptodig.ru
 cryptodrilling.com
 cryptoescrow.eu
+cryptoescudo.com
 cryptofrenzy.eu
 cryptofriends.org
 cryptogaming.club
+cryptogetr.com
 cryptogreek.cafe
 cryptogrinder.com
 cryptogrot.io
 cryptoguiminer.com
 cryptoguru.org
+cryptohamstr.com
 cryptohispano.net
 cryptohost.top
 cryptohosting.eu
@@ -2093,13 +2795,16 @@ cryptoknight.club
 cryptolions.io
 cryptoloot.pro
 cryptomena.io
+cryptominded.com
 cryptomine.pro
 cryptominer.net
 cryptomineros.com
 cryptominers.xyz
 cryptomininggame.com
 cryptominingpool.eu
+cryptominingpool.xyz
 crypton.cf
+crypton.su
 cryptonator.com
 cryptonaut.org
 cryptonetwork.host
@@ -2113,9 +2818,11 @@ cryptonotepool.org
 cryptonotepool.org.uk
 cryptonoter.com
 cryptonova.eu
+cryptonpool.com
 cryptopay.me
 cryptopay.org.za
 cryptopia.co.nz
+cryptopine.xyz
 cryptopool.at
 cryptopool.ca
 cryptopool.cash
@@ -2124,6 +2831,7 @@ cryptopool.io
 cryptopool.it
 cryptopool.net
 cryptopool.network
+cryptopool.one
 cryptopool.online
 cryptopool.org
 cryptopool.party
@@ -2132,18 +2840,23 @@ cryptopool.ru
 cryptopool.space
 cryptopool.tk
 cryptopool.xyz
+cryptopool24.com
 cryptopoolclub.com
 cryptopoolmining.com
 cryptopoolpond.com
 cryptopools.com
 cryptopools.info
+cryptopools.pl
 cryptopowered.club
 cryptoprizepool.com
 cryptopros.com
 cryptopros.us
+cryptopwr.nl
 cryptoquarry.com.au
 cryptorat.pw
 cryptorescue.org
+cryptorrency.com
+cryptoru.sh
 cryptos-world.de
 cryptosales.eu
 cryptosearch.site
@@ -2153,6 +2866,7 @@ cryptot.cc
 cryptotab.net
 cryptovalley.com
 cryptovein.com
+cryptoverse.eu
 cryptowide.io
 cryptoxpool.com
 crystaleum.org
@@ -2161,6 +2875,7 @@ csdqikvba.bid
 csgocpu.com
 csgoports.com
 cslxhmchzgbx.com
+cspool.space
 csrss.website
 cstdfxkxbqbc.com
 csx.io
@@ -2208,9 +2923,12 @@ cypherglass.com
 cyrirvvrn.com
 cyrrbejq.bid
 cyxagtpeggjv.com
+cz<.
 czcbkaptwfmv.com
 czcydlrnu.com
 czcyppdffuhh.com
+czech.farm
+czechiapool.cz
 czfavkwdmmpp.bid
 czgeitdowtlv.com
 czhtiirf.bid
@@ -2230,15 +2948,19 @@ d-r-k.org
 d2.cc
 d3c0n.net
 d3pool.eu
+d5pool.us
 d7.lt
 d8acddffe978b5dfcae6.date
 dabpool.com
 dacqmkmsjajm.com
 dadllrpazourna.com
+daemoncoins.com
+daepool.com
 daggerpool.com
 dagqnyapwql.bid
 dahakbkwgvwzb.bid
 dajoetsja.com
+danecoin.org
 daohvygdwvj.bid
 daopker.com
 dapool.io
@@ -2246,11 +2968,15 @@ dapool.me
 dapvmnnttetuu.bid
 daqdksam.bid
 dark-mine.su
+dark-utilities.me
+dark-utilities.pw
+dark-utilities.xyz
 darkco.in
 darkcoin.io
 darkcoin.me
 darkcoinp2pool.com
 darkcointalk.org
+darkfibermines.com
 darking01.tk
 darking02.tk
 darking03.tk
@@ -2260,12 +2986,23 @@ darking06.tk
 darking07.tk
 darking08.tk
 darking09.tk
+dascrypto.farm
+dash.org
 dash88.club
 dashhash.pw
 dashjr.org
 dashminer.com
 dashninja.pl
 dashu.gold
+dat2giga.link
+data-autoselect.
+data-commit-hovercards-enabled.
+data-discussion-hovercards-enabled.
+data-hotkey="s,.
+data-issue-and-pr-hovercards-enabled.
+data-last-modified="Fri, 10 Feb 2023 17.
+data-menu-input="gist-share-url".
+data-pjax=".
 datapaw.net
 datasecu.do
 datasecu.download
@@ -2297,6 +3034,7 @@ ddhnjkaojrcv.bid
 ddjodgzhxyjtaa.bid
 ddns.ne
 ddns.net
+ddnsgeek.com
 ddnsking.com
 ddosdev.com
 de-mi-nis-ner.info
@@ -2304,28 +3042,35 @@ de-mi-nis-ner2.info
 de-mining.com
 de-ner-mi-nis4.info
 de-nis-ner-mi-5.info
+de.vu
 debuackedhkvu.bid
 debutech.de
+decapool.net
 dedicatedpool.com
 deepbit.net
 deepc.cc
+deepfields.io
 dehyogsjbk.bid
 deipool.xyz
 dekoder.ws
 delivery1class.download
 deliveryclub-6589.download
+deltacoincore.com
 deltapool.net
 democats.org
 deouvnqbgflv.com
 depttake.ga
 deqrdwsjlpjz.com
 deris.info
+dero.network
 derpqpyvym.bid
+destiny78.xyz
 deutschland-zahlung.eu
 devappgrant.space
 devphp.org.ua
 dexceldesigns.co.uk
 dexim.space
+dezapool.xyz
 dfbtmkwdcajsy.bid
 dfcwecvmjtdj.com
 dfdfjkbcv.net
@@ -2342,6 +3087,7 @@ dgcxsmiavpg.bid
 dgfpsbezfeh.bid
 dggcgurqynie.com
 dgghbqysqzs.bid
+dgir.fr
 dgjlfdvqb.bid
 dgmlubjidcxc.com
 dgnfd564sdf.com
@@ -2370,7 +3116,9 @@ dif123.club
 difzer.com
 digbtc.net
 diggerhash.com
+digiexplorer.info
 digihash.co
+digiminer.co.uk
 digipools.com
 digipools.org
 digital49er.com
@@ -2384,6 +3132,7 @@ dilidili.name
 dinastycoin.com
 dinmbegj.bid
 diqstzzbqin.bid
+direct-energy.ltd
 directprimal.com
 ditcoin.io
 ditouyldfqgt.com
@@ -2396,6 +3145,7 @@ djrkauxla.bid
 djtclldgsocbv.bid
 djxvususwvso.com
 dkadbasc.bid
+dkc.services
 dkdnvbueigxs.bid
 dkfdpglo.com
 dkgdinrubwxro.bid
@@ -2439,10 +3189,14 @@ dodopool.com
 dodwnkpzaned.com
 doge.st
 dogechain.info
+dogecoin.com
 dogecoin.dog
 dogehouse.org
+dogejones.com
 dogemaster.xyz
 dogeminer.cc
+dogpool.co
+dogpool.one
 dohhehsgnxfl.com
 doiljgzpurycgx.bid
 doipool.com
@@ -2450,8 +3204,11 @@ doko.moe
 doljrizlsem.bid
 dolphingamers.com
 doma.ws
+domain.
 domdtvbhgg.com
 dontmine.me
+donttbeevils.de
+dook.xyz
 dopeblocks.com
 dorama.site
 douangvwl.com
@@ -2467,8 +3224,10 @@ dovltuzibsfs.com
 down0116.info
 dpallyihgtgu.com
 dpkdwhfdrvxzcr.bid
+dpool.cc
 dpool.to
 dpool.top
+dpooltop.com
 dpos.af
 dpqytzwxohcd.bid
 dprdhzofq.bid
@@ -2478,6 +3237,8 @@ dqkeldpjzq.bid
 dqpamcouthqv.com
 dqpywdubbxih.com
 dqusbshqrtv.bid
+dragonpool.vip
+dragonpuddle.com
 drawpad.org
 drbwugautcgh.com
 drdvvfgqzwkutc.bid
@@ -2514,6 +3275,7 @@ dubijsirwtwq.com
 dubzmzpdkddi.com
 duchmcmpmqqu.com
 duckdns.org
+duckiepool.com
 dueybqnkkhzdh.bid
 dugipools.org
 duhqtjmftpxrmn.bid
@@ -2543,6 +3305,7 @@ dxkhboqrrimy.bid
 dxmhkisurxxxhm.ru
 dxokxbrfl.bid
 dxpool.com
+dxpool.net
 dxtveuux.com
 dxurtngzawwe.com
 dyazeqpeoykf.com
@@ -2569,6 +3332,7 @@ e-libra.ru
 e-pool.net
 e-scavo.net.ar
 e-waluty.net.pl
+e.cash
 e4pool.com
 e9658544844.pro
 eaaqsama.com
@@ -2584,6 +3348,7 @@ easticoin.io
 easticoin.org
 eastshoretrade.ml
 easy2mine.com
+easychiapool.com
 easygatepr.bid
 easyhash.de
 easyhash.io
@@ -2601,12 +3366,18 @@ ebtcpool.com
 ecac.io
 eccsyytbe.bid
 ecflhhxp.bid
+echia.io
 echo-terminal.org
 echoalphapool.com
 eclipsemc.com
+ecochia.io
+ecochia.net
 ecoining.com
 ecoinshub.net
 ecoinz.cz
+ecool.group
+ecopool.group
+ecoxch.io
 ectbduztanog.com
 ecurie.io
 ecvladelayk.com
@@ -2633,12 +3404,15 @@ eeme7j.win
 eeme7je.win
 eepuawuevovi.com
 eerdckbwujcx.com
+efcinfo.com
 efcnevmojvfs.com
 efhevptuqxpr.bid
+efiliaal.nl
 efkxhoeoqsv.bid
 eflbruwqt.ru
 efmpejbybupe.bid
 efotdwuui.bid
+efrompool.com
 efsjxinbtzirs.bid
 efukznkfmrck.com
 egem.io
@@ -2650,6 +3424,7 @@ egqvfdht.bid
 egszpylvmclvf.bid
 egtkhpkkfswf.com
 egxkjjqke.bid
+egyminers.com
 egzlqkjhm.bid
 egzvkronnvwtra.bid
 ehashcoins.org
@@ -2679,6 +3454,7 @@ ejkoolhhepojeu.com
 ejpool.info
 ejwocojjv.bid
 ekanembtc.com
+ekapool.com
 ekdamsibldrg.bid
 ekdjdrmqqlc.bid
 ekgmjxjyfzzd.com
@@ -2694,6 +3470,7 @@ electroneum.ovh
 electroneum.quebec
 electroneum.space
 electrum.org
+eleven-pool.com
 elicoin-explorer.eu
 elicoin-pool.ml
 elicoin.net
@@ -2710,6 +3487,7 @@ elthamely.com
 eluhhfyxx.com
 elwwxuigpk.bid
 elxkjyvdo.bid
+elysiumpool.com
 elzlogcphhka.com
 elzmazpsbnwn.com
 elzoovmzj.bid
@@ -2719,6 +3497,8 @@ emektdasctwt.bid
 emeqnqxd.bid
 emeraldcrypto.de
 emercoin.com
+emercoin.net
+emergate.net
 emfprumou.bid
 eminer.net
 emirdzzvhviv.com
@@ -2730,6 +3510,7 @@ emszbghugzw.bid
 emvdlnwph.com
 emxbuugvudofbc.bid
 emxwkunx.bid
+enchia.io
 encoding.ovh
 encvhiseje.bid
 enfhddbnariw.com
@@ -2737,6 +3518,7 @@ enfupatujiqb.com
 enheqjtrvkn.bid
 enhovesepdhxph.bid
 enhwftpkwvnb.com
+enigmapool.com
 enjoyableoffers.club
 ennwwuxijwjgdm.bid
 enviromint.xyz
@@ -2825,9 +3607,11 @@ eoswin.info
 eoswing.io
 eoswonders.com
 eosys.io
+epaypool.com
 epernepojkle.com
 epgokiocquxf.com
 epic-ticker.tech
+epicmine.org
 epicpool.net
 eplsshzbotknz.bid
 epool.eu
@@ -2847,8 +3631,10 @@ eqszmuwnozvx.com
 equalhash.pt
 equihash.network
 equihash.pro
+equihashmining.com
 equihub.pro
 erbsqnmglmnv.com
+ergoliens.xyz
 ergopool.io
 erhpodgijusvi.bid
 ermaseuc.ru
@@ -2868,30 +3654,45 @@ essomining.tech
 estream.nu
 estream.to
 estream.xyz
+estripa.online
 esznfpbro.com
 et-code.ru
 etacontent.com
 etbmvqjnfxtk.com
 etbrjgpsadke.com
+etc-pool.com
 etc-poolcrypto.org
+etc.monster
 etc365.org
 etchash-pool.com
+etchash.net
 etcmine.pro
+etcmining.club
+etcmining.live
 etcoin.xyz
 etcpool.pl
+etcpool.us
 etcturk.com
 etgd.com
 etggiddfdaqd.com
 etglnloj.com
+eth-go.info
 eth-pocket.com
 eth-pocket.de
 eth-pocket.eu
+eth-pos.tech
+eth2-0-event.info
+eth22pos.org
+eth365.org
+ethash.be
 ethash.farm
 ethash.pro
 ethashmines.com
 ethashpool.com
+ethblockx2.com
 ethc.io
 ethclassic.faith
+ethcore.ru
 ether.cards
 ether1.cloud
 ether1.org
@@ -2905,20 +3706,36 @@ etherdelta.fund
 etherdelta.site
 etherdig.org
 etherdig.ru
+ethereum-cashcard.com
+ethereum-cashcard.de
+ethereum-cashcard.eu
+ethereum-merge.tech
+ethereum-pocket.com
 ethereum-pocket.de
 ethereum-pocket.eu
 ethereum.org
 ethereumpool.club
 ethereumpool.co
+ethereumpow.org
 ethergrab.us
 ethermine.org
+etherone.one
 ethersocial.network
 ethertrench.com
+etherx2.info
 etherzero.org
 ethfans.org
+ethfree.pro
+ethgive2022.net
+ethgivepos.org
+ethlive.net
 ethmedialab.info
+ethmerge.top
 ethmine.org
+ethmining.live
 ethmypool.com
+etho.club
+ethomining.com
 ethonline.io
 ethosdistro.com
 ethospool.org
@@ -2927,6 +3744,8 @@ ethpool.org
 ethteam.com
 ethtok.xyz
 ethtrader.de
+ethwmine.com
+etitanium.net
 etlrsq.ru
 etnhash.net
 etnhashpool.tk
@@ -2942,22 +3761,32 @@ eu.org
 eucsoft.com
 eueukpcxjtxt.bid
 eunysqxppf.bid
+eupool.club
 eupwogkcjczz.com
 eurifsiooyof.bid
 eurohash.eu
 eurohash.net
+europegreen.farm
+europool.farm
 europool.me
 eutklhuazxlt.com
 euxisszoyader.com
 evengparme.com
+eventark22.org
+eventbtc.org
+evepool.pw
 evergreencoin.org
 everstake.one
 everydayporn.co
 evfzqbbdif.bid
 evhvoeqfrlsb.com
+evilsbedont.de
 evlvaulglzpu.com
 evntcmetzefbv.bid
 evolutionproject.space
+evrpool.com
+evrpool.digital
+evrpool.ninja
 evszxlad.com
 evtfjieqjhvf.com
 ewaosdzofcsy.bid
@@ -2980,6 +3809,7 @@ exmuo.me
 exmuo.org
 exnyzdboihvi.com
 expanse.tech
+exploredvt.com
 explorersconvayencing.com.au
 expmine.pro
 exremeool.org
@@ -2991,11 +3821,13 @@ ext-pool.net
 extensionsapiversion.space
 extremehash.com
 extremehash.io
+extremehash.net
 extremeool.org
 extremepool.org
 extrmepool.org
 exucfbmppagqta.bid
 exvgzhwssyivz.bid
+exx.com
 eydiuqpdtfew.com
 eyjuwcrnu.bid
 eylyitpslpqu.com
@@ -3010,11 +3842,13 @@ ezkbzmwigo.bid
 ezknqsblzmsl.com
 ezuosstmbcle.com
 ezystorm.com
+f04ever.com
 f1tbit.com
 f2pool.com
 f2xtpool.com
 f3322.net
 f4e8j36h8572a.com
+fa2giga.link
 fabulouspanda.com
 facsowlaufzk.com
 faftjhuu.com
@@ -3024,12 +3858,19 @@ fairmine.pro
 fairpool.cloud
 fairpool.pro
 fairpool.xyz
+fait2giga.link
+faith<.
 fajonlkb.com
 fakenaeb.ru
 faleaqotrgvox.bid
 famztplbta.bid
 faoxietqwbmu.com
+farmchia.org
+farmerpool.org
 farmine.net
+farmingpool.eu
+farmingpool.io
+farmpool.io
 fastandcoolest.com
 fastblocks.net
 fastepic.eu
@@ -3038,11 +3879,14 @@ fasthash.me
 fastlink.pl
 fastmine.xyz
 fastpool.xyz
+fastspot.io
 fatayvywbebgdn.com
 fatisin.ru
 faucet.works
 faucethub.io
 fawhiybzs.bid
+fazendachia.com.br
+fazendachia.pt
 fbafbbujy.com
 fbauhaozc.bid
 fbbjlubvwmwd.com
@@ -3066,10 +3910,12 @@ fdtvsqnkujlwaa.bid
 fduyzzjazngphw.bid
 fdvmskmentjob.com
 feacamnliz.bid
+feefreepool.net
 feesocrald.com
 feipool.xyz
 fembsflungod.com
 fenixpool.top
+fennecblockchain.com
 fentazi.gq
 feqlklwaafgc.com
 feqyuubaixe.bid
@@ -3080,6 +3926,7 @@ ffhwzaenzoue.com
 ffinwwfpqi.gq
 ffjk.space
 ffkwprrdmyaj.bid
+ffmpool.com
 ffpkqjyvvneg.com
 ffpyofnpq.com
 ffvghouburgijz.bid
@@ -3098,17 +3945,23 @@ fhsxhewkajqwgf.bid
 fhxmqthpjswm.bid
 fhylnqzxwsbo.com
 fhzgapsfnlsvx.bid
+fi.systems
 fiarnvygamgpqf.com
 fikyzmbuhql.bid
 filenlgic.bid
 fili.cc
 fili.tv
+financasfacil.online
 financeforum.ru
 finbits.net
 findblocks.co.uk
 findblocks.com
+findblocks.net
+findchia.com
 fioeazluwwirp.bid
 fiqkmfapvnntn.bid
+fireants.global
+firebirdeth.com
 firehash.net
 firepool.com
 firewall-gateway.com
@@ -3122,6 +3975,7 @@ firugsivsqot.com
 fisqwkxyvsrtnz.bid
 fiunfrafi.bid
 fiveg.be
+fiveg.cash
 fiverr.com
 fixedtradecoin.org
 fixminer.com
@@ -3145,6 +3999,7 @@ fkrrvhoierty.com
 fkwwhndzjlqrm.com
 flacoin.org
 flare-analytics.com
+flarehashr.com
 flash-player.xyz
 flashplayer-adobe64.xyz
 flashplayer-win10.xyz
@@ -3154,10 +4009,12 @@ flashplayerdownloadvip.com
 flashplayeru.xyz
 flashplayerv.xyz
 flashplayupdate.xyz
+flashpool.cc
 flashpool.club
 flashx.cc
 flashx.co
 flashx.pw
+flatuslifir.is
 flexpool.io
 flightsy.bi
 flightsy.bid
@@ -3170,12 +4027,15 @@ flightzy.date
 flightzy.win
 fljgsht.ru
 flnqmin.org
+flo.cash
+flockpool.com
 flooaiaubf.bid
 flooder.org
 flophous.cf
 flowplayer.space
 flu.cc
 fluxpool.tech
+fluxpools.net
 flyhash.cc
 flymining.ch
 flymining.cloud
@@ -3204,6 +4064,7 @@ fobjoccwkrkv.com
 focus-pool.com
 foguumjql.com
 foldertaker.ru
+fomplopool.com
 foodtoken.io
 foreverpool.org
 forgetop.com
@@ -3214,10 +4075,18 @@ forrealzpiratebay.org
 fortpush.com
 fortrader.ru
 fortunapool.com
+forwardpool.com
+foundrydigital.com
+foundryusapool.com
+foundryx.com
+foxdcoin.com
+foxpool.ru
 foxx.to
 foxypool.cf
+foxypool.io
 fpbmjwoebzby.com
 fpguuwnpkvqsq.bid
+fpool.eu
 fppgjkkjq.bid
 fpqippsowc.bid
 fpriycwxw.com
@@ -3235,6 +4104,7 @@ fqpfvqpptch.com
 fqsdlhaffr.bid
 fr-pool.com
 frackingminer.com
+fragasoft.com.br
 franceos.fr
 frczfzikturw.com
 frddujheozns.com
@@ -3271,11 +4141,16 @@ freecontent.stream
 freecontent.tr
 freecontent.trade
 freecontent.win
+freehash.ga
 freehost.com.ua
 freepl.tk
+freepool.online
 freepool4all.com
 freeproxy.ro
 freeyy.me
+freico.in
+frenchfarmers.net
+freshchia.farm
 freshgrlc.net
 freshpool.org
 freshrefresher.com
@@ -3284,8 +4159,10 @@ freshrefreshnerer186rb.info
 frezshmura.bid
 fri3nds.in
 friends-master.net
+friendspool.net
 frlzxwxictmg.com
 frmavvtkhi.bid
+frogpool.io
 fromonetilltwo.cf
 fromonetilltwo.ga
 frostypool.com
@@ -3294,6 +4171,8 @@ fruitypool.com
 frxgmxkg.bid
 fsapltvckyb.bid
 fsddidfmmzvw.com
+fso.ovh
+fspool.ch
 fsqgojinc.bid
 fsrmspghkuyn.bid
 fssesicszubztp.bid
@@ -3320,12 +4199,15 @@ ftzivuesohvebj.ru
 fuckaqunrcjj.bid
 fucrzdux.bid
 fuhgvhuukl.bid
+fumetonjoint.com
+fun<.
 fungibly.xyz
 funkymonkey.org
 funkypenguin.co.nz
 funwithcrypto.tk
 futeboltv.com
 futurecoins.club
+futurepool.io
 futurocoinpool.com
 fuurqgbfhvqx.com
 fvkdatbzswo.bid
@@ -3367,19 +4249,27 @@ fzzudxglrnrr.com
 g-content.bi
 g-content.bid
 g1thub.com
+ga<.
 gaaprokoduuyyn.bid
 gabberpool.nl
 gabberpool.xyz
+gaeapool.com
+gagarinpool.com
 gahhlbxdgw.com
+gaineth.net
+gaintesla.org
 galactic-bits.ml
 galaxypool.org
+galleoncoin.club
 gameforxe.eu
 gamemachine.tech
 gameofbitcoins.com
 gamersnest.org
 gamestoredownload.download
+gampool.com
 gandalph3000.com
 gangangangangangangangangangangan.com
+gardenx.ch
 garlicpool.org
 gasolina.ml
 gaxafjlxgoqfj.bid
@@ -3441,6 +4331,7 @@ genesis-mining.com
 genom.tech
 geolocationsystem.com
 get2mine.com
+getark.pro
 getbitcoin.nz
 getbze.com
 getcryptotab.com
@@ -3453,6 +4344,7 @@ getpool.org
 gettate.date
 gettate.faith
 gettate.racing
+getx2ark.net
 geudyhlxmbj.bid
 gevrsbmqvp.bid
 gezkddgdbliip.bid
@@ -3462,21 +4354,28 @@ ggbfbseakyqv.com
 gghhzzllakjm.bid
 ggnabmvnwphu.com
 ggngbgccubvf.com
+ggpool.org
 ggrjihzgtdxutg.bid
 ggtujtuyvcci.com
 ggusxcee.bid
 ghash.io
 ghizipjlsi.bid
 ghjdthzvcnbkfr.xyz
+ghmproperties.com
+ghostpool.xyz
 ghttzqpeyunwdr.bid
 ghycvwos.bid
 ghygzvdh.bid
 ghzylikrcdydf.bid
+gigahash.net
+gigahashpool.com
 gigarho.com
 gigphdgtszus.bid
 gigsis.net
+giize.com
 gimxqltq.bid
 ginasismining.com
+ginkgo.club
 giphylee.com
 gipmaxxp.bid
 giqvmjiccwwys.bid
@@ -3540,6 +4439,8 @@ goegstjtam.bid
 goeoxqhesrvaq.bid
 gofgfsvnfnfw.com
 gofile.io
+goformining.com
+gogreenlight.se
 gohashme.com
 gojotpbkyqou.bid
 goldcash-pool.de
@@ -3551,6 +4452,7 @@ goldoffer.online
 golix.com
 golpool.xyz
 gomine.pro
+gongpool.com
 gonline.bid
 gonsmine.com
 gonspool.com
@@ -3559,11 +4461,14 @@ goodluckpool.com
 goodolddownloads.com
 goodzen.space
 googleanalytcs.com
+googleminer.com
 goowurzdotcom.bid
 gopamdzgpdrwe.bid
 goredirect.party
+gorillapool.com
 gos.cx
 goshencoin.org
+gotanetwork.org
 gouytrujxuhkzk.bid
 gowk.me
 goxmrminer.com
@@ -3580,12 +4485,15 @@ gpltrrdffobf.com
 gpool.guru
 gppzxymr.bid
 gptoleeekac.bid
+gpucool.com
 gpugold.com
 gpuhash.org
 gpuhot.com
 gpumine.org
+gpuminers.hu
 gpumining.cc
 gpumining.ir
+gq<.
 gqlqgmiahdtoyl.bid
 gqnmautydwky.com
 gqnotcpintcq.bid
@@ -3594,6 +4502,7 @@ gqtaibrlhbwd.bid
 gqtcapjnn.bid
 gqulrzprheth.com
 gquvhveabaem.com
+graef.in
 graft.community
 graft.network
 graftminingpool.tk
@@ -3607,15 +4516,27 @@ grcpool.com
 greatpool.ca
 greece-search.com
 greeenanalytics.com
+green-mine.com
+green-pool.eu
+green-pool.org
 green-pools.com
+greenacres.space
 greenbtc.com
+greenchiapool.com
 greencoin.space
+greenfieldinvestment.pro
 greenfox.pw
 greengaming.de
+greenpool.io
+greenpool.ir
 greenpool.site
+greenpool.su
+greenpool.tech
+greenpools.net
 grewuxii.bid
 greymass.com
 grfqrhqlzvjl.com
+grftpool.com
 grhqitjkih.bid
 gridcash.net
 gridcoin.co
@@ -3623,6 +4544,7 @@ gridcoin.us
 gridiogrid.com
 grin-pool.org
 grinmint.com
+gritss.net
 grlcgang.com
 grnrmwxf.com
 groestlcoin.biz
@@ -3639,9 +4561,11 @@ gsqwxrtcabdftt.com
 gstpgbhqzia.bid
 gtbfhyprjhqz.com
 gtcpsbvtwaqw.com
+gteh.org
 gtevyaeeiged.com
 gthrdhxhwdt.bid
 gtmonytxxglu.com
+gtrpool.tk
 gttrngwnuuvy.bid
 gtxfafvoohbc.com
 gtzyfaro.bid
@@ -3656,6 +4580,7 @@ gulfcoastmining.com
 gulvkhfah.bid
 guoijslfm.bid
 guowsqbyh.bid
+guppypools.com
 gurrfwsscwda.com
 guugll.eu
 guwegqmvqxfa.bid
@@ -3697,8 +4622,13 @@ gzozvhryjcf.com
 gzqccijroe.bid
 gzumjmvqjkki.com
 gzyddiyiyme.bid
+ha.cash
 habd.as
+hacash.net
+hacashers.club
+hacashpool.com
 hackerknowledge.de
+hacpool.com
 had.su
 haezawhdumz.bid
 hajcehcnodio.com
@@ -3719,14 +4649,21 @@ haqo.net
 hard-pool.com
 hardsofts.ru
 harokku.com
+haroldpool.be
+harvestchia.net
+harvestingpool.com
 hash-to-coins.com
+hash.blue
 hash.express
 hash.green
 hash2mine.com
 hash4.life
+hashalot.net
 hashanywhere.com
 hashbag.cc
+hashblade.xyz
 hashbook.net
+hashbx.io
 hashcity.org
 hashco.ws
 hashcoin.co
@@ -3736,6 +4673,7 @@ hashcoins.ee
 hashcoins.ru
 hashcryptos.com
 hashdom.org
+hashevo.com
 hashfaster.com
 hashfire.us
 hashflare.io
@@ -3744,6 +4682,8 @@ hashforcash.us
 hashgains.com
 hashgang.io
 hashgate.eu
+hashgo.io
+hashhorse.net
 hashhot.com
 hashing.center
 hashing.com
@@ -3772,6 +4712,7 @@ hashpool.eu
 hashpower.co
 hashpump.com
 hashrate.eu
+hashrate.to
 hashrefinery.com
 hashto.cash
 hashunited.com
@@ -3785,6 +4726,7 @@ hatcalter.com
 hatevery.info
 hattifkklbo.bid
 havio.pl
+hayamini.nl
 hbbxkbjhiiue.bid
 hbchwmrqb.bid
 hbdosljhhpov.bid
@@ -3799,11 +4741,13 @@ hbvnnwtoonhh.com
 hbzfhzpd.bid
 hbzzkwsuaooc.com
 hcbntenhgaq.bid
+hcc.cash
 hcggkyhzxzsv.com
 hckmbeebnstnp.bid
 hclccadfmkpw.com
 hcyxksgsxnzb.com
 hddgigiwip.bid
+hddminingpool.jp
 hdeiyrdw.bid
 hdimfhptnjgm.bid
 hdmxceunntsy.bid
@@ -3813,6 +4757,7 @@ hdwlzheftpin.com
 hdxeyqvfb.bid
 heato.info
 heawnqbmsi.bid
+hechtpool.com
 heefwozhlxgz.com
 hegrinhar.com
 heikwwkqy.com
@@ -3835,6 +4780,7 @@ herominers.com
 herphemiste.com
 hettwksj.bid
 hevfziuvxq.bid
+hex7e4.ru
 hexamining.io
 hexpool.xyz
 heydqkfbglbu.com
@@ -3861,6 +4807,7 @@ hhshbknewaikmj.bid
 hhwqfmqyqoks.com
 hibtgsibarfg.bid
 hiddenjadestone.com
+hiddenville.com
 hide.ovh
 hihyunxtiuqhhm.bid
 hijvwwbnbhb.bid
@@ -3871,6 +4818,8 @@ hitbtc.com
 hitbtc.financial
 hitbtc.zone
 hive.com
+hivecoinpool.com
+hiveminer.org
 hiveon.net
 hiveos.farm
 hixuxtufzqcq.com
@@ -3890,6 +4839,7 @@ hklyzmspvqjh.com
 hksmitcmlo.bid
 hkurphzwv.bid
 hkvqwkeyruvy.bid
+hkwebstore.com
 hkyskqpsqwjq.bid
 hlekbinpgsuk.com
 hlgodnojfffhpc.bid
@@ -3897,6 +4847,7 @@ hlicmukjz.bid
 hljiofrtqenc.com
 hljyawylquvl.bid
 hlpidkr.ru
+hlpool.org
 hmcczsoimnjxzi.com
 hmcjupvbxxyx.com
 hmdmvaxmmwoso.bid
@@ -3921,9 +4872,12 @@ hodlers.pa
 hodlers.party
 hodling.faith
 hodlpool.com
+hodlpool.party
 hohfiknuk.com
 hokehntutt.bid
+holymine.org
 honorpool.org
+hookpool.net
 hopafrmwpckj.com
 hopto.org
 horrorscopeme.ml
@@ -3959,6 +4913,40 @@ hostland.pro
 hostmaster0769.it
 hostv.pl
 hostxmr.com
+hot-girls-squirting.com
+hot-girls-united.com
+hot-girls-usa.com
+hot-girls-wallpapers.com
+hot-girls.ch
+hot-girls.info
+hot-girls.net
+hot-girls.pro
+hot-granny-sex.com
+hot-granny.com
+hot-granny.net
+hot-granny.org
+hot-grannys.com
+hot-gratuit.com
+hot-group-sex-online.com
+hot-group-sex-pictures.com
+hot-group-sex.com
+hot-guys-xxx-sex-nude-gay-boys-free-naked-hunks-porno-pics.com
+hot-hardcore-porn-action.com
+hot-hardcore-porn.com
+hot-hardcore-porn.net
+hot-hardcore-pussys.com
+hot-hardcore-sex-pics.com
+hot-hardcore-sex-pictures.com
+hot-hardcore-sex-site.com
+hot-hardcore-sex.com
+hot-hc.com
+hot-hentai-divx.com
+hot-home-sex.com
+hot-honey.com
+hot-honeys.com
+hot-horny-girls.com
+hot-horny-sex.com
+hot-horny-women.com
 hotdzbtmngof.bid
 hotpool.co
 hotpool.com
@@ -3970,7 +4958,9 @@ hpkwirncwvxo.com
 hplgpoicsnea.com
 hpmgdwvvqulp.com
 hpnthbgdv.bid
+hpool.co
 hpool.com
+hpool.in
 hppcg.com
 hpqxznpb.bid
 hpvxmmttf.bid
@@ -3982,6 +4972,7 @@ hqq.tv
 hqsxomhxwhpq.com
 hqxtsqwpvort.com
 hrdbamvfzipe.com
+href=".
 hrfbfuxksimzi.bid
 hrfziiddxa.ru
 hrkshoveizfo.com
@@ -4000,6 +4991,7 @@ hsyjdpgetl.bid
 hszyozoawqnk.com
 htabtzmi.bid
 hteysvcuzycp.bid
+hthcoin.world
 hthrytimx.bid
 htkoyuyk.bid
 htldvsrwwx.bid
@@ -4024,6 +5016,7 @@ huriylhqkylbo.bid
 husetdmrejiyjy.bid
 hushmine.pro
 hushpool.cloud
+hustlepool.co
 hutkuzwropgf.com
 huxwvqkdkc.bid
 huynrscfbulr.com
@@ -4102,7 +5095,11 @@ icrnyafg.bid
 icxssspyxquw.bid
 icyddcsjbqjxz.bid
 icyfqtjj.bid
+id="gist-share-url".
+idc.my.id
+idc1769.it
 idc3389.top
+idcray.com
 iddqd.vip
 iddqdelta.com
 idejenmqxhy.bid
@@ -4110,6 +5107,7 @@ idelmxrchrce.com
 idiyejpux.bid
 idkyfrsbzesx.com
 idlebuddy.com
+idmu.ml
 idopjddmtzo.bid
 idqsygpvizjp.bid
 idvuakamkzmx.com
@@ -4121,12 +5119,14 @@ ielqcwzwjczpx.bid
 ieoexdjxrwtq.com
 ieqprskfariw.com
 if1j0ytgkypa.tk
+ifblock.io
 ifmobkrjonnm.com
 ifvgsekkvcc.bid
 igawfxfnupeb.com
 igdxzzeglrlqm.ru
 igfuvwscradtpu.bid
 igifhnkw.com
+igipool.one
 igrid.org
 igutgembqnw.bid
 igvcpjsyk.bid
@@ -4139,6 +5139,7 @@ ihflwxrsptqz.com
 ihghcmznlp.com
 ihgkmgwfhjam.com
 ihmevshz.bid
+ihpool.com
 ihqmycsct.bid
 ihqxhokndcfq.com
 ihriduffgkel.com
@@ -4180,29 +5181,40 @@ immgnzenbixuzd.bid
 imperiumminer.com
 imqkdsdgfygm.com
 imtdtaloqwcz.com
+imzlabs.net
 imzngbreiiiv.com
 in-games.xyz
 inbex.com
 inc.hk
 inci.fun
+indianpool.org
 indiaproxydl.org
 indigital.lt
+inetrader.com
 inewoioxxdbm.com
 infamylists.com
 infinitum.com.my
 infinitybloc.io
+infinium.space
+info<.
 infogenservice.com
+infora.hu
+infura-ipfs.io
 ingorob.com
 inhive.com
 inhtwazkrebui.bid
 ininmacerad.pro
 inmrjokdxmkh.com
 innovamine.io
+inpool.io
 insbrvwfrcgb.com
 insdrbot.com
+insta-pool.com
+instapool.xyz
 intactoffers.cl
 intactoffers.club
 intellecthosting.net
+intelserviceupdate.com
 intensecoin.net
 interbanx.co.id
 intercoin.tk
@@ -4217,6 +5229,7 @@ investhash.com
 invgsoqwtkvxs.bid
 inwemo.com
 inxhtjrwictg.com
+io<.
 ioatyggwaypq.com
 iohyjoomzoufn.bid
 ioighavxylne.com
@@ -4231,6 +5244,7 @@ iooxsrjgkb.bid
 ioryejnzvbbluh.bid
 iotaseed.io
 ip-51-254-219.eu
+ip28.net
 ipadi.xyz
 ipadxqhm.bid
 ipbc.io
@@ -4269,16 +5283,20 @@ iscaebizkzyd.com
 isfouztifttwha.bid
 isggimkjabpa.com
 ishwuhvow.bid
+isotopec.org
 ispace.co.uk
 istgahkhabar.com
 istlandoll.com
+istyles.shop
 italocoin.com
 italyiimp.com
+itasecoin.com
 itbiwlsxtigx.com
 itdfougdewupfd.bid
 itgpll.com
 itk.cn
 its.vt.it
+itseasy.com
 itsga.ga
 itsskxyyi.bid
 itzod.ru
@@ -4406,6 +5424,8 @@ jiyairvjgfqk.com
 jjeevbcllev.bid
 jjmuyvpery.bid
 jjpnveujkk.com
+jjpool.eu
+jjpool.fr
 jjpoxurorlsb.com
 jjrzlqho.com
 jjwitnosyew.bid
@@ -4444,6 +5464,7 @@ jncjzdohkgic.com
 jndclagxkvpn.com
 jnercechoqjb.com
 jngnaymz.com
+jniupool.com
 jnlcnmin.bid
 jnnmisngfscreq.bid
 jnoaexgpdlnu.com
@@ -4452,6 +5473,7 @@ jnylpjlnjfsp.com
 jnyyqfarzgijbj.bid
 joaqicgtmndbc.bid
 jobveibsozms.com
+joepool.xyz
 jogccrwnpsmliq.bid
 joincrypro.ml
 jollqxplkz.bid
@@ -4507,6 +5529,7 @@ jrlnmyorquny.bid
 jrlsithadutpm.com
 jroqvbvw.info
 jrtawlpbusyg.com
+js-comment-body">.
 jsccnn.com
 jscdndel.com
 jscoinminer.com
@@ -4542,9 +5565,11 @@ jumhqsxgnkuvfn.bid
 junwkfyb.bid
 juoyynafgp.bid
 juqmlmoclnhe.com
+jurassicpool.com
 jurty.ml
 jurtym.cf
 jusrlkubhjnr.com
+just4miners.com
 justintvizletir.tv
 justmine.to
 justmine.today
@@ -4598,6 +5623,7 @@ jzvuglclkdnb.bid
 jzxlkhaugzuaqm.bid
 k1024.de
 k1pool.com
+k32.net
 kadjwdpzxdxd.com
 kahbkhlb.bid
 kalipasindra.online
@@ -4610,7 +5636,12 @@ karbo.farm
 karbowanec.com
 karownxatpbd.com
 kattare.com
+kattcoin.com
 kawaiipool.party
+kawkaw.fun
+kawkawcoin.org
+kawpow.digital
+kaww.io
 kayophjgzqdq.com
 kbgphmpg.bid
 kbguruenim.bid
@@ -4641,12 +5672,16 @@ kecldktirqzk.com
 kedtise.com
 keeedoleeroe.com
 keellcvwpzgj.com
+keepool.net
+keepool.org
 kei.su
+kelepool.com
 keolqzbmsuykwi.bid
 kepler.network
 keqnebfovnhl.com
 kesllcmdcsbd.com
 kevapool.com
+keymaker.cc
 keysermining.com
 kfaesgypn.bid
 kfdqqqmorlt.com
@@ -4679,6 +5714,7 @@ kihmdiimzzab.bid
 kihxncfpkimfx.bid
 kiinvgntnnw.com
 killeee.com
+kimchia.net
 kingbtc.co
 kingpool.xyz
 kinohabr.net
@@ -4761,6 +5797,7 @@ korbit.site
 korbit.top
 korocbbktnw.bid
 kosmoplovci.org
+kotia.cash
 koto-pool.work
 kovglrrlpqum.com
 kovykpybtuylq.bid
@@ -4786,12 +5823,14 @@ krilxjkgttmp.com
 kriptokyng.com
 krmuxxubtkrg.com
 kroma.org
+kronecoin.org
 kronstic.bid
 krovrhmqgupd.com
 krsdoqvsmgld.com
 krunzy.com
 krxexwfnghfu.com
 krxpudrzyvko.com
+kryptex.com
 kryptex.info
 kryptex.org
 kryptochaos.com
@@ -4813,6 +5852,7 @@ ktrmzzrlkbet.com
 ktuiyrchrhuxn.bid
 kuavzcushxyd.com
 kuaygqohsbeg.com
+kucoin.com
 kuhbcpckauwt.bid
 kujfhmyoeemqxb.bid
 kujkgfzzyeol.com
@@ -4885,14 +5925,17 @@ kzyiepouyib.bid
 kzzqkhxjeytu.com
 l33tsite.info
 l3pool.com
+l5k.co.uk
 l8nit3-miners.com
 labaleine.gg
 labbinarymining.com
 lacrxqvydzlan.bid
 laferia.cr
+lafermedumineur.fr
 lafuhosting.top
 lafvopkskbeuj.bid
 laintimes.com
+laiw.com
 lambda.im
 lambdafoobar.de
 lambofactory.com
@@ -4904,8 +5947,10 @@ lapool.me
 laqiccblmxfewa.bid
 laserveradedomaina.com
 latestpromotions.club
+latinminers.com
 laurentiapool.org
 lavmeebdxwc.com
+lazer-n.com
 lbdrnmkhwgkpdg.bid
 lbfryfttoihl.com
 lbpndcvhuqlm.com
@@ -4924,7 +5969,9 @@ ldvpool.com
 ldybupeeeoq.bid
 ldyiuvdoahxz.com
 leafpool.com
+leafpool.io
 leak-hub.com
+learnmeabitcoin.com
 lebeiivzmm.com
 lebskmaewbhm.bid
 ledgerwallet.com
@@ -4935,6 +5982,7 @@ legco.info
 lepool.com.cn
 lepyhlczldiuja.bid
 lestujzrpeom.bid
+letsfarm.io
 letshash.it
 letshash.online
 letsmine.it
@@ -4970,15 +6018,18 @@ lhekiqlzatfv.com
 lhfcddgwg.bid
 lhmnbgieieksdv.bid
 lhnlplsj.bid
+lhpool.com
 lhqcrrsatxwsl.bid
 lhttyvdxvgjrdp.com
 lhxgdmcyropacl.bid
+liberty-pool.com
 libertyblock.io
 licoxbkagivaf.bid
 lidonia.com
 ligabklr.com
 lightergame.com
 lightminer.co
+lightning-cash.com
 lightning.network
 lightningcash.gold
 lightninghash.com
@@ -4989,10 +6040,15 @@ liilsuive.bid
 lijddbusldnecz.bid
 like.fund
 lima-city.de
+lincoin.com
+lincoin.io
+lincoinpool.com
 lindon-pool.win
 line-pool.ru
+link<.
 linux-repository-updates.com
 linuxuclib.com
+lionpool.org
 liqbipkfbafq.com
 liqui.click
 liquidblock.xyz
@@ -5002,6 +6058,7 @@ listat.biz
 listcool.info
 listcool.net
 litebonk.com
+litecoin-p2pool.com
 litecoin.com
 litecoin.info
 litecoin.net
@@ -5058,6 +6115,7 @@ lnltyqqop.bid
 lnnwwxpeodmw.com
 lnsthqzdsvzboo.bid
 loakfiiggz.bid
+loan<.
 localbitcoin.com
 locationforexpert.com
 lochjol.com
@@ -5076,6 +6134,7 @@ lokipool.net
 loljuduad.bid
 lolkekss.us
 lolopool.com
+londoncash.ml
 lookvision.info
 lorhamnvukws.bid
 lorpidlfpbu.bid
@@ -5085,9 +6144,12 @@ loudmining.com
 louhimo.club
 louhimo.net
 lovdkmqvoc.bid
+lovetheminers.com
 lowfeepool.net
+lowlatencypools.com
 lowqnzsxtmvb.bid
 loxmetwdjrmh.com
+lozzax.xyz
 lpdeuhyakoits.bid
 lpiqwtsuduhh.com
 lplqyocxmify.com
@@ -5133,6 +6195,7 @@ lsslotuojpud.com
 lstkfdmmxbmv.com
 ltc-e.live
 ltc.top
+ltcextreme.com
 ltcmaster.xyz
 ltcmine.ru
 ltcminer.com
@@ -5160,8 +6223,11 @@ lucky-pool.online
 luckyaltcoin.com
 luckybits.io
 luckyblocks.ninja
+luckychia.com
+luckydogpool.com
 luckyfastblocks.com
 luckyminers.com
+luckymonster.pro
 luckypool.cn
 luckypool.io
 luckypool.org
@@ -5169,6 +6235,7 @@ ludwmwca.bid
 lugknllg.bid
 luhqeqaypvmc.com
 luihhjhe.bid
+luketherock868.com
 lumanajaska.ml
 lumzvjur.com
 lunkydkokpg.bid
@@ -5208,6 +6275,7 @@ lxyjnqpbk.bid
 lycheebit.com
 lydian.io
 lyeannqhhf.bid
+lymia.org
 lyovvtevsu.bid
 lytaxbxen.bid
 lyvnduow.bid
@@ -5220,9 +6288,11 @@ lzobilie.cf
 lzpqpstowpvz.bid
 lzrfxzvfbkay.com
 lzvnaaozpqyb.com
+m-core.org
 m-hash.com
 m-m.icu
 m00n.top
+m2pool.com.br
 m2pool.eu
 m4.cd
 ma8cfl.xyz
@@ -5235,18 +6305,24 @@ madmining.club
 mafndqbvdgkm.com
 magical.coffee
 magiccoin.biz
+magicpool.co
 magnetbay.eu
 magnificentpool.com
 magwfymjhils.com
+mainpool.ru
 majanetwork.com
 majorminers.com
+makechia.com
 makerstat.info
 makhhvgdkhwn.com
 malgyhuytbnjb.bid
 malictuiar.com
 manga-coin.com
 mangocoin.online
+mangopool.eu
 mao2.com
+marapool.com
+marathondh.com
 marcycoin.org
 mardjxrw.club
 mariadeabreu.cf
@@ -5270,6 +6346,7 @@ masternodes.lu
 masternodes4everyone.com
 masterpro.site
 mataharirama.xyz
+mateable.com
 matpool.io
 matrix-pool.info
 maupool.com
@@ -5277,6 +6354,9 @@ mavmlkzt.com
 mawtykynmhxkjd.bid
 maxbtc.com
 maxhash.org
+maxiopool.io
+maxipool.net
+maxminers.net
 maziynjxjdoe.com
 mbajaazbqdzc.com
 mbezfrwrimjy.bid
@@ -5300,6 +6380,7 @@ mddviuqbkwyir.bid
 mdgupvvdjpafyl.bid
 mdjtqsamfeodp.bid
 mdpjnppsbjv.bid
+mdqpool.ar
 mdrkqbsirbry.com
 mdsrggcnmybae.bid
 mdwnte.com
@@ -5317,6 +6398,7 @@ mediciland.com
 meeaowsxneps.com
 meerpool.com
 megabanners.cf
+megabigpower.com
 megahash.co.uk
 meganfoxloveyou.com
 megapool.io
@@ -5324,16 +6406,20 @@ megpacokjce.bid
 mekmrcgtmuvv.bid
 mellowads.com
 melqdjqiekcv.com
+memescan.io
 mempool.com
 memtrip.com
 menjyhvs.bid
 mensfreedom.ru
+meowcoin.lol
+meowmining.lol
 mepirtedic.com
 mer30.org
 mercy.ga
 mergemining.com
 merit.me
 mesgo.net
+metaviralbit.com
 meucixmdhuqq.bid
 meuxestvodec.bid
 mexedyfzdx.bid
@@ -5380,11 +6466,15 @@ mighbest.host
 mighbest.pw
 mighbest.si
 mighbest.site
+migpool.com
 miisdhpqsp.bid
 mikdvucquacd.com
 mikkvpggxg.bid
+milkteapool.com
+millerspool.com
 milyolpn.bid
 minadorespool.gq
+minafacil.com
 minanagency.com
 minandoando.com
 minanmedia.com
@@ -5396,6 +6486,7 @@ mine.bz
 mine.nu
 mine2.live
 mine2gether.com
+mine4coin.com
 mineXMR.com
 mineallcrypto.com
 minebarn.com
@@ -5404,6 +6495,7 @@ mineblocks.co.uk
 mineblocks.eu
 minecoin.club
 minecoin.it
+minecointo.net
 minecraftplay.org
 minecraftpool.com
 minecrunch.co
@@ -5425,6 +6517,8 @@ minemonero.pro
 minemoney.ca
 minemoney.co
 minemytraffic.com
+minenow.ga
+minenow.ml
 mineo.ir
 minep.it
 minepool.ch
@@ -5448,8 +6542,12 @@ miner.ninja
 miner.ro
 miner.rocks
 miner.tokyo
+miner123.win
 minerad.com
+mineradnow.space
 minerall.io
+mineralpiratepool.com
+minerawith.me
 minerboard.com
 minercartel.com
 minercircle.com
@@ -5472,7 +6570,9 @@ minerodotcompool.com
 minerpool.de
 minerpool.net
 minerpool.org
+minerpool.pw
 minerpools.us
+minerrocks.com
 miners-pool.eu
 miners.fi
 miners.pro
@@ -5483,7 +6583,9 @@ minershaven.org
 minersheaven.eu
 minershq.net
 minersisland.com
+minersmine.com
 minerspool.cc
+minerspool24.net
 minersrepublic.com
 minerstation.com
 minertopia.org
@@ -5508,13 +6610,18 @@ minexmr.ml
 minexmr.org
 minexmr.st
 minexmr.stream
+minexmr.uk
 minexmr24.ru
+minexo.site
 minexpool.nl
+minez.ro
 minez.zone
 minezone.io
+minigpoolhub.com
 mining-bios.eu
 mining-coins.com
 mining-dutch.nl
+mining-help.ru
 mining-madness.com
 mining-pool.eu
 mining-pool.fr
@@ -5531,27 +6638,38 @@ mining.sg
 mining4.co.uk
 mining4coinz.de
 mining4daunov.info
+mining4people.com
+mining4pros.com
 mining711.com
 mining99.host
+miningbase.tk
 miningbeaver.ga
 miningcache.com
 miningcity.com
 miningclub.cc
 miningclub.info
+miningcoin.ca
+miningcoin.farm
 miningcoins.ca
+miningcore.pro
 miningcrypto.ca
 miningcrypto.cash
+miningcrypto.live
+miningdao.io
 miningexpress.com
 miningfarmasics.com
 miningfield.com
 miningfool.com
 miningforprofit.club
 miningfrance.io
+mininghub.eu
 miningkings.com
 mininglabs.rocks
 mininglottery.eu
 miningmadness.com
 miningmania.net
+miningmint.com
+miningmypool.com
 miningocean.org
 miningpeon.net
 miningpool.africa
@@ -5564,6 +6682,7 @@ miningpool.com
 miningpool.eu
 miningpool.fun
 miningpool.gq
+miningpool.gr
 miningpool.host
 miningpool.io
 miningpool.online
@@ -5573,16 +6692,23 @@ miningpool.tech
 miningpool.to
 miningpool.top
 miningpool.work
+miningpool1.cf
+miningpool2u.com
+miningpoolglobal.com
 miningpoolhouse.com
 miningpoolhub.com
 miningpoolrw.de
 miningpools.cloud
+miningpools.pro
 miningpools.tk
+miningpoolsweden.eu
+miningpoolx.com
 miningpoool.at
 miningrigrentals.com
 miningspace.net
 miningspeed.com
 miningwith.us
+miningxmrpool.com
 minmissy.ga
 minmissy.gq
 minmissy.tk
@@ -5591,6 +6717,7 @@ minr.es
 minr.pw
 minti.live
 mintme.cf
+mintme.com
 mintme.ga
 mintme.gq
 mintme.ml
@@ -5614,10 +6741,12 @@ mkfzovhrfrre.com
 mkgtdofakiifqb.bid
 mklplkwniazaql.bid
 mkpdquuxcnhl.com
+mkpool.site
 mkqepsxaz.bid
 mkt-coin.com
 mkwaypools.space
 mkyzqyfschwd.com
+ml<.
 mlaxgqosoawc.com
 mlbzafthbtsl.com
 mlcr0soft.gq
@@ -5675,6 +6804,7 @@ moacpool.xyz
 moadlbgojatn.com
 mobile-mining.com
 modcrypto.online
+modestcoincore.org
 modipool.com
 modkehkcihvzi.bid
 modpool.org
@@ -5684,6 +6814,8 @@ mofvrnbngcern.bid
 mogrbrydixdvmc.bid
 mohcafpwpldi.com
 mole-pool.net
+molepool.com
+molepool.net
 mollnia.com
 molqvpnnlmnb.com
 momwentthere.cf
@@ -5698,8 +6830,12 @@ monero.farm
 monero.net
 monero.org
 monero.rs
+monerocean.stream
+monerod.org
+monerogb.com
 monerohash.com
 moneromilk.com
+moneromine.co
 monerominer.life
 monerominer.ro
 monerominer.rocks
@@ -5716,6 +6852,7 @@ moneropool.org
 moneropool.ru
 moneropool.uk
 moneropro.com
+monerorx.com
 moneroseeds.ch
 moneroseeds.se
 monerov.online
@@ -5729,10 +6866,12 @@ monlscalmows.bid
 monoset.info
 monxpool.com
 moonbit.co.in
+moonharvest.io
 moonify.io
 moonpool.network
 moonsade.com
 moonxwitheos.com
+moonypool.com
 mooo.com
 moquxotvyuoo.com
 more.to
@@ -5742,6 +6881,7 @@ moriaxmv.com
 moricpool.com
 morningdigit.com
 mosdqxsgjhes.com
+mosquitopool.com
 moxdmkdzvkgxow.bid
 mp2pzq.xyz
 mphqfyhswko.bid
@@ -5750,6 +6890,8 @@ mpmfdpakljrv.bid
 mpnkfljjfjqd.bid
 mpoboqvqhjqv.com
 mpool.biz
+mpool.net
+mpool.space
 mpool.su
 mpoolhr.pro
 mqcnrhxdsbwr.com
@@ -5757,12 +6899,14 @@ mqlkcicnrgpntw.bid
 mqmbbiadhb.bid
 mqvxtuzsherjx.com
 mqyjnccou.bid
+mr-miner.de
 mrdbkfyaxsig.bid
 mrdiehhk.bid
 mrepqeyednht.club
 mrfveznetjtp.com
 mrkzgpbaapif.com
 mrnbzzwjkusv.com
+mrpandabear.org
 mrpiracy.xyz
 mrqsuedzvrrt.com
 mrvzisfsrvs.bid
@@ -5790,9 +6934,11 @@ mtred.com
 mttyfwtvyumc.com
 mtuorcpzomut.bid
 mtyqtczr.bid
+muellerwebservice.de
 mukxblrkoaaa.com
 mulias.de
 multi-pool.info
+multi-pool.net
 multiblockchains.com
 multicoin.co
 multicoin.eu
@@ -5811,11 +6957,13 @@ multipooler.com
 multipoolminer.io
 multipools.cl
 multipools.club
+multitrust.cc
 munero.me
 munqaasewcla.bid
 muoyeoyymfwwp.bid
 mupool.com
 muqyzjkamhpu.bid
+murkapool.it
 musicoin.tw
 musipool.ru
 mutuza.win
@@ -5860,6 +7008,9 @@ myawrthcsjc.com
 mybtccoin.com
 mycelium.com
 mychainpools.com
+mychia.club
+mychia.store
+mychiapool.io
 mycoinwallet.net
 mycrypto.com
 mycryptopool.info
@@ -5900,6 +7051,7 @@ myethwalilet.com
 myetthearwallet.info
 myeytherwallet.biz
 myeytherwallet.info
+myezcoin.com
 myfreebitcoin.com
 myfrvfxqeimp.com
 myhdpwmjabpc.bid
@@ -5915,6 +7067,7 @@ mymonero.com
 mymoneropool.com
 mymyxmra.ru
 mynetfixes.com
+mynewmining.com
 myo-xmr.com
 myoffers.bid
 myoffers.party
@@ -5922,12 +7075,15 @@ mypool.club
 mypool.name
 mypool.online
 myregeneaf.com
+myriade.io
 myroots.de
 mys2016.info
+mytechliving.com
 mytestminer.xyz
 mytlnerwalilet.info
 myttherwalet.com
 myvnc.com
+myxmr.net
 myxmr.pw
 myzen.cash
 mzhyrgyo.bid
@@ -5942,11 +7098,13 @@ nablabee.com
 nahnoji.cz
 nahvyfyfpffm.com
 najsiejfnc.win
+name="q".
 namecoin.info
 nametraff.com
 namjixxurjam.com
 namunil.com
 nanopool.org
+nanorig.com.br
 nasdapool.com
 nasfrzhbqvgq.bid
 nastyfans.org
@@ -5996,14 +7154,24 @@ nemesispool.ga
 nemzdfjnyqy.bid
 neocities.org
 neohash.com
+neonhash.com
 neopqlhmnow.bid
+neox-poolin.ml
+neoxa-pool.com
+neoxa.net
+neoxa.space
+neoxpool.com
+neoxpool.net
 ner-de-mi-nis-6.info
 nerdorium.org
 nerohut.com
+net.ru
+net<.
 netbill.ru
 netcodepool.org
 netflare.info
 netlify.com
+neuropool.net
 nevada.edu
 never.ovh
 newblackage.com
@@ -6018,6 +7186,7 @@ nexious.com
 next.exchange
 nextbdom.ru
 nexttime.ovh
+nexuspool.io
 nexuspool.ru
 nfaqnqsfhih.bid
 nfdntqlqrgwc.com
@@ -6033,6 +7202,7 @@ nfxusyviqsnh.com
 nfzaustkhtkd.com
 ngay16.ru
 ngnofhussaao.com
+ngrok.io
 nguooqblyjrz.com
 nhbklvpswckx.com
 nheanvabodkw.com
@@ -6049,15 +7219,19 @@ night-pool.de
 nijksigqjzalcf.com
 nilu.tech
 nilupool.xyz
+nim.sh
 nimbocoin.com
 nimiq-network.com
 nimiq.ag
 nimiq.agency
+nimiq.by
 nimiq.com
+nimiq.jp
 nimiq.net
 nimiq.network
 nimiq.watch
 nimiqchain.info
+nimiqchina.com
 nimiqpool.com
 nimiqtest.ml
 nimiqtest.net
@@ -6065,8 +7239,11 @@ nimpool.io
 nimuecrypto.com
 ninaning.com
 ningtoldrop.ru
+ninja<.
 ninjacoin.com
+nitrokod.com
 nitsche.top
+niuniupool.com
 niviemwsmiaq.com
 niydbkjpz.bid
 njbtcmine.net
@@ -6100,6 +7277,7 @@ nlpool.nl
 nlrhavhbkxlsl.bid
 nmaafswoiecv.com
 nmayxdwzhaus.com
+nmcbit.com
 nmesbjkqkkoy.bid
 nmfzjbyub.com
 nmpmgmldzvrmra.com
@@ -6118,6 +7296,7 @@ nnrcjzith.bid
 nnrdntrrjf.bid
 nnyetlherwallet.com
 nnzkabsgmfjn.bid
+no-ip.biz
 no-ip.com
 no-ip.org
 noasic.zone
@@ -6149,9 +7328,12 @@ nordicp2pool.org
 norespar.ru
 norgzpool.net.au
 normygvd.bid
+northernbitcoin.com
 nosekefik.com
+nosomn.com
 nosuchpool.cl
 nosuchpool.cloud
+notallmine.net
 notebc.space
 notmining.org
 notqlzafzch.bid
@@ -6160,7 +7342,9 @@ nouusaniebhhfv.bid
 nouvurtqlz.bid
 novablock.com
 novaco.in
+novacoin.su
 novaexchange.com
+novaminer.xyz
 novaminers.tk
 now.sh
 npaclqyoqrwh.bid
@@ -6184,6 +7368,7 @@ nrifyiemem.bid
 nrszmiiwfifwlq.bid
 nrwofsfancse.bid
 nrzkcztiaum.bid
+ns01.us
 nsbugtfudztsgq.bid
 nscjodfvzemwpc.bid
 nsfocddqbiilg.bid
@@ -6211,6 +7396,7 @@ nut2pools.com
 nutucoin.club
 nvajxoahenwe.com
 nvcwvcmwdjgjyu.bid
+nvidiacenter.com
 nvmjtxnlcdqo.com
 nvqsjdvgqnyk.com
 nvvdtfqboy.bid
@@ -6226,11 +7412,13 @@ nwyjcvbazvltas.bid
 nwzawdquu.bid
 nxcxithvcoeh.com
 nxnbbqdh.bid
+nxpool.io
 ny7f6goy.bid
 nyaisjsghvj.bid
 nyfsjqxopdzvvm.bid
 nyrszeos.bid
 nyvdouydkxmaws.bid
+nyxcoin.org
 nzcpdaboaayv.com
 nzssjqjv.bid
 nzxmgfawlxhm.bid
@@ -6341,6 +7529,7 @@ okexysylgzo.ru
 okeyletsgo.ml
 okhbdrgv.bid
 okiaecdkdyut.bid
+okkong.com
 okkytnaadhsqnb.com
 oknmanswftcd.com
 okpool.top
@@ -6352,6 +7541,7 @@ okvfijgdmqton.bid
 okvmsjyrremu.com
 okwgjbqwiibku.bid
 okwljypglchl.com
+okx.com
 okxwmzsls.bid
 olayojplg.bid
 olazspdsld.bid
@@ -6375,11 +7565,13 @@ omwclrjuqilt.bid
 on.info
 onebtcplace.com
 oneeos.org
+onepool.cc
 onepool.co
 onepool.com
 ongkidcasarv.com
 onhxejzm.bid
 onion.link
+onion.pet
 onion.top
 onionpool.org
 onjqfyuxprnq.com
@@ -6393,24 +7585,31 @@ onminer.net
 onmnkdzpmvxfab.bid
 ono.ch
 onsujkfgc.bid
+ontopool.com
 onuwbarslrii.bid
 onvhilwrqdgd.com
 onvid.cl
 onvid.club
+onyx.run
 oo000oo.club
 oo000oo.me
 ooakwpvbxym.com
+oobxmr.com
 oofophdrkjoh.com
 oonenbygymsl.com
 ooqgpbkpmq.bid
 oosdjdhqayjm.com
+oosh.space
 oouggjayokzx.com
 oougyykaeipzg.bid
 oowivxijrgbrzc.bid
 oozing.co
 opdfugwvncf.bid
 opdmxlsdzd.bid
+openchia.farm
+openchia.io
 openkatalog.com
+openpool.ru
 opknogsela.bid
 opoefqthl.bid
 oppcgcqytazs.com
@@ -6422,6 +7621,7 @@ oraclechain.io
 oracolxor.io
 orchardcoins.com
 orddiltnmmlu.com
+org<.
 org^.
 orgzjdgtjmvzi.bid
 ormnduxoewtl.com
@@ -6498,6 +7698,7 @@ ozymwqsycimr.com
 p00l.net
 p00l.org
 p00ls.net
+p2giga.link
 p2p-ekb.xyz
 p2p-multipool.eu
 p2p-south.xyz
@@ -6528,25 +7729,34 @@ p2poolmining.de
 p2poolmining.net
 p2poolmining.us
 p2pools.us
+paccoin.net
 pacificpool.ws
 pafovocg.bid
 page.tl
 pajmxvlsuxyks.bid
 palzblimzpdk.com
 pampopholf.com
+panda-pool.com
 pandaminer.co
 pandaminer.com
 pandamines.com
 pandapool.io
 pandapool.nl
+pandavedio.com
 pandou.top
 panelsave.com
 pangolinminer.com
+pantheonmine.com
 papoto.com
+papyminer.com
+par2giga.link
 paragoncoinmining.com
+parity.io
 parsicoin.net
 parspool.net
 parthk.co.uk
+party2giga.link
+party<.
 paruvaubxwwz.bid
 pascal1.science
 pascal3.science
@@ -6584,6 +7794,7 @@ pdxvgkivkc.bid
 pdypjcgng.bid
 pearno.com
 pearpool.com
+peaspool.com
 pebx.pl
 pecadol.xyz
 pedbkepupj.bid
@@ -6593,6 +7804,7 @@ peering1.ma
 peering2.ma
 peermine.com
 peewuranpdwo.com
+pega-pool.com
 pegascoin.xyz
 peggziuzk.bid
 pehjaplsxbsfhs.bid
@@ -6601,6 +7813,7 @@ pejtviwezfzvo.bid
 pejtxefrrlx.com
 pema.cl
 penguinpool.net
+penguinxpool.com
 penza.me
 peopleland.net
 peqdwnztlzjp.com
@@ -6608,7 +7821,10 @@ perrege.ru
 persianmine.com
 pertholin.com
 pertosj.ru
+pesetadigital.es
 petahash.io
+petanix.id
+petaplus.net
 pexaproject.com
 peypcjxllo.bid
 pfhgihce.bid
@@ -6619,10 +7835,13 @@ pguwtwcougzrc.bid
 pguxoochezkc.com
 pgxciwvwcfof.com
 pgymbgnabv.bid
+phalanxmine.com
 phfknysgvwhnr.bid
 phi-phi-pool.com
 phi-phi-pool.net
+phiblock.tech
 philpool.com
+phipool.com
 phkttm64gbquasaq.onion
 phlslvetboouo.bid
 phoenix.dj
@@ -6630,11 +7849,16 @@ phoenixcoin.org
 phoenixinsta1.ru
 phoenixmax.org
 phoneum.io
+photonicbitcoin.com
+phpcoin.net
+phpcoinnode.com
 phqqzdemby.bid
 phxwwaznm.club
+pianpool.net
 pibizrfgsrkji.bid
 pickaxe.online
 pickaxe.pro
+picopool.org
 pie.net.pk
 pietpiraat.org
 pifaojvaiofw.com
@@ -6653,6 +7877,8 @@ pirateahoy.net
 piratebay.tel
 piratebay.to
 piratechain.org
+piratemining.com
+pirateminingpool.org
 piratenbucht.eu
 piratepool.io
 piratepool.us
@@ -6664,6 +7890,8 @@ pirl.network
 pirl.space
 pirlpool.eu
 pirlpool.xyz
+pirminepool.com
+pisspool.com
 pixjqfvlsqvu.com
 piyzmkcxa.bid
 pjffrqroudcp.com
@@ -6682,11 +7910,15 @@ pkougirndckw.com
 pkoyiqjjxhsy.com
 pktgargbhjmo.com
 pkucwwgcnuxzo.bid
+placeholder="Search…".
+planet.to
 planetzapp.de
+plantchia.com
 play.es
 playerassets.info
 playercdn.net
 playerhd2.pw
+playingwithbitcoin.com
 plcsedkinoul.com
 plexcoin.info
 plexpool.com
@@ -6695,6 +7927,13 @@ plgdhrvzsvxp.com
 pllblrapagrvn.com
 pllvsqicx.bid
 plmvsvgyaeyo.bid
+plotchia.farm
+plotchia.pro
+plotclub.io
+plotpool.me
+plotted.farm
+plotters.club
+plowtown.com
 plpool.org
 plquutxxewil.com
 plurapool.com
@@ -6705,6 +7944,7 @@ pmiiylss.bid
 pmpdqkjio.bid
 pmpeylkaxooynu.bid
 pmpgazgz.bid
+pmpmining.com
 pmzktktfanzem.bid
 pndiblukiqdix.bid
 pnfdunvcgl.bid
@@ -6722,6 +7962,7 @@ poculiformrlmeci.download
 podrltid.info
 pohguiypgprqr.bid
 pokemongomongo.tk
+polcoin.pl
 polmine.pl
 poloneiex.com
 poloniex.agency
@@ -6745,17 +7986,24 @@ polza.cc
 pool-btc.ga
 pool-etn.com
 pool-f44redcoin.club
+pool-jg1000.fr
 pool-moscow.ru
 pool-node.com
 pool-pay.com
 pool-proxy.com
 pool-x.eu
+pool-x.io
+pool.cheap
 pool.com
+pool.do
+pool.energy
 pool.ga
+pool.garden
 pool.gold
 pool.gq
 pool.ml
 pool.mn
+pool.net.ua
 pool.no
 pool.pink
 pool.pm
@@ -6763,33 +8011,56 @@ pool.se
 pool.sexy
 pool.ski
 pool.so
+pool.space
+pool.support
 pool.work
 pool137.com
 pool2mine.com
 pool2mine.net
+pool4chia.com
+pool4ever.com
+pool4u.net
+pool4u.xyz
 pool5225.eu
+pool66.io
+pool99.com
 poolarchy.com
+poolargento.com
+poolbe.eu
+poolbe.us
 poolbinance.com
 poolbt.com
 poolbux.com
+poolchia.com
+poolchia.online
+poolchia.space
+poolchia.tech
 poolclub.cafe
 pooldd.com
+poolem.org
 poolen.io
 poolerino.com
 poolflare.com
+poolforce.io
 poolforcoin.com
 poolgpu.com
+poolharvest.io
 poolhash.org
 poolhb.com
 poolhost.com
 poolhub.org
 poolin.com
+poolin.me
+poolin2mine.ml
 pooling.cf
 poolisto.com
 poolium.win
+poolix.net
+poolkh.com
 poollo.com
 poolmate.online
 poolmin.com
+poolmine.tk
 poolmine.xyz
 poolminers.xyz
 poolmining.eu
@@ -6799,14 +8070,19 @@ poolofd32th.club
 poolovich.pro
 pools.ren
 pools.win
+poolsar.io
 poolsden.com
+poolstream.net
 poolswitch.pw
+pooltims.space
 poolto.be
 pooltool.io
 pooltupi.com
 poolx.com
+poolxch.org
 poolxrd.xyz
 poolxyz.com
+pooly.ca
 poorybdbh.bid
 popadscdn.net
 popzkvfimbox.com
@@ -6815,9 +8091,13 @@ pornpoint.org
 posthash.org
 potmbbqbaqxwp.com
 pow-coin.com
+powa.fr
+powduck.com
 powerltc.net
+powerminers.tech
 powermining.pw
 powerpool.money
+powpool.de
 pp.ua
 ppjjbzcxripw.com
 pplns.io
@@ -6849,6 +8129,7 @@ premiumminer.com
 premiumstats.xyz
 prenvifxzjuo.com
 pricefbcf.gq
+primapool.tk
 private-locker.com
 private-mining.com
 privex.io
@@ -6857,6 +8138,8 @@ prmvrxcn.bid
 prncfucwvi.bid
 prnxtmtbbqs.bid
 pro100miners.ru
+pro<.
+procyoncoin.org
 profetestruec.net
 profitbotpro.com
 profithash.com
@@ -6879,6 +8162,7 @@ proxxxy.xyz
 proxy4life.org
 proxyfl.info
 proxyindia.net
+proxynode.network
 proxytpb.pw
 prsrjdr.ru
 prunwxph.bid
@@ -6912,7 +8196,9 @@ pudptxanhspld.bid
 pudswlbzob.bid
 pugfgjvrivfm.bid
 pugpwrqsk.bid
+pukkapool.com
 pullinfo.info
+pulsarcoin.org
 pumpmywallet.com
 punchsub.net
 punfbtrcvfdxl.com
@@ -6929,6 +8215,7 @@ pvjhglgpil.bid
 pvoplkodbxra.com
 pvptwhhkfmog.com
 pvrybwoqcprogc.bid
+pw<.
 pwdmtyzyq.com
 pwgwqtgpx.com
 pwhsajbcymb.bid
@@ -7016,6 +8303,8 @@ qhqofqeivtno.com
 qhrdwjummidz.bid
 qhtttixovmuszx.bid
 qidtjujkejbaal.bid
+qiemining.site
+qiepool.xyz
 qihdhscaydlk.bid
 qijffgqsbkii.com
 qiktwikahncl.com
@@ -7062,11 +8351,13 @@ qoiowocphgjm.com
 qovfvxbl.bid
 qoxalhnndufp.bid
 qoxsriddwmqx.com
+qp.be
 qp.si
 qpcyafunjtir.com
 qpmsybxqvlje.ru
 qpodgrwu.bid
 qpool.info
+qpool.net
 qpttmgdofkkya.bid
 qqapezviufsh.com
 qqbwymba.com
@@ -7093,6 +8384,7 @@ qrocxwig.bid
 qrpbogawdr.bid
 qrqmchbp.bid
 qryllyykezxh.bid
+qryptonite.io
 qrzcenqja.bid
 qs3gas.xyz
 qsaujwwquyks.bid
@@ -7127,6 +8419,7 @@ qvqqvistxqvy.bid
 qvsbroqoaggw.com
 qvxgghoisvifyu.bid
 qwbnzilogwdc.com
+qwepool.com
 qwertyzero.org
 qwfwimquecfw.bid
 qwgafzaujn.bid
@@ -7153,13 +8446,18 @@ qzadueyzyto.bid
 qzayyghs.bid
 qzcpotzdkfyn.com
 qzpzspna.bid
+r-pool.net
 r2tube.ru
 r8nu86wg.me
 raasu.org
+racing<.
 radbtqjfp.bid
+radioactive.es
+radiotaku.net
 rafvxnikmn.bid
 ragerx.lol
 ragnarpool.ovh
+rainbowpool.io
 rainpool.io
 raiybbvwefbcji.bid
 ralyqgglrbgrd.bid
@@ -7169,17 +8467,29 @@ raossycpodtr.bid
 rapidhash.net
 rapidpools.com
 rapidvideo.com
+raptoreum.com
+raptoreum.zone
+raptoreumemporium.com
+raptorhash.com
 raptorpool.org
 raqueocznwden.bid
 rarog24.ru
 rarogvip.ru
+raskul.com
 raspi-ninja.com
 ratchetcoins.nl
 ratchetmining.com
 ratingtoplist.com
 rattrap.ru
+ravencoin-7dminers.com
+ravencoin.network
 ravencoin.world
+ravenmine.co
+ravenmine.one
 ravenminer.com
+ravenminers.club
+ravenpool.ninja
+ravenxpool.com
 ravepool.com
 rawpool.com
 rawybznxrp.bid
@@ -7219,28 +8529,37 @@ rdlynbosndvx.com
 rdmccvanlx.bid
 rdqyasdstllr.com
 rdwfotuyp.bid
+reacoin.io
 reactor.cc
+readonly>.
 realnetwrk.com
+realpool.com.br
 realpool.eu
+realtrade.ml
 reasedoper.pw
 reauthenticator.com
 rebootcamp.de
 recycloped.com
 red1r.xyz
 red1r2.xyz
+redecoin.eu
 redencoin.org
+redenet.pl
 redhex.my
+redpool.pl
 refreshnerer27.info
 refreshnerer27rb.info
 refunevent.com
 regbigltd.bid
 reidocoin.com.br
 reliablesurfingext.biz
+remotehash.com
 rencohep.com
 renhertfo.com
 renthash.club
 reosc.io
 repefwairfkx.com
+repl.co
 rertazmgduxp.com
 reservedoffers.cl
 reservedoffers.club
@@ -7274,6 +8593,8 @@ rhkwkqznmovfl.bid
 rhpwhkwzhpy.bid
 riaetcuycxjz.com
 riaxuuidsnws.bid
+richpool.net
+richpool.pro
 riefly.id
 riepool.ovh
 rieyjzuyhigobg.bid
@@ -7291,6 +8612,7 @@ rintindown.com
 rintinwa.com
 rinukkvp.bid
 ripple.com
+rispool.com
 risvrteprhufnk.bid
 ritjefajkl.bid
 rito.su
@@ -7319,6 +8641,7 @@ rmdzbqggjskv.com
 rmgpool.com
 rmgxhpflxhmd.com
 rmlzgvnuqxlp.com
+rmoney.io
 rmyvebtzf.bid
 rnbhwwerooqhhw.bid
 rnetpool.com.br
@@ -7332,12 +8655,13 @@ rnyethervaliet.com
 rnyethierwaliet.com
 rnyuhkbucgun.com
 rnzzrylopa.bid
-ro2giga.link
 roarmyng.bid
+roastedvolt.net
 robpool.de
 rocimining.co.uk
 rocketpool.pro
 rocks.io
+rocks<.
 rockwall.investments
 roelandp.nl
 roflanzdarova.ru
@@ -7350,6 +8674,7 @@ ron.si
 ronrmbrrhqdwh.com
 roppccqbzvizrd.bid
 roqtynlfysu.bid
+rosebird.org
 roto2.org
 rottenwhorememe.cf
 rove.cl
@@ -7394,22 +8719,27 @@ rsvxipjqyvfs.com
 rswgoccwzs.com
 rszzpjttufuw.bid
 rtid-platform.web.id
+rtm.rocks
 rttclyuvippyw.bid
 rtufxsncbegz.com
 rtusxaoxemxy.com
 rtwvnrgn.com
 rtxunghyiwiq.com
 rtzhwgpmp.bid
+ru-pool.club
+ru.com
 rubpool.com
 rubycoin.org
 rubypool.com
 ruhacktester.site
 ruijovxeffglgo.bid
 ruisgood.ru
+rukzuk.xyz
 ruoypiedfpov.com
 rupool.org
 rupool.pro
 rupool.tk
+rupoolproject.com
 ruqckzdjsoe.bid
 rurjxaovebr.bid
 rus.ec
@@ -7421,6 +8751,7 @@ ruvuryua.ru
 ruzttiecdedv.com
 rveftfohdybpwv.bid
 rvmwyfvfxendw.bid
+rvnmining.live
 rvoxndszxwmo.com
 rvrfoskjq.bid
 rvvslhmmbor.com
@@ -7438,6 +8769,7 @@ rxisfwvggzot.com
 rxjyjfkzzbl.bid
 rxjzpvsziytui.bid
 rxknixwwt.bid
+rxrat.com
 rxsazdeoypma.com
 rxuqpktyqixa.com
 rxyeukffow.bid
@@ -7458,6 +8790,7 @@ s-games.xyz
 s2ii.xyz
 s7ven.com
 s9pool.com
+sabiasque.space
 safelinkconverter.com
 safex.io
 safex.org
@@ -7467,6 +8800,7 @@ sagulzuyvybu.com
 sailznsgbygz.com
 sakthikaa.com
 salamaleyum.com
+salamantex.com
 salhbbkvs.com
 salon.com
 saltblock.io
@@ -7478,9 +8812,11 @@ santananb.info
 sapphiremine.ml
 sapvummffiay.com
 saqcgojcure.bid
+sargatxet.cloud
 sasieidpe.bid
 sasqhtfxsnklxn.bid
 satjrvwtaertn.com
+satonetwork.com
 satoshimine.com
 satoshispool.com
 satowallet.com
@@ -7512,7 +8848,9 @@ scgnsficmwipuj.bid
 scgyndrujhzf.com
 schaetter.us
 scharmbeck.com
+scholarshipcoin.org
 schoollt.cn
+science<.
 sckpttzpnfimba.bid
 scofnjymyym.bid
 scpool.xyz
@@ -7542,6 +8880,9 @@ secretpool.ru
 secumine.net
 securepayment.cc
 seed.ac
+seedpool.io
+seedpool.org
+seeks.live
 seiqobwpbofg.com
 sejun.info
 sekllcjbujp.bid
@@ -7560,6 +8901,7 @@ seoclubs.pw
 seotpqntjukhg.bid
 serie-vostfr.com
 sero-pool.cn
+sero.cash
 serv1swork.com
 servebeer.com
 servegame.com
@@ -7567,6 +8909,7 @@ servepics.com
 server.com
 serverpower.net
 service4refresh.info
+serviciosrosario.com.ar
 setup-game.xyz
 sevabit.com
 seympfgeyrew.com
@@ -7583,11 +8926,14 @@ sghradxea.bid
 sgkcijmcduuhhq.bid
 sgpbbfdchy.com
 sgqmhpqrstwzwd.com
+sh<.
 sha256.io
+shaferglazer.com
 shapeshift.io
 shardpool.io
 sharing-is-caring.info
 sharkcoin.xyz
+shay.services
 shentaiesp.asia
 sheos.org
 shibepool.com
@@ -7599,6 +8945,7 @@ shoptoptop.com
 showcoins.org
 shpool.net
 shrink-service.it
+shroudx.eu
 shscrypto.net
 shthbopqoz.bid
 shvdvzydgryx.com
@@ -7612,14 +8959,22 @@ sickrage.ca
 sighash.info
 sigmapool.com
 signal2noi.se
+signum-mining.network
+signum.land
+signum.space
+signumcoin.ro
+signumpool.com
+signumpool.de
 siihxeeb.com
 sijlnueeertd.com
 silimbompom.com
 silrfbopbobw.com
+simka.pw
 simpleco.in
 simplecoin.us
 simpledoge.com
 simpledrk.com
+simpleminer.app
 simplemining.net
 simplemulti.com
 simplepool.li
@@ -7649,8 +9004,11 @@ skencituer.com
 skknyxzaixws.com
 sklulpbnbqf.bid
 skoyuoqhcpxol.bid
+skralg.com
 sktmonpbfgxamj.bid
 skunz.ru
+skydogepool.xyz
+skynet.ai
 skypool.ca
 skypool.co
 skypool.org
@@ -7672,9 +9030,12 @@ slugmonkeypool.net
 slushpool.com
 sm3na.com
 sm520.vip
+smallfarmsunltd.com
 smalltimeminer.com
 smartcash.cc
 smartcoinpool.com
+smartcoinpool.net
+smartcubecoin.site
 smartmine.club
 smartmining.net
 smartoffer.si
@@ -7688,6 +9049,7 @@ smithpool.net
 smjdypbxapigu.bid
 smoothmine.com
 smpool.net
+smpool.org
 smsbyoxarip.bid
 smtuovnhxnn.bid
 smudlbatfjbut.bid
@@ -7696,16 +9058,19 @@ snapzil.com
 snaxbgzg.bid
 snetddbbbgbp.com
 snfqpqyecdrb.com
+sng-union-pool.com
 sngjaetjozyr.com
 snhfjfnvgnry.com
 snhfmewkai.bid
 snhuxhdjlxrd.bid
+snowflake-net.com
 snowgempool.com
 snowmining.com
 snsyebgupi.bid
 snxjlicc.com
 so.tl
 socialextensions.top
+societatis.io
 sockjgaabayf.com
 socxihke.bid
 sohdqpqlgis.com
@@ -7715,10 +9080,13 @@ soiegibhwvti.com
 soirqzccdtyk.com
 sokanffuyinr.com
 solarray.club
+soloblocks.io
 soloblox.com
 solomine.org
 solomining.io
 solopool.org
+solopools.net
+solopools.org
 somec.cc
 somepoolsite.com
 sonofatech.com
@@ -7732,11 +9100,21 @@ sopzefqypxas.bid
 sosoeazy.info
 sossxjmotqqs.com
 soszgtvox.bid
+south40pool.com
+southmining.eu
+southmountainpool.xyz
 sovcbhem.bid
 sovqylkbucid.com
 soyminero.es
+space-pool.io
+spacefarmers.club
+spacefarmers.io
+spacepool.sh
 spacepools.org
+spacetimepool.com
 spaceworks.co
+spainpool.es
+spainpool.online
 sparechange.io
 sparkpool.com
 sparnove.com
@@ -7745,6 +9123,7 @@ spectresecurity.io
 speedpool.to
 speedpool.top
 speedup-faucet.com
+spermpool.net
 sperocoin.org
 spfrlpjmvkmq.com
 spiderpool.com
@@ -7768,6 +9147,8 @@ sqnezuqjdbhe.com
 sqopuafrwvnouz.bid
 squashpool.com
 squidpool.com
+squishycoin.us
+srbminer.com
 srbrdogg.bid
 srcip.com
 srcips.com
@@ -7791,6 +9172,7 @@ ssowfsbps.bid
 ssuhghnjxbp.bid
 ssvolkkihcyp.com
 ssyyeufsqbra.bid
+stable.ovh
 stablemoneropool.com
 stackpathdns.com
 stakecube.net
@@ -7801,6 +9183,7 @@ staking.world
 stalwartbucks.com
 starcoins.ws
 stardoge.cc
+startchia.net
 starteos.io
 startminer.com
 startmining.pl
@@ -7842,6 +9225,7 @@ stringclass.com
 stringengines.com
 stwcozfiavhh.bid
 stx.nl
+style="z-index.
 styx.net.pl
 suanlishe.com
 subloader.cf
@@ -7850,10 +9234,14 @@ suchpool.pw
 sucrecoin.org
 sufjqebhmfo.bid
 sufzmohljbgw.com
+sugarchain.eu
 sugarchain.org
 suhprdfb.bid
+sullypool.com
 sumcoinmining.org
+sumcoinpool.com
 sumcoinpool.org
+sumohash.com
 sumokoin-pool.com
 sumokoin.ch
 sumokoin.com
@@ -7873,6 +9261,7 @@ sunpool.top
 suonvyzivnfy.com
 superbay.li
 superbitcoiner.com
+supermine.io
 superminer.vip
 superone.io
 superpool.win
@@ -7905,6 +9294,7 @@ swampthing.net
 swap.fyi
 swclpfypife.bid
 sweetbook.net
+sweetchia.com
 swepool.org
 swfqsfewk.bid
 swgvpkwmojcv.com
@@ -8004,8 +9394,11 @@ tdxqgpfkiye.bid
 tdxuojiufz.bid
 teamcoinye.com
 teamdoge.com
+tech-33.com
+techniservinc.com
 techtricksworld.com
 tecracoin.io
+teepool.com
 tefwraudu.bid
 tekirovaa.ru
 tekyboy.tk
@@ -8020,10 +9413,11 @@ teramill.com
 tercabilis.info
 terethat.ru
 terorie.com
+terracoin.org
 terrahash.cc
+terrapool.io
 tesoro.network
 test-hf.su
-test11.
 testfront.tk
 testnet-btcp.th
 testserino.de
@@ -8054,13 +9448,16 @@ thatresha.com
 thcumizbjxnp.bid
 the-miners.de
 theappguruz.com
+thebeepool.com
 thebestplaza.com
 thebetteroptions.win
 thebigpool.net
+thebigpool.org
 theblocksfactory.com
 thecoin.pw
 thecoinrush.com
 thecoinsmining.com
+thecollectivepool.com
 thecryptochat.net
 thecryptominerpool.com
 thedailyminer.com
@@ -8068,8 +9465,10 @@ thedarkcoinmine.com
 thedarkpool.tk
 thedimi.net
 thedreadpool.eu
+thegroovynerd.com
 thekingstat.com
 theminerspond.com
+theminingplace.com
 theminingpool.online
 theminingpools.com
 thenewgamer.club
@@ -8105,6 +9504,7 @@ thewhizmarketing.com
 thewhizproducts.com
 thewise.com
 thibzxxtotyqg.bid
+thirdpowerlife.com
 thjuvpgdmjj.com
 thncnkzupxwlbo.bid
 thnqemehtyfe.com
@@ -8122,6 +9522,9 @@ thzshxisa.bid
 tiajians.com
 ticketszones.com
 tidafors.xyz
+tidebull.com
+tidecoin.exchange
+tidepool.ru
 tiemuantodayus.bid
 tienribwjswv.com
 tigzuaivmtgo.com
@@ -8131,11 +9534,13 @@ tikwglketskr.com
 timeteh.com
 timetomine.net
 timonnbfad.bid
+timyg.org
 tinlgcmkslwio.bid
 tiny-pool.com
 tiosmqhuuzb.bid
 tiouqzubepuy.com
 tiswsdusmdig.com
+titan.io
 titlenet.org
 tiunnitm.bid
 tivbpmwvqyyrjc.com
@@ -8149,6 +9554,7 @@ tjkrhnwfuj.bid
 tjnhsjxi.bid
 tjpzulhghqai.com
 tjyzjtkutqvb.bid
+tk<.
 tkeeebdseixv.com
 tkfsmiyiozuo.com
 tkfusktjaok.bid
@@ -8172,6 +9578,7 @@ tmjavresvaqxly.bid
 tmmpbkwnzilv.com
 tmrhtbbhrfbx.bid
 tmsminer.com
+tmspool.top
 tmvwirgifkkdtn.bid
 tmweb.ru
 tmwhazsjnhip.com
@@ -8185,6 +9592,7 @@ tnkrspdmhdmrfn.bid
 tnllizzqv.bid
 tnmzfygctupqr.bid
 tnyomnyezzz.bid
+to-support.me
 toastpool.com
 tocotlkfjo.bid
 todogecoin.biz
@@ -8192,6 +9600,7 @@ toflvbkpwxcr.com
 toftofcal.com
 tokenika.io
 tokenomics.app
+tokenview.com
 tokyodrift.ga
 tomopool.com
 tomostake.com
@@ -8244,6 +9653,7 @@ traffic-service.info
 traffic-tech-service.info
 tragocoin.com
 traid.tv
+transactioncoinmining.com
 traumasister.tk
 travel-offers.review
 traviilo.com
@@ -8257,15 +9667,21 @@ triplehexxx.net
 triplemining.com
 tritaniummining.com
 trivechain.com
+trollbitt.com
 trossmining.de
 trqbzsxnzxmf.com
 trtl.ninja
 trtl.services
 trtlbutton.com
+truepool.io
 trumpcoin.com
+trustaproiam.de
+trusteverything.de
+trustpool.cc
 trustpool.ru
 trvposbevwxvo.bid
 tsdjuuytw7udw.ru
+tsfpool.com
 tsfpool.xyz
 tsjnzilsuzoxm.bid
 tskctmvpwjdb.com
@@ -8276,7 +9692,9 @@ tsptvvyema.bid
 tssxnbuaxctjn.bid
 tsuitufixxlf.com
 tsybqlldfsstw.bid
+ttcorp.net
 ttdaxwrryiou.com
+ttdpool.com
 ttgwyqmuhfhx.com
 ttmnngecelky.bid
 ttqdlwzgpml.bid
@@ -8289,6 +9707,7 @@ tugae2.com
 tujswypf.bid
 tuldmgwvimgowg.com
 tulip18.com
+tumblr.com
 tumfvfvyxusz.com
 tummiarunzpf.com
 tun4.life
@@ -8315,6 +9734,7 @@ tvnetfcgpjq.bid
 tvoykqiea.com
 tvqmuysbnorks.bid
 tvxcesibr.bid
+tw-pool.com
 twchmlyexaku.bid
 tweth.tw
 twfzouvm.com
@@ -8326,18 +9746,22 @@ twvmqhjjgj.com
 twwkliuxoidxxa.bid
 twystidmining.com
 twyzufga.bid
+twzminingpool.com
 txchange.online
 txculuvxznldwa.bid
 txdnlclxij.bid
 txgklvrqjfubzn.bid
 txjzxbykbaflu.bid
 txknowcznfp.bid
+txt">.
+txt.
 txvxzkwyelnvb.bid
 txwnwvhkbtzb.com
 txwvuadjcknuj.bid
 txwzdalmamma.com
 txxcoin.tech
 txyxoktogdcy.com
+type="text".
 typeform.com
 typemine.com
 tytzcsgxpaywui.bid
@@ -8383,6 +9807,7 @@ ucrypto.net
 uczxsaxdlpedxl.bid
 udbmqqkl.bid
 udbwpgvnalth.com
+udonminer.com
 udqgbokvzbnqkf.ru
 udrwyjpwjfeg.com
 uebavnacbjbr.bid
@@ -8421,6 +9846,7 @@ uilwbcwxgq.bid
 uipjeyipoumf.com
 uiydukxbls.bid
 uiyeiafffdex.com
+ujak.cz
 ujdctbsbbimb.com
 ujebryyesbeymm.bid
 ujjotriglqpkjh.com
@@ -8435,6 +9861,7 @@ ukjzdydnveuc.com
 ukkey3.space
 ukolwxqopahb.com
 ukp2pool.uk
+ukrainepool.space
 ukrpool.com
 ukvkloytfaw.bid
 ukxeudykhgdi.com
@@ -8451,6 +9878,7 @@ uloma.xyz
 ulpxnhiugynh.com
 ultimatecoinpool.com
 ultimatepool.io
+ultimuspool.com
 ultra-cdn.pl
 ultranote.org
 ulwsjpfxwniz.com
@@ -8480,9 +9908,11 @@ unimining.net
 uniool.ro
 unipool.pro
 united-miners.com
+unitedchia.com
 universalpool.net
 unlimitedeos.com
 unlupxiky.bid
+unmineable.com
 unms.xyz
 unrbpcqmiybu.com
 unrummaged.com
@@ -8505,6 +9935,7 @@ updateflash.xyz
 upgraderservices.cf
 upgwdilkhlwguz.bid
 upool.in
+upool.ir
 uptomical.win
 upxpool.com
 uqhtuahgfmcx.com
@@ -8549,6 +9980,7 @@ utyhzjbwfyrz.bid
 utzpjbrtyjuj.com
 uuacjdostjloa.bid
 uukqjcucva.com
+uunigate.com
 uupjizxqf.bid
 uupool.cn
 uupool.com
@@ -8598,6 +10030,7 @@ uzvjymcnwngwau.bid
 uzwweczttqlayd.com
 uzxbnlwauycnp.bid
 uzzhylmprb.bid
+v6pool.com
 v7kingsun.com
 vacnuuitxqot.com
 vadfygtg.bid
@@ -8605,10 +10038,15 @@ vaeucrdlulu.bid
 vafmypxwomid.com
 vaghwpbslvbu.com
 vagttuyfeuij.com
+valhala.is
+value="&lt;script src=&quot;https.
 valuto.io
 vamuglchdpte.com
 vanibwlu.bid
+vanthoi.net
 vaoajrwmjzxp.com
+vaporumpool.us
+vastpool.net
 vauwjladxhpx.bid
 vawlydqyujwmha.com
 vazzpool-etc.com
@@ -8657,6 +10095,7 @@ veilmine.com
 vejrnvdsrvrbij.bid
 veopool.pw
 vepcsswlpolz.com
+vergecurrency.com
 veriblock.org
 veriblockpool.com
 vericoin.info
@@ -8702,6 +10141,7 @@ vhuveukirbuz.com
 vhwuphctrfil.com
 vhzzzbdtxhh.bid
 viabtc.com
+viabtc.net
 viaxmr.com
 viciousminer.com
 vicofhozbuaf.com
@@ -8718,13 +10158,17 @@ vidulum.app
 vidzi.tv
 viewyng.com
 vigrjuksi.bid
+vikingsminers.com
 vimenhhpqnb.com
 vimlsrcfgjyr.bid
 vinchain.io
+vinlex.pw
 vinumeris.com
 vip69.ru
 vipool.net
+viptocoin.com
 viqfxgmgacxv.com
+virdpool.com
 virtopia.ca
 virtuallakshmi.com
 vistaxmr.com
@@ -8777,6 +10221,8 @@ voiplanparty.com
 voksuksb.bid
 vokvlthjzt.bid
 volleqgoafcb.com
+volt-mine.com
+voltpot.org
 volyncftzhw.bid
 vomhhsovuu.bid
 voumxy.ru
@@ -8884,10 +10330,12 @@ waentchjzuwq.com
 wafavwthigmc.com
 wafflepool.com
 wafrszmnbshq.com
+walemo.cc
 walemo.com
 wallet-ethereum.com
 walletgenerator.net
 wallpool.com
+wallstreetv2.com
 walpool.com
 wanli.uno
 wanuqtwwpvglcr.bid
@@ -8920,6 +10368,8 @@ wdf-pool.com
 wdnalofau.bid
 wdvmxgwwyzoq.bid
 wdxhjmot.bid
+wea.pw
+weapool.ml
 wearesaudis.net
 weassu.pw
 webassembly.st
@@ -8953,6 +10403,7 @@ weekwkbulvsy.com
 weeminepool.com
 wegbgideb.com
 wehtkuhlwsxy.com
+weikeji.icu
 weipool.org
 wellgitu.xyz
 welzgxwtvto.bid
@@ -8989,6 +10440,8 @@ whitepool.net
 whitewalr.us
 whkwbllcctfm.com
 whoissure.com
+whosmining.com
+whpool.ru
 whsldqctrvuk.com
 whuvrlmzyvzy.com
 whxhegjrqlddko.com
@@ -8998,6 +10451,7 @@ whysoserius.club
 wibvytsxrm.bid
 wickedmine.com
 wicxfvlozsqz.com
+widecoin.org
 wienchain.com
 wifteakcp.bid
 wildianing.ru
@@ -9008,14 +10462,18 @@ win-flash.xyz
 win64-flash.xyz
 win7flash.xyz
 windowsdefenderhost.com
+wingnutcrypto.com
+winxmr.club
 wiorcewmylbe.com
 wipcpwadysghx.com
 wipjyzwavojq.com
 wirfpvmoblpa.com
+witpool.net
 witthethim.com
 wittyoffers.club
 wix.com
 wixdns.net
+wixsite.com
 wizejdnlqwcb.com
 wjdjovjrxsqx.com
 wjkwjcmeymu.com
@@ -9137,6 +10595,7 @@ wvxywejnmpsh.bid
 wwfjhzut.bid
 wwgysckwouvzkm.bid
 wwiqinsra.bid
+wwlm.net
 www.be
 www.fr
 www.mu
@@ -9163,6 +10622,7 @@ wzfgjtcgwdauf.bid
 wzlgmbmwq.bid
 wzyagambcfn.bid
 x-mining.io
+x-pool.io
 x11p2p.com
 x1f4b0.com
 x2pool.com
@@ -9185,6 +10645,15 @@ xbyvexekkrnt.com
 xbzmworkoyrx.com
 xcakezoqgkmj.com
 xcbiscycvs.bid
+xch.blue
+xch.club
+xch.garden
+xchfarm.de
+xchfarmingpool.eu
+xchpool.cloud
+xchpool.io
+xchpool.org
+xchscan.com
 xcmfhdbumademo.bid
 xconeeitqrrq.com
 xcrruqesggzc.com
@@ -9204,6 +10673,7 @@ xeeyzkylhgprgx.bid
 xegavyzkxowj.com
 xegvnhpwytev.com
 xeminer.net
+xerox3000webhostapp.com
 xewzazxkmzpc.com
 xfgpmvlacsojy.bid
 xftyznkmppep.bid
@@ -9255,9 +10725,12 @@ xljfxjbjw.bid
 xlvausdwsmyoww.bid
 xmbyoyvs.bid
 xmg.cool
+xmine.farm
+xminers.ru
 xmining.pro
 xminingool.com
 xminingpool.com
+xminrers.ru
 xmr-school.cf
 xmr-tw.org
 xmr.co
@@ -9268,6 +10741,7 @@ xmr.pt
 xmr.to
 xmr5b.ru
 xmrbackb.one
+xmrfast.com
 xmrget.com
 xmrhub.com
 xmrig.com
@@ -9278,15 +10752,20 @@ xmrlab.com
 xmrm.pw
 xmrminer.cc
 xmrminerpro.com
+xmrminers.club
+xmrmining.live
 xmrminingpool.net
 xmrminingpro.com
 xmrminingproxy.com
 xmrpool.com
 xmrpool.de
 xmrpool.eu
+xmrpool.me
 xmrpool.net
 xmrpool.xyz
 xmrpow.de
+xmrvsbeast.com
+xmrzone.net
 xmsilo.xyz
 xmwqbnrbvghq.bid
 xn--bittex-zhb.com
@@ -9355,6 +10834,7 @@ xqygrmkga.bid
 xqzkpmrgcpsw.com
 xrdutkydekqpxu.bid
 xrgqermbslvg.com
+xrhodium.org
 xrivpngzagpy.com
 xrmtjxxeerbew.bid
 xrmwainxxr.bid
@@ -9387,6 +10867,7 @@ xtrella.io
 xttcpyfgjdkl.bid
 xttfbyjird.bid
 xtuenvlsoenwn.bid
+xtumblr.me
 xtzslqieeh.bid
 xudrwfesrzl.bid
 xugnzawkrkvu.com
@@ -9426,6 +10907,7 @@ xyknfufvlk.bid
 xymyozxsofipvq.com
 xyrjlbxkxojoi.bid
 xyvjknwxwtf.bid
+xyz<.
 xzfjznfiuawv.bid
 xzhmjoch.bid
 xzibhixbsler.bid
@@ -9437,6 +10919,7 @@ xzrm.com
 xzwdhymrdxyp.com
 xzzcasiospbn.com
 y4n3d3b1l.ru
+yadacoin.io
 yaifxxudxyns.com
 yaizwjvnxctz.com
 yalyuzvlr.bid
@@ -9478,6 +10961,7 @@ yecviqwkapujp.bid
 yelts.net
 yenrsvttsfmqd.bid
 yenten-pool.info
+yenten-pool.ml
 yeonenukejm.bid
 yepiafsrxffl.com
 yesubqwrfvepm.bid
@@ -9511,6 +10995,7 @@ yihibfmdq.bid
 yiimp.eu
 yikkagezqsob.com
 yiklmnmijwlryv.com
+yiluzhuanqian.com
 yincrkvptefw.bid
 yivsfcxf.bid
 yizaiwl.cc
@@ -9536,6 +11021,7 @@ yljrefexjymy.com
 ylmnpenjdn.com
 ylqezcnlzfsj.com
 ylsbuudmpiks.bid
+ymca.one
 ymgjxtmtfl.bid
 ymlbuooxppzt.com
 ymuhtjftw.bid
@@ -9559,8 +11045,10 @@ youpool.eu
 youpool.io
 youporn.sexy
 yourbtc.net
+yourchiapool.com
 yourloganalytics.com
 yourpool.org
+yourpool.uk
 yovbkyylqlmkg.bid
 yoywgmzjgtfl.com
 ypcuhmevrq.bid
@@ -9593,6 +11081,7 @@ yrzukplqjwxst.bid
 ysdacdbitdy.bid
 ysdxcrighudjmw.com
 ysexxayb.bid
+yslyy.com
 ysqdjkermxyt.com
 ysrbddieabo.bid
 yszbigwywfzk.bid
@@ -9605,6 +11094,7 @@ ytjadaazjjy.bid
 ytmmpddn.bid
 ytrojdjen.bid
 ytskrsravfqyuc.bid
+yunpools.com
 yupwqyocvvnw.com
 yuywwcizs.com
 yuyyio.com
@@ -9648,12 +11138,14 @@ yzlwuuzzehjh.com
 yzreywobobmw.com
 z-pool.com
 z.cash
+z2giga.link
 za.net
 zacbwfgqvxan.com
 zaczpeabsygpdz.bid
 zafwmwiaqckgmc.bid
 zaixmrpool.com
 zaloapp.com
+zanopool.com
 zansceeifcmm.com
 zapto.org
 zarabotaibitok.ru
@@ -9707,11 +11199,16 @@ zer0day.ru
 zergpool.com
 zeroclassic.org
 zerocurrency.io
+zerofeespool.cc
+zerool.ru
 zeropool.io
 zeropool.org
+zeropool.ru
 zeroxeos.com
 zet-tech.eu
+zetpool.org
 zettapool.com
+zeusminingpool.com
 zeuwuxfzvaoqp.bid
 zeyiihbqbswtn.bid
 zezowfisdfyn.com
@@ -9737,6 +11234,7 @@ zhkziiaajuad.com
 zhqzqupvgczom.com
 zhrbwgylkeqmb.bid
 zhtcuchr.bid
+zhupool.org
 ziaxamkssw.com
 ziglpcxcxetsi.com
 zijkalirgmyzj.bid
@@ -9787,6 +11285,7 @@ zombiepool.ru
 zombiepool.run
 zona.pl
 zona.plus
+zone<.
 zowhxkwzjpta.com
 zpctncydojjh.com
 zpfjfwbij.com
@@ -9825,6 +11324,7 @@ ztioesdyffrr.com
 ztmwkxvvyoao.com
 ztracker.xyz
 ztwfeajx.bid
+ztyj0000.com
 ztzfcmbsycout.bid
 zualhpolssus.com
 zubovskaya-banya.ru
@@ -9842,6 +11342,8 @@ zvuespzsdgdq.com
 zvuhanie.ml
 zwbyxaojzxc.bid
 zwcuvwssfydj.com
+zwembad.xyz
+zwempool.xyz
 zwjnzhln.bid
 zwurpwlleo.bid
 zwxfsqruqlim.com
@@ -9853,13 +11355,19 @@ zxazzpdvhf.bid
 zxbjgrxbcgrp.com
 zxjmybvewmso.com
 zxmkvelyft.bid
+zxnexus.com
 zxqeycvsetkh.com
+zy2giga.link
 zybztgtsxq.bid
 zyfuywrjbxyf.com
 zyjjmszszum.bid
 zyleqnzmvupg.com
 zylokfmgrtzv.com
+zym2giga.link
 zymaevtin.bid
+zyme2giga.link
+zymer2giga.link
+zymerge2giga.link
 zymerget.bi
 zymerget.bid
 zymerget.date
@@ -9869,8 +11377,11 @@ zymerget.party
 zymerget.st
 zymerget.stream
 zymerget.win
+zymerget2giga.link
 zymngxjmm.bid
-zypze2giga.link
+zyng2giga.link
+zyngab2giga.link
+zyngablo2giga.link
 zyqlfplqdgxu.com
 zyrkminer.com
 zyxtecsff.bid
