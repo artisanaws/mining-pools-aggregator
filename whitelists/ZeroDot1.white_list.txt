@@ -6,9 +6,7 @@
 ################################################################################
 
 audioknigi.club
-badbitcoin.org
 balena-io.github.io
-bitcoin.org
 codeload.github.com
 fitgirl-repacks.site
 github.com

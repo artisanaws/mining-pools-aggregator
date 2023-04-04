@@ -5,7 +5,10 @@ localhost
 127.0.0.1
 0.0.0.0
 1.1.1.1
-test22
+amazon.com
+*.amazon.com
+amazonaws.com
+*.amazonaws.com
 *.co.uk
 *.co.bb
 *.co.ck
