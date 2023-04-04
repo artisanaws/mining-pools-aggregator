@@ -637,8 +637,6 @@
 *.amazingbtcdeposit.com
 *.amazingdeposit.com
 *.amazingsystems.nl
-*.amazonaws.com
-*.amazonhash.com
 *.amberescoin.com
 *.ambis.biz
 *.amdhlyqfy.bid

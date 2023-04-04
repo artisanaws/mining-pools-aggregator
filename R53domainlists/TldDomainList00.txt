@@ -261,6 +261,7 @@
 769.it
 777bitcoi.in
 777payouts.com
+
 7blockchain.net
 7btc.io
 7ci.ru
@@ -637,8 +638,6 @@ amazingbitcoin.org
 amazingbtcdeposit.com
 amazingdeposit.com
 amazingsystems.nl
-amazonaws.com
-amazonhash.com
 amberescoin.com
 ambis.biz
 amdhlyqfy.bid
