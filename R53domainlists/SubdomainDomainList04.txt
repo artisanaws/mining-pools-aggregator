@@ -104,7 +104,6 @@
 *.fucrzdux.bid
 *.fuhgvhuukl.bid
 *.fumetonjoint.com
-*.fun<.
 *.fungibly.xyz
 *.funkymonkey.org
 *.funkypenguin.co.nz
@@ -153,7 +152,6 @@
 *.g-content.bi
 *.g-content.bid
 *.g1thub.com
-*.ga<.
 *.gaaprokoduuyyn.bid
 *.gabberpool.nl
 *.gabberpool.xyz
@@ -397,7 +395,6 @@
 *.gpuminers.hu
 *.gpumining.cc
 *.gpumining.ir
-*.gq<.
 *.gqlqgmiahdtoyl.bid
 *.gqnmautydwky.com
 *.gqnotcpintcq.bid
@@ -876,7 +873,6 @@
 *.hqsxomhxwhpq.com
 *.hqxtsqwpvort.com
 *.hrdbamvfzipe.com
-*.href=".
 *.hrfbfuxksimzi.bid
 *.hrfziiddxa.ru
 *.hrkshoveizfo.com
@@ -999,7 +995,6 @@
 *.icxssspyxquw.bid
 *.icyddcsjbqjxz.bid
 *.icyfqtjj.bid
-*.id="gist-share-url".
 *.idc.my.id
 *.idc1769.it
 *.idc3389.top

@@ -45,6 +45,10 @@ aggregates all files in blacklists folder into one, subtracts anything from whit
 
 There's a few lists that I found but that didn't make the cut saved into `excluded` dir. Mainly because of formatting issues.
 
+#### Troubleshooting
+
+The generate_lists.py file is supposed to de-dupe entries, but I've found that some still sneak in. Similarly, the crawler sometimes captures CSS and HTML. You need to clean up the domain lists and remove this stuff before uploading them to R53.
+
 ## How to extend?
 
 - Add urls to blacklist into `blacklists/CUSTOM_blacklist.txt`

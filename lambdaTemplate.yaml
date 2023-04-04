@@ -1,0 +1,69 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: CloudFormation template for Lambda function generating random IP address from 54.255.0.0/16 range
+Resources:
+  RandomIPGeneratorLambdaRole:
+    Type: AWS::IAM::Role
+    Properties:
+      AssumeRolePolicyDocument:
+        Version: '2012-10-17'
+        Statement:
+          - Effect: Allow
+            Principal:
+              Service:
+                - lambda.amazonaws.com
+            Action:
+              - sts:AssumeRole
+      Policies:
+        - PolicyName: RandomIPGeneratorLambdaPolicy
+          PolicyDocument:
+            Version: '2012-10-17'
+            Statement:
+              - Effect: Allow
+                Action:
+                  - logs:CreateLogGroup
+                  - logs:CreateLogStream
+                  - logs:PutLogEvents
+                Resource: 'arn:aws:logs:*:*:*'
+
+  RandomIPGeneratorLambda:
+      Type: AWS::Lambda::Function
+      Properties:
+        FunctionName: RandomIPGenerator
+        Handler: index.handler
+        Runtime: python3.8
+        Role: !GetAtt RandomIPGeneratorLambdaRole.Arn
+        Code:
+          ZipFile: |
+            import os
+            import random
+            import json
+            import socket
+            import struct
+            from ipaddress import IPv4Network
+
+            def handler(event, context):
+                ip_range = "54.255.0.0/16"
+                subnet = IPv4Network(ip_range)
+
+                random_ip = random.choice(list(subnet.hosts()))
+                response = {
+                    "statusCode": 200,
+                    "body": json.dumps({
+                        "random_ip": str(random_ip)
+                    })
+                }
+
+                return response
+        Timeout: 10
+        MemorySize: 128
+
+  GenerateIP:
+    Type: AWS::CloudFormation::CustomResource
+    Properties:
+      ServiceToken: !GetAtt RandomIPGeneratorLambda.Arn
+
+Outputs:
+  RandomIPGeneratorLambdaOutput:
+    Description: 'ARN of the Random IP Generator Lambda function'
+    Value: !GetAtt RandomIPGeneratorLambda.Arn
+

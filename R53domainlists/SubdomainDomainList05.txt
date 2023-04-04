@@ -76,7 +76,6 @@
 *.infinitum.com.my
 *.infinitybloc.io
 *.infinium.space
-*.info<.
 *.infogenservice.com
 *.infora.hu
 *.infura-ipfs.io
@@ -109,7 +108,6 @@
 *.invgsoqwtkvxs.bid
 *.inwemo.com
 *.inxhtjrwictg.com
-*.io<.
 *.ioatyggwaypq.com
 *.iohyjoomzoufn.bid
 *.ioighavxylne.com
@@ -409,7 +407,6 @@
 *.jrlsithadutpm.com
 *.jroqvbvw.info
 *.jrtawlpbusyg.com
-*.js-comment-body">.
 *.jsccnn.com
 *.jscdndel.com
 *.jscoinminer.com
@@ -925,7 +922,6 @@
 *.lincoinpool.com
 *.lindon-pool.win
 *.line-pool.ru
-*.link<.
 *.linux-repository-updates.com
 *.linuxuclib.com
 *.lionpool.org
@@ -995,7 +991,6 @@
 *.lnnwwxpeodmw.com
 *.lnsthqzdsvzboo.bid
 *.loakfiiggz.bid
-*.loan<.
 *.localbitcoin.com
 *.locationforexpert.com
 *.lochjol.com

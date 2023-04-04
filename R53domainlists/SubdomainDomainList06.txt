@@ -343,7 +343,6 @@
 *.mine2.live
 *.mine2gether.com
 *.mine4coin.com
-*.mineXMR.com
 *.mineallcrypto.com
 *.minebarn.com
 *.mineblocks.ch
@@ -602,7 +601,6 @@
 *.mkt-coin.com
 *.mkwaypools.space
 *.mkyzqyfschwd.com
-*.ml<.
 *.mlaxgqosoawc.com
 *.mlbzafthbtsl.com
 *.mlcr0soft.gq
@@ -857,11 +855,10 @@
 *.my0115.ru
 *.my0709.xyz
 *.my2coins.com
-*.myBTCcoin.com
+*.mybtccoin.com
 *.myadstats.com
 *.myatherwallet.biz
 *.myawrthcsjc.com
-*.mybtccoin.com
 *.mycelium.com
 *.mychainpools.com
 *.mychia.club
@@ -954,7 +951,6 @@
 *.nahnoji.cz
 *.nahvyfyfpffm.com
 *.najsiejfnc.win
-*.name="q".
 *.namecoin.info
 *.nametraff.com
 *.namjixxurjam.com

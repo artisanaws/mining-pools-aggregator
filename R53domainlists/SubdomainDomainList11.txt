@@ -21,7 +21,6 @@
 *.zombiepool.run
 *.zona.pl
 *.zona.plus
-*.zone<.
 *.zowhxkwzjpta.com
 *.zpctncydojjh.com
 *.zpfjfwbij.com

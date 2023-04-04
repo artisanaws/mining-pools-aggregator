@@ -1,4 +1,3 @@
-net<.
 netbill.ru
 netcodepool.org
 netflare.info
@@ -71,7 +70,6 @@ nimpool.io
 nimuecrypto.com
 ninaning.com
 ningtoldrop.ru
-ninja<.
 ninjacoin.com
 nitrokod.com
 nitsche.top
@@ -453,8 +451,6 @@ oraclechain.io
 oracolxor.io
 orchardcoins.com
 orddiltnmmlu.com
-org<.
-org^.
 orgzjdgtjmvzi.bid
 ormnduxoewtl.com
 orzsaxuicrmr.com
@@ -588,7 +584,6 @@ parsicoin.net
 parspool.net
 parthk.co.uk
 party2giga.link
-party<.
 paruvaubxwwz.bid
 pascal1.science
 pascal3.science
@@ -742,7 +737,6 @@ pkougirndckw.com
 pkoyiqjjxhsy.com
 pktgargbhjmo.com
 pkucwwgcnuxzo.bid
-placeholder="Search…".
 planet.to
 planetzapp.de
 plantchia.com
@@ -970,7 +964,6 @@ prmvrxcn.bid
 prncfucwvi.bid
 prnxtmtbbqs.bid
 pro100miners.ru
-pro<.
 procyoncoin.org
 profetestruec.net
 profitbotpro.com

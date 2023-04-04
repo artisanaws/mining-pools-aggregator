@@ -1,0 +1,27 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: 'This template creates a Serverless function that generates an IP address in the 54.255.0.0/16 range that can be used as the spoofed IP in the DNS Firewall rule.'
+
+Transform: AWS::Serverless-2016-10-31
+
+Resources:
+
+  RandomIPSelectorFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: index.handler
+      Runtime: python3.8
+      InlineCode: |
+        import random
+        import json
+
+        def handler(event, context):
+            ip = '54.255.' + str(random.randint(0, 255)) + '.' + str(random.randint(0, 255))
+            return {
+                'statusCode': 200,
+                'body': json.dumps({'ip': ip})
+            }
+
+Outputs:
+  RandomIP:
+    Description: Random IP address from the 54.255.0.0/16 range
+    Value: !Sub '54.255.${RandomIPSelectorFunction.Outputs}'

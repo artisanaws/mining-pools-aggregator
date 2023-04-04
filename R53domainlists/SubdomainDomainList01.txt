@@ -103,10 +103,6 @@
 *.argoneum.net
 *.argusminer.ca
 *.arhash.xyz
-*.aria-label="2 users forked this gist">.
-*.aria-label="Clone this repository at &lt;script src=&quot;https.
-*.aria-label="Gist".
-*.aria-label="Search".
 *.arielcoin.org
 *.arielpool.shop
 *.arikado.ru
@@ -173,7 +169,6 @@
 *.asicpool.ru
 *.asicpool.us
 *.asicpools.com
-*.asicshack.
 *.asicshop.eu
 *.asmvccgoy.bid
 *.asonno.com
@@ -253,9 +248,6 @@
 *.autobits.tr
 *.autobtcbuilder.com
 *.autobtcminer.com
-*.autocapitalize="off">.
-*.autocomplete="off".
-*.autocorrect="off".
 *.autocryptobank.com
 *.autofaucet.io
 *.autohash.tr
@@ -461,10 +453,9 @@
 *.best-cdn.pl
 *.best-game.xyz
 *.best-p2pool.eu
-*.bestETNpool.com
+*.bestetnpool.com
 *.bestchia.farm
 *.bestcoinsignals.com
-*.bestetnpool.com
 *.besti.ga
 *.bestminer.eu
 *.bestmobiworld.com
@@ -514,7 +505,6 @@
 *.bibipool.com
 *.biblepay.org
 *.bibop.net
-*.bid<.
 *.bidenpool.com
 *.biftbtajfs.bid
 *.big4u.org
@@ -701,7 +691,6 @@
 *.bixbite.pro
 *.bixin.com
 *.bixin.im
-*.biz<.
 *.bizoninvest.com
 *.bizxmr.cc
 *.bjdfckchzsa.bid
@@ -729,7 +718,6 @@
 *.bkuzcrcdh.bid
 *.bkvrdeiqtgan.bid
 *.bkxkodsmrnqd.com
-*.bl.
 *.black-pool.net
 *.blackarrowsoftware.com
 *.blackghange.ru

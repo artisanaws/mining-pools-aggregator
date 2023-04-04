@@ -7621,8 +7621,8 @@
 *.oracolxor.io
 *.orchardcoins.com
 *.orddiltnmmlu.com
-*.org<.
-*.org^.
+*.org
+*.org
 *.orgzjdgtjmvzi.bid
 *.ormnduxoewtl.com
 *.orzsaxuicrmr.com

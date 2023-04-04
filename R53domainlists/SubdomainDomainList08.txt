@@ -23,7 +23,6 @@
 *.pvoplkodbxra.com
 *.pvptwhhkfmog.com
 *.pvrybwoqcprogc.bid
-*.pw<.
 *.pwdmtyzyq.com
 *.pwgwqtgpx.com
 *.pwhsajbcymb.bid
@@ -258,7 +257,6 @@
 *.r2tube.ru
 *.r8nu86wg.me
 *.raasu.org
-*.racing<.
 *.radbtqjfp.bid
 *.radioactive.es
 *.radiotaku.net
@@ -339,7 +337,6 @@
 *.rdwfotuyp.bid
 *.reacoin.io
 *.reactor.cc
-*.readonly>.
 *.realnetwrk.com
 *.realpool.com.br
 *.realpool.eu
@@ -469,7 +466,6 @@
 *.rocimining.co.uk
 *.rocketpool.pro
 *.rocks.io
-*.rocks<.
 *.rockwall.investments
 *.roelandp.nl
 *.roflanzdarova.ru
@@ -658,7 +654,6 @@
 *.scharmbeck.com
 *.scholarshipcoin.org
 *.schoollt.cn
-*.science<.
 *.sckpttzpnfimba.bid
 *.scofnjymyym.bid
 *.scpool.xyz
@@ -734,7 +729,6 @@
 *.sgkcijmcduuhhq.bid
 *.sgpbbfdchy.com
 *.sgqmhpqrstwzwd.com
-*.sh<.
 *.sha256.io
 *.shaferglazer.com
 *.shapeshift.io

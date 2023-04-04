@@ -1,0 +1,374 @@
+AWSTemplateFormatVersion: 2010-09-09
+Description: This template retrieves the blocklists from S3 and uses them to deploy a DNS firewall into an account
+
+Resources:
+
+  ################################################################################################
+  # DNS Resolver Firewall Rule Group Domain Lists and VPC association                                                                       #          
+  ################################################################################################
+
+  ###---Create domain lists for TLDs---###
+
+  DnsFirewallTldBlockList00:
+    Type: AWS::Route53Resolver::FirewallDomainList
+    Properties: 
+      DomainFileUrl: s3://aws-tc-largeobjects/domainlists/TldDomainList00.txt
+
+  DnsFirewallTldBlockList01:
+    Type: AWS::Route53Resolver::FirewallDomainList
+    Properties: 
+      DomainFileUrl: s3://aws-tc-largeobjects/domainlists/TldDomainList01.txt
+
+  DnsFirewallTldBlockList02:
+    Type: AWS::Route53Resolver::FirewallDomainList
+    Properties: 
+      DomainFileUrl: s3://aws-tc-largeobjects/domainlists/TldDomainList02.txt
+
+  DnsFirewallTldBlockList03:
+    Type: AWS::Route53Resolver::FirewallDomainList
+    Properties: 
+      DomainFileUrl: s3://aws-tc-largeobjects/domainlists/TldDomainList03.txt
+
+  DnsFirewallTldBlockList04:
+    Type: AWS::Route53Resolver::FirewallDomainList
+    Properties: 
+      DomainFileUrl: s3://aws-tc-largeobjects/domainlists/TldDomainList04.txt
+
+  DnsFirewallTldBlockList05:
+    Type: AWS::Route53Resolver::FirewallDomainList
+    Properties: 
+      DomainFileUrl: s3://aws-tc-largeobjects/domainlists/TldDomainList05.txt
+
+  DnsFirewallTldBlockList06:
+    Type: AWS::Route53Resolver::FirewallDomainList
+    Properties: 
+      DomainFileUrl: s3://aws-tc-largeobjects/domainlists/TldDomainList06.txt
+
+  DnsFirewallTldBlockList07:
+    Type: AWS::Route53Resolver::FirewallDomainList
+    Properties: 
+      DomainFileUrl: s3://aws-tc-largeobjects/domainlists/TldDomainList07.txt
+
+  DnsFirewallTldBlockList08:
+    Type: AWS::Route53Resolver::FirewallDomainList
+    Properties: 
+      DomainFileUrl: s3://aws-tc-largeobjects/domainlists/TldDomainList08.txt
+
+  DnsFirewallTldBlockList09:
+    Type: AWS::Route53Resolver::FirewallDomainList
+    Properties: 
+      DomainFileUrl: s3://aws-tc-largeobjects/domainlists/TldDomainList09.txt
+
+  DnsFirewallTldBlockList10:
+    Type: AWS::Route53Resolver::FirewallDomainList
+    Properties: 
+      DomainFileUrl: s3://aws-tc-largeobjects/domainlists/TldDomainList10.txt
+
+  DnsFirewallTldBlockList11:
+    Type: AWS::Route53Resolver::FirewallDomainList
+    Properties: 
+      DomainFileUrl: s3://aws-tc-largeobjects/domainlists/TldDomainList11.txt
+
+  # ###---Create domain lists for Subdomains ---###
+
+  DnsFirewallSubdomainBlockList00:
+    Type: AWS::Route53Resolver::FirewallDomainList
+    Properties: 
+      DomainFileUrl: s3://aws-tc-largeobjects/domainlists/SubdomainDomainList00.txt
+
+  DnsFirewallSubdomainBlockList01:
+    Type: AWS::Route53Resolver::FirewallDomainList
+    Properties: 
+      DomainFileUrl: s3://aws-tc-largeobjects/domainlists/SubdomainDomainList01.txt
+
+  DnsFirewallSubdomainBlockList02:
+    Type: AWS::Route53Resolver::FirewallDomainList
+    Properties: 
+      DomainFileUrl: s3://aws-tc-largeobjects/domainlists/SubdomainDomainList02.txt
+
+  DnsFirewallSubdomainBlockList03:
+    Type: AWS::Route53Resolver::FirewallDomainList
+    Properties: 
+      DomainFileUrl: s3://aws-tc-largeobjects/domainlists/SubdomainDomainList03.txt
+
+  DnsFirewallSubdomainBlockList04:
+    Type: AWS::Route53Resolver::FirewallDomainList
+    Properties: 
+      DomainFileUrl: s3://aws-tc-largeobjects/domainlists/SubdomainDomainList04.txt
+
+  DnsFirewallSubdomainBlockList05:
+    Type: AWS::Route53Resolver::FirewallDomainList
+    Properties: 
+      DomainFileUrl: s3://aws-tc-largeobjects/domainlists/SubdomainDomainList05.txt
+
+  DnsFirewallSubdomainBlockList06:
+    Type: AWS::Route53Resolver::FirewallDomainList
+    Properties: 
+      DomainFileUrl: s3://aws-tc-largeobjects/domainlists/SubdomainDomainList06.txt
+
+  DnsFirewallSubdomainBlockList07:
+    Type: AWS::Route53Resolver::FirewallDomainList
+    Properties: 
+      DomainFileUrl: s3://aws-tc-largeobjects/domainlists/SubdomainDomainList07.txt
+
+  DnsFirewallSubdomainBlockList08:
+    Type: AWS::Route53Resolver::FirewallDomainList
+    Properties: 
+      DomainFileUrl: s3://aws-tc-largeobjects/domainlists/SubdomainDomainList08.txt
+
+  DnsFirewallSubdomainBlockList09:
+    Type: AWS::Route53Resolver::FirewallDomainList
+    Properties: 
+      DomainFileUrl: s3://aws-tc-largeobjects/domainlists/SubdomainDomainList09.txt
+
+  DnsFirewallSubdomainBlockList10:
+    Type: AWS::Route53Resolver::FirewallDomainList
+    Properties: 
+      DomainFileUrl: s3://aws-tc-largeobjects/domainlists/SubdomainDomainList10.txt
+
+  DnsFirewallSubdomainBlockList11:
+    Type: AWS::Route53Resolver::FirewallDomainList
+    Properties: 
+      DomainFileUrl: s3://aws-tc-largeobjects/domainlists/SubdomainDomainList11.txt
+
+  # ###---Create Firewall Rule Groups---###
+
+  DnsFirewallTldBlockListRuleGroup00:
+    Type: AWS::Route53Resolver::FirewallRuleGroup
+    Properties:
+      FirewallRules:
+        -
+           Action: BLOCK
+           BlockResponse: OVERRIDE
+           BlockOverrideDnsType: CNAME
+           BlockOverrideDomain: amazon.com
+           BlockOverrideTtl: 259200
+           FirewallDomainListId: !GetAtt DnsFirewallTldBlockList00.Id
+           Priority: 1
+        -
+           Action: BLOCK
+           BlockResponse: OVERRIDE
+           BlockOverrideDnsType: CNAME
+           BlockOverrideDomain: amazon.com
+           BlockOverrideTtl: 259200
+           FirewallDomainListId: !GetAtt DnsFirewallTldBlockList01.Id
+           Priority: 2
+        -
+           Action: BLOCK
+           BlockResponse: OVERRIDE
+           BlockOverrideDnsType: CNAME
+           BlockOverrideDomain: amazon.com
+           BlockOverrideTtl: 259200
+           FirewallDomainListId: !GetAtt DnsFirewallTldBlockList02.Id
+           Priority: 3
+        -
+           Action: BLOCK
+           BlockResponse: OVERRIDE
+           BlockOverrideDnsType: CNAME
+           BlockOverrideDomain: amazon.com
+           BlockOverrideTtl: 259200
+           FirewallDomainListId: !GetAtt DnsFirewallTldBlockList03.Id
+           Priority: 4
+        -
+           Action: BLOCK
+           BlockResponse: OVERRIDE
+           BlockOverrideDnsType: CNAME
+           BlockOverrideDomain: amazon.com
+           BlockOverrideTtl: 259200
+           FirewallDomainListId: !GetAtt DnsFirewallTldBlockList04.Id
+           Priority: 5
+        -
+           Action: BLOCK
+           BlockResponse: OVERRIDE
+           BlockOverrideDnsType: CNAME
+           BlockOverrideDomain: amazon.com
+           BlockOverrideTtl: 259200
+           FirewallDomainListId: !GetAtt DnsFirewallTldBlockList05.Id
+           Priority: 6
+        -
+           Action: BLOCK
+           BlockResponse: OVERRIDE
+           BlockOverrideDnsType: CNAME
+           BlockOverrideDomain: amazon.com
+           BlockOverrideTtl: 259200
+           FirewallDomainListId: !GetAtt DnsFirewallTldBlockList06.Id
+           Priority: 7
+        -
+           Action: BLOCK
+           BlockResponse: OVERRIDE
+           BlockOverrideDnsType: CNAME
+           BlockOverrideDomain: amazon.com
+           BlockOverrideTtl: 259200
+           FirewallDomainListId: !GetAtt DnsFirewallTldBlockList07.Id
+           Priority: 8
+        -
+           Action: BLOCK
+           BlockResponse: OVERRIDE
+           BlockOverrideDnsType: CNAME
+           BlockOverrideDomain: amazon.com
+           BlockOverrideTtl: 259200
+           FirewallDomainListId: !GetAtt DnsFirewallTldBlockList08.Id
+           Priority: 9
+        -
+           Action: BLOCK
+           BlockResponse: OVERRIDE
+           BlockOverrideDnsType: CNAME
+           BlockOverrideDomain: amazon.com
+           BlockOverrideTtl: 259200
+           FirewallDomainListId: !GetAtt DnsFirewallTldBlockList09.Id
+           Priority: 10
+        -
+           Action: BLOCK
+           BlockResponse: OVERRIDE
+           BlockOverrideDnsType: CNAME
+           BlockOverrideDomain: amazon.com
+           BlockOverrideTtl: 259200
+           FirewallDomainListId: !GetAtt DnsFirewallTldBlockList10.Id
+           Priority: 11
+        -
+           Action: BLOCK
+           BlockResponse: OVERRIDE
+           BlockOverrideDnsType: CNAME
+           BlockOverrideDomain: amazon.com
+           BlockOverrideTtl: 259200
+           FirewallDomainListId: !GetAtt DnsFirewallTldBlockList11.Id
+           Priority: 12
+
+      Name: "DnsFirewallTldBlockListRuleGroup00"
+
+  DnsFirewallSubdomainBlockListRuleGroup:
+    Type: AWS::Route53Resolver::FirewallRuleGroup
+    Properties:
+      FirewallRules:
+        -
+           Action: BLOCK
+           BlockResponse: OVERRIDE
+           BlockOverrideDnsType: CNAME
+           BlockOverrideDomain: amazon.com
+           BlockOverrideTtl: 259200
+           FirewallDomainListId: !GetAtt DnsFirewallSubdomainBlockList00.Id
+           Priority: 1
+        -
+           Action: BLOCK
+           BlockResponse: OVERRIDE
+           BlockOverrideDnsType: CNAME
+           BlockOverrideDomain: amazon.com
+           BlockOverrideTtl: 259200
+           FirewallDomainListId: !GetAtt DnsFirewallSubdomainBlockList01.Id
+           Priority: 2
+        -
+           Action: BLOCK
+           BlockResponse: OVERRIDE
+           BlockOverrideDnsType: CNAME
+           BlockOverrideDomain: amazon.com
+           BlockOverrideTtl: 259200
+           FirewallDomainListId: !GetAtt DnsFirewallSubdomainBlockList02.Id
+           Priority: 3
+        -
+           Action: BLOCK
+           BlockResponse: OVERRIDE
+           BlockOverrideDnsType: CNAME
+           BlockOverrideDomain: amazon.com
+           BlockOverrideTtl: 259200
+           FirewallDomainListId: !GetAtt DnsFirewallSubdomainBlockList03.Id
+           Priority: 4
+        -
+           Action: BLOCK
+           BlockResponse: OVERRIDE
+           BlockOverrideDnsType: CNAME
+           BlockOverrideDomain: amazon.com
+           BlockOverrideTtl: 259200
+           FirewallDomainListId: !GetAtt DnsFirewallSubdomainBlockList04.Id
+           Priority: 5
+        -
+           Action: BLOCK
+           BlockResponse: OVERRIDE
+           BlockOverrideDnsType: CNAME
+           BlockOverrideDomain: amazon.com
+           BlockOverrideTtl: 259200
+           FirewallDomainListId: !GetAtt DnsFirewallSubdomainBlockList05.Id
+           Priority: 6
+        -
+           Action: BLOCK
+           BlockResponse: OVERRIDE
+           BlockOverrideDnsType: CNAME
+           BlockOverrideDomain: amazon.com
+           BlockOverrideTtl: 259200
+           FirewallDomainListId: !GetAtt DnsFirewallSubdomainBlockList06.Id
+           Priority: 7
+        -
+           Action: BLOCK
+           BlockResponse: OVERRIDE
+           BlockOverrideDnsType: CNAME
+           BlockOverrideDomain: amazon.com
+           BlockOverrideTtl: 259200
+           FirewallDomainListId: !GetAtt DnsFirewallSubdomainBlockList07.Id
+           Priority: 8
+        -
+           Action: BLOCK
+           BlockResponse: OVERRIDE
+           BlockOverrideDnsType: CNAME
+           BlockOverrideDomain: amazon.com
+           BlockOverrideTtl: 259200
+           FirewallDomainListId: !GetAtt DnsFirewallSubdomainBlockList08.Id
+           Priority: 9
+        -
+           Action: BLOCK
+           BlockResponse: OVERRIDE
+           BlockOverrideDnsType: CNAME
+           BlockOverrideDomain: amazon.com
+           BlockOverrideTtl: 259200
+           FirewallDomainListId: !GetAtt DnsFirewallSubdomainBlockList09.Id
+           Priority: 10
+        -
+           Action: BLOCK
+           BlockResponse: OVERRIDE
+           BlockOverrideDnsType: CNAME
+           BlockOverrideDomain: amazon.com
+           BlockOverrideTtl: 259200
+           FirewallDomainListId: !GetAtt DnsFirewallSubdomainBlockList10.Id
+           Priority: 11
+        -
+           Action: BLOCK
+           BlockResponse: OVERRIDE
+           BlockOverrideDnsType: CNAME
+           BlockOverrideDomain: amazon.com
+           BlockOverrideTtl: 259200
+           FirewallDomainListId: !GetAtt DnsFirewallSubdomainBlockList11.Id
+           Priority: 12
+
+      Name: "DnsFirewallSubdomainBlockListRuleGroup"
+
+  # ###---Create VPC Associations---###
+
+  TldBlockListGroupAssociation00:
+    Type: AWS::Route53Resolver::FirewallRuleGroupAssociation
+    Properties: 
+      FirewallRuleGroupId: !Ref DnsFirewallTldBlockListRuleGroup00
+      Name: "TldBlockListGroupAssociation00"
+      Priority: 102
+      VpcId: !Ref LabVPC
+      MutationProtection: ENABLED
+
+  SubdomainBlockListGroupAssociation00:
+    Type: AWS::Route53Resolver::FirewallRuleGroupAssociation
+    Properties: 
+      FirewallRuleGroupId: !Ref DnsFirewallSubdomainBlockListRuleGroup
+      Name: "SubdomainBlockListGroupAssociation00"
+      Priority: 202
+      VpcId: !Ref LabVPC
+      MutationProtection: ENABLED
+
+  # ###---Create VPC---###
+
+  #VPC
+  LabVPC:
+    Type: AWS::EC2::VPC
+    Properties:
+      CidrBlock: 10.0.0.0/16
+      EnableDnsHostnames: true
+      EnableDnsSupport: true
+      InstanceTenancy: default
+      Tags:
+      - Key: Name
+        Value: Lab-VPC
