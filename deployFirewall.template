@@ -141,7 +141,7 @@ Resources:
            Action: BLOCK
            BlockResponse: OVERRIDE
            BlockOverrideDnsType: CNAME
-           BlockOverrideDomain: amazon.com
+           BlockOverrideDomain: amazon.com.
            BlockOverrideTtl: 259200
            FirewallDomainListId: !GetAtt DnsFirewallTldBlockList00.Id
            Priority: 1
@@ -149,7 +149,7 @@ Resources:
            Action: BLOCK
            BlockResponse: OVERRIDE
            BlockOverrideDnsType: CNAME
-           BlockOverrideDomain: amazon.com
+           BlockOverrideDomain: amazon.com.
            BlockOverrideTtl: 259200
            FirewallDomainListId: !GetAtt DnsFirewallTldBlockList01.Id
            Priority: 2
@@ -157,7 +157,7 @@ Resources:
            Action: BLOCK
            BlockResponse: OVERRIDE
            BlockOverrideDnsType: CNAME
-           BlockOverrideDomain: amazon.com
+           BlockOverrideDomain: amazon.com.
            BlockOverrideTtl: 259200
            FirewallDomainListId: !GetAtt DnsFirewallTldBlockList02.Id
            Priority: 3
@@ -165,7 +165,7 @@ Resources:
            Action: BLOCK
            BlockResponse: OVERRIDE
            BlockOverrideDnsType: CNAME
-           BlockOverrideDomain: amazon.com
+           BlockOverrideDomain: amazon.com.
            BlockOverrideTtl: 259200
            FirewallDomainListId: !GetAtt DnsFirewallTldBlockList03.Id
            Priority: 4
@@ -173,7 +173,7 @@ Resources:
            Action: BLOCK
            BlockResponse: OVERRIDE
            BlockOverrideDnsType: CNAME
-           BlockOverrideDomain: amazon.com
+           BlockOverrideDomain: amazon.com.
            BlockOverrideTtl: 259200
            FirewallDomainListId: !GetAtt DnsFirewallTldBlockList04.Id
            Priority: 5
@@ -181,7 +181,7 @@ Resources:
            Action: BLOCK
            BlockResponse: OVERRIDE
            BlockOverrideDnsType: CNAME
-           BlockOverrideDomain: amazon.com
+           BlockOverrideDomain: amazon.com.
            BlockOverrideTtl: 259200
            FirewallDomainListId: !GetAtt DnsFirewallTldBlockList05.Id
            Priority: 6
@@ -189,7 +189,7 @@ Resources:
            Action: BLOCK
            BlockResponse: OVERRIDE
            BlockOverrideDnsType: CNAME
-           BlockOverrideDomain: amazon.com
+           BlockOverrideDomain: amazon.com.
            BlockOverrideTtl: 259200
            FirewallDomainListId: !GetAtt DnsFirewallTldBlockList06.Id
            Priority: 7
@@ -197,7 +197,7 @@ Resources:
            Action: BLOCK
            BlockResponse: OVERRIDE
            BlockOverrideDnsType: CNAME
-           BlockOverrideDomain: amazon.com
+           BlockOverrideDomain: amazon.com.
            BlockOverrideTtl: 259200
            FirewallDomainListId: !GetAtt DnsFirewallTldBlockList07.Id
            Priority: 8
@@ -205,7 +205,7 @@ Resources:
            Action: BLOCK
            BlockResponse: OVERRIDE
            BlockOverrideDnsType: CNAME
-           BlockOverrideDomain: amazon.com
+           BlockOverrideDomain: amazon.com.
            BlockOverrideTtl: 259200
            FirewallDomainListId: !GetAtt DnsFirewallTldBlockList08.Id
            Priority: 9
@@ -213,7 +213,7 @@ Resources:
            Action: BLOCK
            BlockResponse: OVERRIDE
            BlockOverrideDnsType: CNAME
-           BlockOverrideDomain: amazon.com
+           BlockOverrideDomain: amazon.com.
            BlockOverrideTtl: 259200
            FirewallDomainListId: !GetAtt DnsFirewallTldBlockList09.Id
            Priority: 10
@@ -221,7 +221,7 @@ Resources:
            Action: BLOCK
            BlockResponse: OVERRIDE
            BlockOverrideDnsType: CNAME
-           BlockOverrideDomain: amazon.com
+           BlockOverrideDomain: amazon.com.
            BlockOverrideTtl: 259200
            FirewallDomainListId: !GetAtt DnsFirewallTldBlockList10.Id
            Priority: 11
@@ -229,7 +229,7 @@ Resources:
            Action: BLOCK
            BlockResponse: OVERRIDE
            BlockOverrideDnsType: CNAME
-           BlockOverrideDomain: amazon.com
+           BlockOverrideDomain: amazon.com.
            BlockOverrideTtl: 259200
            FirewallDomainListId: !GetAtt DnsFirewallTldBlockList11.Id
            Priority: 12
@@ -244,7 +244,7 @@ Resources:
            Action: BLOCK
            BlockResponse: OVERRIDE
            BlockOverrideDnsType: CNAME
-           BlockOverrideDomain: amazon.com
+           BlockOverrideDomain: amazon.com.
            BlockOverrideTtl: 259200
            FirewallDomainListId: !GetAtt DnsFirewallSubdomainBlockList00.Id
            Priority: 1
@@ -252,7 +252,7 @@ Resources:
            Action: BLOCK
            BlockResponse: OVERRIDE
            BlockOverrideDnsType: CNAME
-           BlockOverrideDomain: amazon.com
+           BlockOverrideDomain: amazon.com.
            BlockOverrideTtl: 259200
            FirewallDomainListId: !GetAtt DnsFirewallSubdomainBlockList01.Id
            Priority: 2
@@ -260,7 +260,7 @@ Resources:
            Action: BLOCK
            BlockResponse: OVERRIDE
            BlockOverrideDnsType: CNAME
-           BlockOverrideDomain: amazon.com
+           BlockOverrideDomain: amazon.com.
            BlockOverrideTtl: 259200
            FirewallDomainListId: !GetAtt DnsFirewallSubdomainBlockList02.Id
            Priority: 3
@@ -268,7 +268,7 @@ Resources:
            Action: BLOCK
            BlockResponse: OVERRIDE
            BlockOverrideDnsType: CNAME
-           BlockOverrideDomain: amazon.com
+           BlockOverrideDomain: amazon.com.
            BlockOverrideTtl: 259200
            FirewallDomainListId: !GetAtt DnsFirewallSubdomainBlockList03.Id
            Priority: 4
@@ -276,7 +276,7 @@ Resources:
            Action: BLOCK
            BlockResponse: OVERRIDE
            BlockOverrideDnsType: CNAME
-           BlockOverrideDomain: amazon.com
+           BlockOverrideDomain: amazon.com.
            BlockOverrideTtl: 259200
            FirewallDomainListId: !GetAtt DnsFirewallSubdomainBlockList04.Id
            Priority: 5
@@ -284,7 +284,7 @@ Resources:
            Action: BLOCK
            BlockResponse: OVERRIDE
            BlockOverrideDnsType: CNAME
-           BlockOverrideDomain: amazon.com
+           BlockOverrideDomain: amazon.com.
            BlockOverrideTtl: 259200
            FirewallDomainListId: !GetAtt DnsFirewallSubdomainBlockList05.Id
            Priority: 6
@@ -292,7 +292,7 @@ Resources:
            Action: BLOCK
            BlockResponse: OVERRIDE
            BlockOverrideDnsType: CNAME
-           BlockOverrideDomain: amazon.com
+           BlockOverrideDomain: amazon.com.
            BlockOverrideTtl: 259200
            FirewallDomainListId: !GetAtt DnsFirewallSubdomainBlockList06.Id
            Priority: 7
@@ -300,7 +300,7 @@ Resources:
            Action: BLOCK
            BlockResponse: OVERRIDE
            BlockOverrideDnsType: CNAME
-           BlockOverrideDomain: amazon.com
+           BlockOverrideDomain: amazon.com.
            BlockOverrideTtl: 259200
            FirewallDomainListId: !GetAtt DnsFirewallSubdomainBlockList07.Id
            Priority: 8
@@ -308,7 +308,7 @@ Resources:
            Action: BLOCK
            BlockResponse: OVERRIDE
            BlockOverrideDnsType: CNAME
-           BlockOverrideDomain: amazon.com
+           BlockOverrideDomain: amazon.com.
            BlockOverrideTtl: 259200
            FirewallDomainListId: !GetAtt DnsFirewallSubdomainBlockList08.Id
            Priority: 9
@@ -316,7 +316,7 @@ Resources:
            Action: BLOCK
            BlockResponse: OVERRIDE
            BlockOverrideDnsType: CNAME
-           BlockOverrideDomain: amazon.com
+           BlockOverrideDomain: amazon.com.
            BlockOverrideTtl: 259200
            FirewallDomainListId: !GetAtt DnsFirewallSubdomainBlockList09.Id
            Priority: 10
@@ -324,7 +324,7 @@ Resources:
            Action: BLOCK
            BlockResponse: OVERRIDE
            BlockOverrideDnsType: CNAME
-           BlockOverrideDomain: amazon.com
+           BlockOverrideDomain: amazon.com.
            BlockOverrideTtl: 259200
            FirewallDomainListId: !GetAtt DnsFirewallSubdomainBlockList10.Id
            Priority: 11
@@ -332,7 +332,7 @@ Resources:
            Action: BLOCK
            BlockResponse: OVERRIDE
            BlockOverrideDnsType: CNAME
-           BlockOverrideDomain: amazon.com
+           BlockOverrideDomain: amazon.com.
            BlockOverrideTtl: 259200
            FirewallDomainListId: !GetAtt DnsFirewallSubdomainBlockList11.Id
            Priority: 12
@@ -362,13 +362,13 @@ Resources:
   # ###---Create VPC---###
 
   #VPC
-  LabVPC:
-    Type: AWS::EC2::VPC
-    Properties:
-      CidrBlock: 10.0.0.0/16
-      EnableDnsHostnames: true
-      EnableDnsSupport: true
-      InstanceTenancy: default
-      Tags:
-      - Key: Name
-        Value: Lab-VPC
+  # LabVPC:
+  #   Type: AWS::EC2::VPC
+  #   Properties:
+  #     CidrBlock: 10.0.0.0/16
+  #     EnableDnsHostnames: true
+  #     EnableDnsSupport: true
+  #     InstanceTenancy: default
+  #     Tags:
+  #     - Key: Name
+  #       Value: Lab-VPC
