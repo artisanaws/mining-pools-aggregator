@@ -1,6 +1,5 @@
 from helpers import process_folder
 
-
 def generate_lists():
     """
     Creates lists to be used in a firewall. Specifically:
@@ -16,12 +15,14 @@ def generate_lists():
         f.write("\n".join(final_tlds))
     print(f'> DONE. Lists generated and contain {len(final_tlds)} TLDs.')
 
-    subdomains = open("lists/subdomains.txt", "w") 
-    for domain in final_tlds: 
-        subdomains.write("*.{}".format(domain)) 
-        subdomains.write("\n") 
-    subdomains.close() 
-    print(f'> DONE. Subdomain list generated.') 
-    
-if __name__ == '__main__': 
+    subdomains = open("lists/subdomains.txt", "w")
+    for domain in final_tlds:
+        subdomains.write("*.{}".format(domain))
+        subdomains.write("\n")
+    subdomains.close()
+    print(f'> DONE. Subdomain list generated.')
+
+    return final_tlds
+
+if __name__ == '__main__':
     generate_lists()
