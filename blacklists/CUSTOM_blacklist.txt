@@ -1,6 +1,4 @@
-#
 # add your names below
-
 ethereum.org
 bitcoin.org
 arweave.org
