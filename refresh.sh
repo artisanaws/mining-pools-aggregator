@@ -11,9 +11,22 @@ pipenv run python generate_subdomains.py
 echo "==================================="
 echo "Formating Route 53 Resolver DNS Firewall domain lists"
 echo "==================================="
-split -l 1024 -d ./lists/tlds.txt ./R53domainlists/TldDomainList 
+
+# Delete contents of R53domainlists folder (if any)
+rm -rf ./R53domainlists/*
+
+split -l 1024 -d ./lists/tlds.txt ./R53domainlists/TldDomainList
 split -l 1024 -d ./lists/subdomains.txt ./R53domainlists/SubdomainDomainList
-rename 's/$/.txt/' ./R53domainlists/*
+
+# Rename files using a loop with mv
+for file in ./R53domainlists/*
+do
+    mv "$file" "${file}.txt"
+done
+
+echo "==================================="
+echo "Domain lists formated and saved locally"
+echo "==================================="
 
 echo "==================================="
 echo "Domain lists are ready to be uploaded to S3"
