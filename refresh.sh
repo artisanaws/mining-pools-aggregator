@@ -1,5 +1,5 @@
 echo "==================================="
-echo "Generating initial lists"
+echo "Searching for new domains"
 echo "==================================="
 pipenv run python generate_lists.py
 
